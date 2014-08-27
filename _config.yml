@@ -1,0 +1,12 @@
+# Site settings
+title: Active Memory Documentation Site 
+email: davidxkohn@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Documentation for the Active Memory Project.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+#twitter_username: jekyllrb
+github_username: davidkohn
+
+# Build settings
+markdown: kramdown
