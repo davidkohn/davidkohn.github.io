@@ -3,6 +3,10 @@ layout: page
 title: "275 Symmetry Span"
 category: doc
 date: 2014-08-27 17:16:50
+image1: /assets/game_275_mean.png
+image2: /assets/game_275_adj_mean.png
+image3: /assets/game_275_no_gamesets.png
+image4: /assets/game_275_no_players.png
 ---
 
 ### Contents
@@ -78,7 +82,131 @@ date: 2014-08-27 17:16:50
 <li>pause -> spanpause if 2 + <em>i</em> loops between pause and symmetry where <em>i</em> = level - 1</li>
 </ul>
 </ul>
+</ul>
 </p>
+
+## Stimulus
+<p>
+<ul>
+<li>channel: span </li>
+<ul><li>symmetry span - 8 animals </li></ul>
+<li>channel: symmetryLeft </li>
+<ul><li>cue pool: symmetry span - A Left</li></ul>
+<li>channel: symmetryRight</li>
+<ul><li>cue pool: symmetry span - A Right</li></ul>
+</ul>
+</ul>
+</p>
+
+## Rules
+<p>
+<ul>
+<li>ID: 358</li>
+<ul><li>criteria: (followleft.ordinalityValue() == followright.ordinalityValue() && ((followleft.containsTag('left') && followright.containsTag('I_flip')) || (followleft.containsTag('r_flip') && followright.containsTag('right')))</li></ul>
+<li>ID: 607</li>
+<ul><li>criteria: symmetryLeft.ordinalityValue() == symmetryright.ordinalityValue()</li></ul>
+</ul>
+</p>
+
+## Buttons
+<p>
+<ul>
+<li>Name: Memory - Down - label left</li>
+<ul><li>tags: no</li>
+<li>ID: 569</li>
+</ul>
+<li>Name: Memory - Up - label left</li>
+<ul><li>tags: yes</li>
+<li>ID: 568</li>
+</ul>
+</ul>
+</p>
+
+## Palettes
+<p>
+<ul>
+<li>palette: symmetry span</li>
+<li>modes: spancollection</li>
+</ul>
+</p>
+
+## Collections
+<p>
+<ul>
+<li>modes: spancollection</li>
+<li>channel: span</li>
+</ul>
+</p>
+
+## Score Events
+<p>
+<ul>
+<li>ID: 883</li>
+<ul>
+<li>score name: correct_non_response</li>
+<li>channel: followleft</li>
+<li>label: incorrect symmetry</li>
+<li>weight: 2.0</li>
+<li>play events</li>
+<ul><li>start correct</li></ul>
+<li>penalty play events</li>
+<ul><li>incorrect start</li>
+<li>symmetry end</li>
+<li>pause start</li>
+</ul>
+</ul>
+<li>ID: 695</li>
+<ul>
+<li>score name: correct_cue_position</li>
+<li>channel: span</li>
+<li>label: symbols remembered</li>
+<li>weight: 5.0</li>
+</ul>
+<li>ID: 696</li>
+<ul>
+<li>score name: correct_response</li>
+<li>channel: followleft</li>
+<li>label: correct symmetry</li>
+<li>weight: 2.0</li>
+<li>play events</li>
+<ul><li>end symmetry</li>
+<li>start pause</li>
+<li>start correct</li>
+</ul>
+<li>penalty play events</li>
+<ul>
+<li>start incorrect</li>
+</ul>
+</ul>
+</ul>
+</p>
+
+## Functions
+<p>
+<ul>
+<li>knowledge: 97</li>
+<li>flexibility: 300</li>
+<li>memory: 500</li>
+<li>attention: 96</li>
+</ul>
+</p>
+
+## Modalities
+<p>
+<ul>
+<li>numeric: 75</li>
+<li>symbolic: 700</li>
+<li>language: 75</li>
+<li>auditory: 75</li>
+<li>spatial: 75</li>
+</ul>
+</p>
+
+## Charts
+![Game 275 - mean]({{ page.image1}})
+![Game 275 - adjusted mean]({{page.image2}})
+![Game 275 - no. gamesets]({{page.image3}})
+![Game 275 - no. players]({{page.image4}})
 
 
 
