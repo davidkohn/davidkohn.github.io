@@ -36,12 +36,11 @@ json1: /assets/json-285.txt
 <li>Two stimuli are presented each time. The stimuli are two words which are the names of colors. The words are also colored in themselves. The user is asked if 'meaning' and 'color' match. </li>
 <li>The game has a targetscore component.</li>
 <ul>
-<li>An initial 'l' target scores are generated where 'l' is the level number, e.g. 1 target scores on level 1, 15 target scores on level 15.</li>
+<li>Two target scores are generated on any given level. An additional (l - 1) target scores are generated where 'l' is the level number. For example, 0 additional target scores are generated on level 1 but the 2 original target scores are generated for a total of 2 target score events on level 1.</li>
 <li>Target score events have a weight of 1.0.</li>
-<li>A target score event is also generated for the last question as the user is never able to answer the last question, i.e. the game will always end when the user is looking at a question.</li>
 </ul>
 <li>Correct responses, i.e. correctresponse, have a weight of 1.0.</li>
-<li>Score is determined as (1.0 * no. correct responses) / (((level no. + 1) * 1.0) + (no. stimuli presented * 1.0))</li>
+<li>Score is determined as (1.0 * no. correct responses) / (((2 + (level no. - 1)) * 1.0) + (no. stimuli presented * 1.0))</li>
 <li>For example, if the user answers 2 out of 3 questions correct on level 1 their score will be, 2/5 or 40%. If the user answers 1 out of 4 questions correctly on level 15 their score will be 1/20 or 5%.</li>
 </ul>
 </p>
