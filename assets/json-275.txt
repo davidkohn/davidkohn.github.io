@@ -1,0 +1,551 @@
+{
+	"play_data" : [
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T06:50:40.589Z",
+			"details" : "symmetry"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T06:50:40.590Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 6290
+				},
+				"channel" : "span"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T06:50:40.591Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 6278
+				},
+				"channel" : "symmetryright"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T06:50:40.600Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 6225
+				},
+				"channel" : "symmetryleft"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T06:50:40.600Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 6278
+				},
+				"channel" : "followright"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T06:50:40.601Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 6225
+				},
+				"channel" : "followleft"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T06:50:40.602Z",
+			"details" : "controls"
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T06:50:43.415Z",
+			"details" : {
+				"eventType" : "modeEvent",
+				"id" : 569,
+				"payLoad" : {
+					"type" : "start",
+					"modes" : [
+						"pause"
+					]
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T06:50:43.415Z",
+			"details" : {
+				"eventType" : "modeEvent",
+				"id" : 569,
+				"payLoad" : {
+					"type" : "end",
+					"modes" : [
+						"symmetry"
+					]
+				}
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T06:50:43.415Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T06:50:43.416Z",
+			"details" : "symmetry"
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T06:50:43.417Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 6290
+				},
+				"channel" : "span"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T06:50:43.417Z",
+			"details" : {
+				"cue_id" : 6290,
+				"channel" : "span"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T06:50:43.418Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 6278
+				},
+				"channel" : "symmetryright"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T06:50:43.418Z",
+			"details" : {
+				"cue_id" : 6278,
+				"channel" : "symmetryright"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T06:50:43.419Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 6225
+				},
+				"channel" : "symmetryleft"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T06:50:43.419Z",
+			"details" : {
+				"evaluation" : "incorrectNonResponse",
+				"channel" : "symmetryleft"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T06:50:43.420Z",
+			"details" : {
+				"cue_id" : 6225,
+				"channel" : "symmetryleft"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T06:50:43.421Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 6278
+				},
+				"channel" : "followright"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T06:50:43.421Z",
+			"details" : {
+				"cue_id" : 6278,
+				"channel" : "followright"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T06:50:43.422Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 6225
+				},
+				"channel" : "followleft"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T06:50:43.423Z",
+			"details" : {
+				"evaluation" : "correctNonResponse",
+				"channel" : "followleft"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T06:50:43.424Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T06:50:43.426Z",
+			"details" : {
+				"cue_id" : 6225,
+				"channel" : "followleft"
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T06:50:43.531Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T06:50:43.611Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T06:50:43.612Z",
+			"details" : "symmetry"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T06:50:43.612Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 6294
+				},
+				"channel" : "span"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T06:50:43.613Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 6261
+				},
+				"channel" : "symmetryright"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T06:50:43.615Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 6227
+				},
+				"channel" : "symmetryleft"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T06:50:43.616Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 6261
+				},
+				"channel" : "followright"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T06:50:43.617Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 6227
+				},
+				"channel" : "followleft"
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T06:50:51.449Z",
+			"details" : {
+				"eventType" : "ruleEvent",
+				"id" : 568,
+				"payLoad" : {
+					"id" : 358
+				}
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T06:50:51.450Z",
+			"details" : {
+				"evaluation" : "correctResponse",
+				"rule" : 358,
+				"channel" : "followleft"
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T06:50:51.451Z",
+			"details" : "symmetry"
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T06:50:51.451Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 6294
+				},
+				"channel" : "span"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T06:50:51.451Z",
+			"details" : {
+				"cue_id" : 6294,
+				"channel" : "span"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T06:50:51.452Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 6261
+				},
+				"channel" : "symmetryright"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T06:50:51.452Z",
+			"details" : {
+				"cue_id" : 6261,
+				"channel" : "symmetryright"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T06:50:51.452Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 6227
+				},
+				"channel" : "symmetryleft"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T06:50:51.453Z",
+			"details" : {
+				"evaluation" : "incorrectNonResponse",
+				"channel" : "symmetryleft"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T06:50:51.453Z",
+			"details" : {
+				"cue_id" : 6227,
+				"channel" : "symmetryleft"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T06:50:51.454Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 6261
+				},
+				"channel" : "followright"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T06:50:51.454Z",
+			"details" : {
+				"cue_id" : 6261,
+				"channel" : "followright"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T06:50:51.455Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 6227
+				},
+				"channel" : "followleft"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T06:50:51.455Z",
+			"details" : {
+				"cue_id" : 6227,
+				"channel" : "followleft"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T06:50:51.456Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T06:50:51.457Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T06:50:51.557Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T06:50:51.601Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T06:50:51.601Z",
+			"details" : "spanpause"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T06:50:51.770Z",
+			"details" : "spanpause"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T06:50:51.770Z",
+			"details" : "symmetry"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T06:50:51.770Z",
+			"details" : "controls"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T06:50:51.771Z",
+			"details" : "spancollection"
+		},
+		{
+			"action" : "palette_press",
+			"timestamp" : "2014-02-20T06:50:54.186Z",
+			"details" : {
+				"eventType" : "channelCueEvent",
+				"id" : 39,
+				"payLoad" : {
+					"cue" : 6290,
+					"channel" : "span"
+				}
+			}
+		},
+		{
+			"action" : "cue_evaluation",
+			"timestamp" : "2014-02-20T06:50:54.188Z",
+			"details" : "correctCuePosition",
+			"channel" : "span"
+		},
+		{
+			"action" : "cue_evaluation",
+			"timestamp" : "2014-02-20T06:50:54.188Z",
+			"details" : "correctCue",
+			"channel" : "span"
+		},
+		{
+			"action" : "palette_press",
+			"timestamp" : "2014-02-20T06:50:54.964Z",
+			"details" : {
+				"eventType" : "channelCueEvent",
+				"id" : 43,
+				"payLoad" : {
+					"cue" : 6294,
+					"channel" : "span"
+				}
+			}
+		},
+		{
+			"action" : "cue_evaluation",
+			"timestamp" : "2014-02-20T06:50:54.964Z",
+			"details" : "correctCuePosition",
+			"channel" : "span"
+		},
+		{
+			"action" : "cue_evaluation",
+			"timestamp" : "2014-02-20T06:50:54.965Z",
+			"details" : "correctCue",
+			"channel" : "span"
+		},
+		{
+			"action" : "cue_evaluation",
+			"timestamp" : "2014-02-20T06:50:54.965Z",
+			"details" : "allCuesPerfect",
+			"channel" : "span"
+		},
+		{
+			"action" : "cue_evaluation",
+			"timestamp" : "2014-02-20T06:50:54.966Z",
+			"details" : "allCuesPresent",
+			"channel" : "span"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T06:50:55.968Z",
+			"details" : "gameOver"
+		}
+	]
+}

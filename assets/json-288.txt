@@ -1,0 +1,4049 @@
+{
+	"play_data" : [
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:22:30.910Z",
+			"details" : "intro"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T07:22:30.946Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 9583
+				},
+				"channel" : "intro"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T07:22:31.969Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 9583
+				},
+				"channel" : "intro"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T07:22:31.970Z",
+			"details" : {
+				"cue_id" : 9583,
+				"channel" : "intro"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T07:22:31.990Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 9582
+				},
+				"channel" : "intro"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T07:22:33.018Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 9582
+				},
+				"channel" : "intro"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T07:22:33.019Z",
+			"details" : {
+				"cue_id" : 9582,
+				"channel" : "intro"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T07:22:33.038Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 9581
+				},
+				"channel" : "intro"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T07:22:34.062Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 9581
+				},
+				"channel" : "intro"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T07:22:34.062Z",
+			"details" : {
+				"cue_id" : 9581,
+				"channel" : "intro"
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:22:34.062Z",
+			"details" : "intro"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:22:34.063Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T07:22:34.064Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3588
+				},
+				"channel" : "equations"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T07:22:34.065Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3588
+				},
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:22:34.066Z",
+			"details" : "timer"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:22:34.066Z",
+			"details" : "controls"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:22:36.151Z",
+			"details" : "timer"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:22:36.152Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T07:22:36.153Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3588
+				},
+				"channel" : "equations"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T07:22:36.153Z",
+			"details" : {
+				"cue_id" : 3588,
+				"channel" : "equations"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T07:22:36.153Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3588
+				},
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-19T07:22:36.155Z",
+			"details" : {
+				"evaluation" : "incorrectNonResponse",
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T07:22:36.155Z",
+			"details" : {
+				"cue_id" : 3588,
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:22:36.157Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:22:36.277Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:22:36.278Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T07:22:36.278Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3588
+				},
+				"channel" : "equations"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T07:22:36.278Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3587
+				},
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:22:36.278Z",
+			"details" : "timer"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:22:38.361Z",
+			"details" : "timer"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:22:38.362Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T07:22:38.362Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3588
+				},
+				"channel" : "equations"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T07:22:38.362Z",
+			"details" : {
+				"cue_id" : 3588,
+				"channel" : "equations"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T07:22:38.362Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3587
+				},
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-19T07:22:38.362Z",
+			"details" : {
+				"evaluation" : "incorrectNonResponse",
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T07:22:38.363Z",
+			"details" : {
+				"cue_id" : 3587,
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:22:38.364Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:22:38.484Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:22:38.484Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T07:22:38.484Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3590
+				},
+				"channel" : "equations"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T07:22:38.484Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3587
+				},
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:22:38.485Z",
+			"details" : "timer"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:22:40.563Z",
+			"details" : "timer"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:22:40.564Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T07:22:40.564Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3590
+				},
+				"channel" : "equations"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T07:22:40.564Z",
+			"details" : {
+				"cue_id" : 3590,
+				"channel" : "equations"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T07:22:40.564Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3587
+				},
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-19T07:22:40.564Z",
+			"details" : {
+				"evaluation" : "incorrectNonResponse",
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T07:22:40.564Z",
+			"details" : {
+				"cue_id" : 3587,
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:22:40.565Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:22:40.687Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:22:40.688Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T07:22:40.688Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3601
+				},
+				"channel" : "equations"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T07:22:40.688Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3592
+				},
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:22:40.689Z",
+			"details" : "timer"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:22:42.763Z",
+			"details" : "timer"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:22:42.763Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T07:22:42.763Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3601
+				},
+				"channel" : "equations"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T07:22:42.764Z",
+			"details" : {
+				"cue_id" : 3601,
+				"channel" : "equations"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T07:22:42.764Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3592
+				},
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-19T07:22:42.765Z",
+			"details" : {
+				"evaluation" : "incorrectNonResponse",
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T07:22:42.765Z",
+			"details" : {
+				"cue_id" : 3592,
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:22:42.765Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:22:42.888Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:22:42.888Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T07:22:42.889Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3602
+				},
+				"channel" : "equations"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T07:22:42.889Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3597
+				},
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:22:42.889Z",
+			"details" : "timer"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:22:44.969Z",
+			"details" : "timer"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:22:44.969Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T07:22:44.969Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3602
+				},
+				"channel" : "equations"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T07:22:44.969Z",
+			"details" : {
+				"cue_id" : 3602,
+				"channel" : "equations"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T07:22:44.969Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3597
+				},
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-19T07:22:44.970Z",
+			"details" : {
+				"evaluation" : "incorrectNonResponse",
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T07:22:44.970Z",
+			"details" : {
+				"cue_id" : 3597,
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:22:44.970Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:22:45.094Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:22:45.095Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T07:22:45.095Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3600
+				},
+				"channel" : "equations"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T07:22:45.096Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3602
+				},
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:22:45.096Z",
+			"details" : "timer"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:22:47.176Z",
+			"details" : "timer"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:22:47.177Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T07:22:47.177Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3600
+				},
+				"channel" : "equations"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T07:22:47.177Z",
+			"details" : {
+				"cue_id" : 3600,
+				"channel" : "equations"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T07:22:47.177Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3602
+				},
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-19T07:22:47.177Z",
+			"details" : {
+				"evaluation" : "incorrectNonResponse",
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T07:22:47.178Z",
+			"details" : {
+				"cue_id" : 3602,
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:22:47.179Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:22:47.301Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:22:47.302Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T07:22:47.302Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3601
+				},
+				"channel" : "equations"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T07:22:47.302Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3588
+				},
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:22:47.302Z",
+			"details" : "timer"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:22:49.385Z",
+			"details" : "timer"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:22:49.386Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T07:22:49.386Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3601
+				},
+				"channel" : "equations"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T07:22:49.386Z",
+			"details" : {
+				"cue_id" : 3601,
+				"channel" : "equations"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T07:22:49.386Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3588
+				},
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-19T07:22:49.386Z",
+			"details" : {
+				"evaluation" : "incorrectNonResponse",
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T07:22:49.387Z",
+			"details" : {
+				"cue_id" : 3588,
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:22:49.388Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:22:49.511Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:22:49.512Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T07:22:49.512Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3597
+				},
+				"channel" : "equations"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T07:22:49.512Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3597
+				},
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:22:49.512Z",
+			"details" : "timer"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:22:51.595Z",
+			"details" : "timer"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:22:51.595Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T07:22:51.595Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3597
+				},
+				"channel" : "equations"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T07:22:51.595Z",
+			"details" : {
+				"cue_id" : 3597,
+				"channel" : "equations"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T07:22:51.595Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3597
+				},
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-19T07:22:51.596Z",
+			"details" : {
+				"evaluation" : "incorrectNonResponse",
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T07:22:51.597Z",
+			"details" : {
+				"cue_id" : 3597,
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:22:51.598Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:22:51.718Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:22:51.719Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T07:22:51.719Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3589
+				},
+				"channel" : "equations"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T07:22:51.719Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3595
+				},
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:22:51.719Z",
+			"details" : "timer"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:22:53.803Z",
+			"details" : "timer"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:22:53.803Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T07:22:53.803Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3589
+				},
+				"channel" : "equations"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T07:22:53.803Z",
+			"details" : {
+				"cue_id" : 3589,
+				"channel" : "equations"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T07:22:53.804Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3595
+				},
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-19T07:22:53.804Z",
+			"details" : {
+				"evaluation" : "incorrectNonResponse",
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T07:22:53.804Z",
+			"details" : {
+				"cue_id" : 3595,
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:22:53.805Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:22:53.927Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:22:53.928Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T07:22:53.928Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3600
+				},
+				"channel" : "equations"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T07:22:53.928Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3587
+				},
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:22:53.929Z",
+			"details" : "timer"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:22:56.013Z",
+			"details" : "timer"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:22:56.013Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T07:22:56.013Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3600
+				},
+				"channel" : "equations"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T07:22:56.013Z",
+			"details" : {
+				"cue_id" : 3600,
+				"channel" : "equations"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T07:22:56.013Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3587
+				},
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-19T07:22:56.014Z",
+			"details" : {
+				"evaluation" : "incorrectNonResponse",
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T07:22:56.015Z",
+			"details" : {
+				"cue_id" : 3587,
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:22:56.015Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:22:56.136Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:22:56.137Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T07:22:56.137Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3593
+				},
+				"channel" : "equations"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T07:22:56.137Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3594
+				},
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:22:56.138Z",
+			"details" : "timer"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:22:58.227Z",
+			"details" : "timer"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:22:58.227Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T07:22:58.227Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3593
+				},
+				"channel" : "equations"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T07:22:58.228Z",
+			"details" : {
+				"cue_id" : 3593,
+				"channel" : "equations"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T07:22:58.228Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3594
+				},
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-19T07:22:58.228Z",
+			"details" : {
+				"evaluation" : "incorrectNonResponse",
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T07:22:58.229Z",
+			"details" : {
+				"cue_id" : 3594,
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:22:58.229Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:22:58.351Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:22:58.352Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T07:22:58.352Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3589
+				},
+				"channel" : "equations"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T07:22:58.352Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3598
+				},
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:22:58.352Z",
+			"details" : "timer"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:00.439Z",
+			"details" : "timer"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:00.439Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T07:23:00.439Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3589
+				},
+				"channel" : "equations"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T07:23:00.439Z",
+			"details" : {
+				"cue_id" : 3589,
+				"channel" : "equations"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T07:23:00.440Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3598
+				},
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-19T07:23:00.440Z",
+			"details" : {
+				"evaluation" : "incorrectNonResponse",
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T07:23:00.440Z",
+			"details" : {
+				"cue_id" : 3598,
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:23:00.441Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:00.562Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:23:00.563Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T07:23:00.563Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3601
+				},
+				"channel" : "equations"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T07:23:00.563Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3600
+				},
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:23:00.564Z",
+			"details" : "timer"
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-19T07:23:02.177Z",
+			"details" : {
+				"eventType" : "modeEvent",
+				"id" : 606,
+				"payLoad" : {
+					"type" : "end",
+					"modes" : [
+						"stimulus",
+						"timer"
+					]
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-19T07:23:02.177Z",
+			"details" : {
+				"eventType" : "ruleEvent",
+				"id" : 606,
+				"payLoad" : {
+					"id" : 410
+				}
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:02.177Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T07:23:02.177Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3601
+				},
+				"channel" : "equations"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T07:23:02.178Z",
+			"details" : {
+				"cue_id" : 3601,
+				"channel" : "equations"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T07:23:02.178Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3600
+				},
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-19T07:23:02.178Z",
+			"details" : {
+				"evaluation" : "incorrectNonResponse",
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T07:23:02.178Z",
+			"details" : {
+				"cue_id" : 3600,
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:23:02.179Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:02.179Z",
+			"details" : "timer"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:02.180Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-19T07:23:02.180Z",
+			"details" : {
+				"evaluation" : "correctResponse",
+				"rule" : 410,
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:23:02.181Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:02.295Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:23:02.295Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T07:23:02.295Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3589
+				},
+				"channel" : "equations"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T07:23:02.296Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3597
+				},
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:23:02.296Z",
+			"details" : "timer"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:02.296Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-19T07:23:03.657Z",
+			"details" : {
+				"eventType" : "modeEvent",
+				"id" : 606,
+				"payLoad" : {
+					"type" : "end",
+					"modes" : [
+						"stimulus",
+						"timer"
+					]
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-19T07:23:03.657Z",
+			"details" : {
+				"eventType" : "ruleEvent",
+				"id" : 606,
+				"payLoad" : {
+					"id" : 410
+				}
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:03.657Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T07:23:03.657Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3589
+				},
+				"channel" : "equations"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T07:23:03.657Z",
+			"details" : {
+				"cue_id" : 3589,
+				"channel" : "equations"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T07:23:03.657Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3597
+				},
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-19T07:23:03.657Z",
+			"details" : {
+				"evaluation" : "incorrectNonResponse",
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T07:23:03.658Z",
+			"details" : {
+				"cue_id" : 3597,
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:23:03.659Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:03.659Z",
+			"details" : "timer"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:03.659Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-19T07:23:03.660Z",
+			"details" : {
+				"evaluation" : "correctResponse",
+				"rule" : 410,
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:23:03.660Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:03.778Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:23:03.778Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T07:23:03.779Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3599
+				},
+				"channel" : "equations"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T07:23:03.779Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3594
+				},
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:23:03.779Z",
+			"details" : "timer"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:03.779Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-19T07:23:05.744Z",
+			"details" : {
+				"eventType" : "modeEvent",
+				"id" : 605,
+				"payLoad" : {
+					"type" : "end",
+					"modes" : [
+						"stimulus",
+						"timer"
+					]
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-19T07:23:05.744Z",
+			"details" : {
+				"eventType" : "ruleEvent",
+				"id" : 605,
+				"payLoad" : {
+					"id" : 409
+				}
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:05.744Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T07:23:05.745Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3599
+				},
+				"channel" : "equations"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T07:23:05.745Z",
+			"details" : {
+				"cue_id" : 3599,
+				"channel" : "equations"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T07:23:05.745Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3594
+				},
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-19T07:23:05.745Z",
+			"details" : {
+				"evaluation" : "incorrectNonResponse",
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T07:23:05.746Z",
+			"details" : {
+				"cue_id" : 3594,
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:23:05.746Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:05.747Z",
+			"details" : "timer"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:05.747Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-19T07:23:05.748Z",
+			"details" : {
+				"evaluation" : "correctResponse",
+				"rule" : 409,
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:23:05.748Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:05.864Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:23:05.865Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T07:23:05.865Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3587
+				},
+				"channel" : "equations"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T07:23:05.865Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3593
+				},
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:23:05.865Z",
+			"details" : "timer"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:05.866Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-19T07:23:07.400Z",
+			"details" : {
+				"eventType" : "modeEvent",
+				"id" : 606,
+				"payLoad" : {
+					"type" : "end",
+					"modes" : [
+						"stimulus",
+						"timer"
+					]
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-19T07:23:07.400Z",
+			"details" : {
+				"eventType" : "ruleEvent",
+				"id" : 606,
+				"payLoad" : {
+					"id" : 410
+				}
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:07.400Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T07:23:07.400Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3587
+				},
+				"channel" : "equations"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T07:23:07.400Z",
+			"details" : {
+				"cue_id" : 3587,
+				"channel" : "equations"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T07:23:07.401Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3593
+				},
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-19T07:23:07.401Z",
+			"details" : {
+				"evaluation" : "incorrectNonResponse",
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T07:23:07.401Z",
+			"details" : {
+				"cue_id" : 3593,
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:23:07.402Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:07.402Z",
+			"details" : "timer"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:07.402Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-19T07:23:07.402Z",
+			"details" : {
+				"evaluation" : "correctResponse",
+				"rule" : 410,
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:23:07.402Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:07.512Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:23:07.512Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T07:23:07.512Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3597
+				},
+				"channel" : "equations"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T07:23:07.513Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3593
+				},
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:23:07.513Z",
+			"details" : "timer"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:07.513Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:09.602Z",
+			"details" : "timer"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:09.603Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T07:23:09.603Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3597
+				},
+				"channel" : "equations"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T07:23:09.603Z",
+			"details" : {
+				"cue_id" : 3597,
+				"channel" : "equations"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T07:23:09.603Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3593
+				},
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-19T07:23:09.604Z",
+			"details" : {
+				"evaluation" : "incorrectNonResponse",
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T07:23:09.604Z",
+			"details" : {
+				"cue_id" : 3593,
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:23:09.605Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:09.729Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:23:09.729Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T07:23:09.729Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3593
+				},
+				"channel" : "equations"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T07:23:09.730Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3595
+				},
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:23:09.730Z",
+			"details" : "timer"
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-19T07:23:10.113Z",
+			"details" : {
+				"eventType" : "modeEvent",
+				"id" : 605,
+				"payLoad" : {
+					"type" : "end",
+					"modes" : [
+						"stimulus",
+						"timer"
+					]
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-19T07:23:10.113Z",
+			"details" : {
+				"eventType" : "ruleEvent",
+				"id" : 605,
+				"payLoad" : {
+					"id" : 409
+				}
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:10.113Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T07:23:10.113Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3593
+				},
+				"channel" : "equations"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T07:23:10.113Z",
+			"details" : {
+				"cue_id" : 3593,
+				"channel" : "equations"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T07:23:10.113Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3595
+				},
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-19T07:23:10.114Z",
+			"details" : {
+				"evaluation" : "incorrectNonResponse",
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T07:23:10.114Z",
+			"details" : {
+				"cue_id" : 3595,
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:23:10.114Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:10.114Z",
+			"details" : "timer"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:10.115Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-19T07:23:10.115Z",
+			"details" : {
+				"evaluation" : "incorrectResponse",
+				"rule" : {
+					"span" : false,
+					"adaptationLevels" : [ ],
+					"criteria" : "answers.isGreaterThan(equations)",
+					"retryExempt" : true,
+					"id" : 409,
+					"channel" : "answers"
+				},
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:23:10.115Z",
+			"details" : "incorrect"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:10.232Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:23:10.232Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T07:23:10.232Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3594
+				},
+				"channel" : "equations"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T07:23:10.233Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3592
+				},
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:23:10.233Z",
+			"details" : "timer"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:10.233Z",
+			"details" : "incorrect"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:12.322Z",
+			"details" : "timer"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:12.323Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T07:23:12.323Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3594
+				},
+				"channel" : "equations"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T07:23:12.323Z",
+			"details" : {
+				"cue_id" : 3594,
+				"channel" : "equations"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T07:23:12.323Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3592
+				},
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-19T07:23:12.323Z",
+			"details" : {
+				"evaluation" : "incorrectNonResponse",
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T07:23:12.323Z",
+			"details" : {
+				"cue_id" : 3592,
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:23:12.324Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-19T07:23:12.344Z",
+			"details" : {
+				"eventType" : "modeEvent",
+				"id" : 605,
+				"payLoad" : {
+					"type" : "end",
+					"modes" : [
+						"stimulus",
+						"timer"
+					]
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-19T07:23:12.345Z",
+			"details" : {
+				"eventType" : "ruleEvent",
+				"id" : 605,
+				"payLoad" : {
+					"id" : 409
+				}
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:12.345Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:12.345Z",
+			"details" : "timer"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:12.345Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-19T07:23:12.345Z",
+			"details" : {
+				"evaluation" : "correctResponse",
+				"rule" : 409,
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:23:12.345Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:12.448Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:23:12.449Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T07:23:12.449Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3597
+				},
+				"channel" : "equations"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T07:23:12.449Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3591
+				},
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:23:12.449Z",
+			"details" : "timer"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:12.471Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-19T07:23:14.176Z",
+			"details" : {
+				"eventType" : "modeEvent",
+				"id" : 605,
+				"payLoad" : {
+					"type" : "end",
+					"modes" : [
+						"stimulus",
+						"timer"
+					]
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-19T07:23:14.176Z",
+			"details" : {
+				"eventType" : "ruleEvent",
+				"id" : 605,
+				"payLoad" : {
+					"id" : 409
+				}
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:14.176Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T07:23:14.176Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3597
+				},
+				"channel" : "equations"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T07:23:14.176Z",
+			"details" : {
+				"cue_id" : 3597,
+				"channel" : "equations"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T07:23:14.176Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3591
+				},
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-19T07:23:14.177Z",
+			"details" : {
+				"evaluation" : "incorrectNonResponse",
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T07:23:14.177Z",
+			"details" : {
+				"cue_id" : 3591,
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:23:14.177Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:14.178Z",
+			"details" : "timer"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:14.178Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-19T07:23:14.178Z",
+			"details" : {
+				"evaluation" : "correctResponse",
+				"rule" : 409,
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:23:14.178Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:14.288Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:23:14.289Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T07:23:14.289Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3595
+				},
+				"channel" : "equations"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T07:23:14.289Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3597
+				},
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:23:14.289Z",
+			"details" : "timer"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:14.290Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-19T07:23:15.696Z",
+			"details" : {
+				"eventType" : "modeEvent",
+				"id" : 606,
+				"payLoad" : {
+					"type" : "end",
+					"modes" : [
+						"stimulus",
+						"timer"
+					]
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-19T07:23:15.696Z",
+			"details" : {
+				"eventType" : "ruleEvent",
+				"id" : 606,
+				"payLoad" : {
+					"id" : 410
+				}
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:15.696Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T07:23:15.696Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3595
+				},
+				"channel" : "equations"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T07:23:15.696Z",
+			"details" : {
+				"cue_id" : 3595,
+				"channel" : "equations"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T07:23:15.697Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3597
+				},
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-19T07:23:15.697Z",
+			"details" : {
+				"evaluation" : "incorrectNonResponse",
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T07:23:15.697Z",
+			"details" : {
+				"cue_id" : 3597,
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:23:15.698Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:15.698Z",
+			"details" : "timer"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:15.699Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-19T07:23:15.699Z",
+			"details" : {
+				"evaluation" : "correctResponse",
+				"rule" : 410,
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:23:15.700Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:15.810Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:23:15.811Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T07:23:15.811Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3592
+				},
+				"channel" : "equations"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T07:23:15.811Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3589
+				},
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:23:15.811Z",
+			"details" : "timer"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:15.812Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-19T07:23:17.144Z",
+			"details" : {
+				"eventType" : "modeEvent",
+				"id" : 606,
+				"payLoad" : {
+					"type" : "end",
+					"modes" : [
+						"stimulus",
+						"timer"
+					]
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-19T07:23:17.144Z",
+			"details" : {
+				"eventType" : "ruleEvent",
+				"id" : 606,
+				"payLoad" : {
+					"id" : 410
+				}
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:17.144Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T07:23:17.144Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3592
+				},
+				"channel" : "equations"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T07:23:17.144Z",
+			"details" : {
+				"cue_id" : 3592,
+				"channel" : "equations"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T07:23:17.144Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3589
+				},
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-19T07:23:17.145Z",
+			"details" : {
+				"evaluation" : "incorrectNonResponse",
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T07:23:17.145Z",
+			"details" : {
+				"cue_id" : 3589,
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:23:17.145Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:17.145Z",
+			"details" : "timer"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:17.146Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-19T07:23:17.146Z",
+			"details" : {
+				"evaluation" : "correctResponse",
+				"rule" : 410,
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:23:17.146Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:17.256Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:23:17.256Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T07:23:17.256Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3595
+				},
+				"channel" : "equations"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T07:23:17.256Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3590
+				},
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:23:17.256Z",
+			"details" : "timer"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:17.257Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-19T07:23:18.497Z",
+			"details" : {
+				"eventType" : "modeEvent",
+				"id" : 605,
+				"payLoad" : {
+					"type" : "end",
+					"modes" : [
+						"stimulus",
+						"timer"
+					]
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-19T07:23:18.497Z",
+			"details" : {
+				"eventType" : "ruleEvent",
+				"id" : 605,
+				"payLoad" : {
+					"id" : 409
+				}
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:18.497Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T07:23:18.497Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3595
+				},
+				"channel" : "equations"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T07:23:18.497Z",
+			"details" : {
+				"cue_id" : 3595,
+				"channel" : "equations"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T07:23:18.498Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3590
+				},
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-19T07:23:18.498Z",
+			"details" : {
+				"evaluation" : "incorrectNonResponse",
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T07:23:18.499Z",
+			"details" : {
+				"cue_id" : 3590,
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:23:18.499Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:18.500Z",
+			"details" : "timer"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:18.500Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-19T07:23:18.500Z",
+			"details" : {
+				"evaluation" : "correctResponse",
+				"rule" : 409,
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:23:18.500Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:18.615Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:23:18.616Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T07:23:18.616Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3602
+				},
+				"channel" : "equations"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T07:23:18.616Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3601
+				},
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:23:18.616Z",
+			"details" : "timer"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:18.617Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-19T07:23:19.976Z",
+			"details" : {
+				"eventType" : "modeEvent",
+				"id" : 606,
+				"payLoad" : {
+					"type" : "end",
+					"modes" : [
+						"stimulus",
+						"timer"
+					]
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-19T07:23:19.976Z",
+			"details" : {
+				"eventType" : "ruleEvent",
+				"id" : 606,
+				"payLoad" : {
+					"id" : 410
+				}
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:19.977Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T07:23:19.977Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3602
+				},
+				"channel" : "equations"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T07:23:19.977Z",
+			"details" : {
+				"cue_id" : 3602,
+				"channel" : "equations"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T07:23:19.977Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3601
+				},
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-19T07:23:19.978Z",
+			"details" : {
+				"evaluation" : "incorrectNonResponse",
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T07:23:19.978Z",
+			"details" : {
+				"cue_id" : 3601,
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:23:19.978Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:19.979Z",
+			"details" : "timer"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:19.979Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-19T07:23:19.979Z",
+			"details" : {
+				"evaluation" : "correctResponse",
+				"rule" : 410,
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:23:19.979Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:20.088Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:23:20.088Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T07:23:20.088Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3601
+				},
+				"channel" : "equations"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T07:23:20.088Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3601
+				},
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:23:20.088Z",
+			"details" : "timer"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:20.089Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-19T07:23:21.576Z",
+			"details" : {
+				"eventType" : "modeEvent",
+				"id" : 604,
+				"payLoad" : {
+					"type" : "end",
+					"modes" : [
+						"stimulus",
+						"timer"
+					]
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-19T07:23:21.576Z",
+			"details" : {
+				"eventType" : "ruleEvent",
+				"id" : 604,
+				"payLoad" : {
+					"id" : 411
+				}
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:21.576Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T07:23:21.576Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3601
+				},
+				"channel" : "equations"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T07:23:21.577Z",
+			"details" : {
+				"cue_id" : 3601,
+				"channel" : "equations"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T07:23:21.577Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3601
+				},
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-19T07:23:21.577Z",
+			"details" : {
+				"evaluation" : "incorrectNonResponse",
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T07:23:21.577Z",
+			"details" : {
+				"cue_id" : 3601,
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:23:21.578Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:21.578Z",
+			"details" : "timer"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:21.578Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-19T07:23:21.578Z",
+			"details" : {
+				"evaluation" : "correctResponse",
+				"rule" : 411,
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:23:21.578Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:21.691Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:23:21.691Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T07:23:21.692Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3599
+				},
+				"channel" : "equations"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T07:23:21.692Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3598
+				},
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:23:21.692Z",
+			"details" : "timer"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:21.692Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-19T07:23:23.272Z",
+			"details" : {
+				"eventType" : "modeEvent",
+				"id" : 605,
+				"payLoad" : {
+					"type" : "end",
+					"modes" : [
+						"stimulus",
+						"timer"
+					]
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-19T07:23:23.272Z",
+			"details" : {
+				"eventType" : "ruleEvent",
+				"id" : 605,
+				"payLoad" : {
+					"id" : 409
+				}
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:23.272Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T07:23:23.272Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3599
+				},
+				"channel" : "equations"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T07:23:23.273Z",
+			"details" : {
+				"cue_id" : 3599,
+				"channel" : "equations"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T07:23:23.273Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3598
+				},
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-19T07:23:23.273Z",
+			"details" : {
+				"evaluation" : "incorrectNonResponse",
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T07:23:23.273Z",
+			"details" : {
+				"cue_id" : 3598,
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:23:23.274Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:23.274Z",
+			"details" : "timer"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:23.274Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-19T07:23:23.275Z",
+			"details" : {
+				"evaluation" : "incorrectResponse",
+				"rule" : {
+					"span" : false,
+					"adaptationLevels" : [ ],
+					"criteria" : "answers.isGreaterThan(equations)",
+					"retryExempt" : true,
+					"id" : 409,
+					"channel" : "answers"
+				},
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:23:23.275Z",
+			"details" : "incorrect"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:23.389Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:23:23.390Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T07:23:23.390Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3593
+				},
+				"channel" : "equations"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T07:23:23.390Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3592
+				},
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:23:23.390Z",
+			"details" : "timer"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:23.391Z",
+			"details" : "incorrect"
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-19T07:23:25.448Z",
+			"details" : {
+				"eventType" : "modeEvent",
+				"id" : 605,
+				"payLoad" : {
+					"type" : "end",
+					"modes" : [
+						"stimulus",
+						"timer"
+					]
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-19T07:23:25.448Z",
+			"details" : {
+				"eventType" : "ruleEvent",
+				"id" : 605,
+				"payLoad" : {
+					"id" : 409
+				}
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:25.448Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T07:23:25.448Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3593
+				},
+				"channel" : "equations"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T07:23:25.448Z",
+			"details" : {
+				"cue_id" : 3593,
+				"channel" : "equations"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T07:23:25.449Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3592
+				},
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-19T07:23:25.449Z",
+			"details" : {
+				"evaluation" : "incorrectNonResponse",
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T07:23:25.449Z",
+			"details" : {
+				"cue_id" : 3592,
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:23:25.449Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:25.450Z",
+			"details" : "timer"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:25.450Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-19T07:23:25.450Z",
+			"details" : {
+				"evaluation" : "correctResponse",
+				"rule" : 409,
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:23:25.450Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:25.564Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:23:25.565Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T07:23:25.565Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3588
+				},
+				"channel" : "equations"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T07:23:25.565Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3600
+				},
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:23:25.565Z",
+			"details" : "timer"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:25.566Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-19T07:23:26.768Z",
+			"details" : {
+				"eventType" : "modeEvent",
+				"id" : 606,
+				"payLoad" : {
+					"type" : "end",
+					"modes" : [
+						"stimulus",
+						"timer"
+					]
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-19T07:23:26.768Z",
+			"details" : {
+				"eventType" : "ruleEvent",
+				"id" : 606,
+				"payLoad" : {
+					"id" : 410
+				}
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:26.768Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T07:23:26.768Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3588
+				},
+				"channel" : "equations"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T07:23:26.768Z",
+			"details" : {
+				"cue_id" : 3588,
+				"channel" : "equations"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T07:23:26.769Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3600
+				},
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-19T07:23:26.769Z",
+			"details" : {
+				"evaluation" : "incorrectNonResponse",
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T07:23:26.769Z",
+			"details" : {
+				"cue_id" : 3600,
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:23:26.770Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:26.770Z",
+			"details" : "timer"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:26.770Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-19T07:23:26.770Z",
+			"details" : {
+				"evaluation" : "correctResponse",
+				"rule" : 410,
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:23:26.771Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:26.884Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:23:26.885Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T07:23:26.885Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3593
+				},
+				"channel" : "equations"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T07:23:26.885Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3591
+				},
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:23:26.886Z",
+			"details" : "timer"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:26.887Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-19T07:23:27.960Z",
+			"details" : {
+				"eventType" : "modeEvent",
+				"id" : 606,
+				"payLoad" : {
+					"type" : "end",
+					"modes" : [
+						"stimulus",
+						"timer"
+					]
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-19T07:23:27.960Z",
+			"details" : {
+				"eventType" : "ruleEvent",
+				"id" : 606,
+				"payLoad" : {
+					"id" : 410
+				}
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:27.960Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T07:23:27.960Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3593
+				},
+				"channel" : "equations"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T07:23:27.961Z",
+			"details" : {
+				"cue_id" : 3593,
+				"channel" : "equations"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T07:23:27.961Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3591
+				},
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-19T07:23:27.961Z",
+			"details" : {
+				"evaluation" : "incorrectNonResponse",
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T07:23:27.961Z",
+			"details" : {
+				"cue_id" : 3591,
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:23:27.962Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:27.962Z",
+			"details" : "timer"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:27.962Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-19T07:23:27.962Z",
+			"details" : {
+				"evaluation" : "correctResponse",
+				"rule" : 410,
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:23:27.963Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:28.076Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:23:28.077Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T07:23:28.077Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3593
+				},
+				"channel" : "equations"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T07:23:28.079Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3600
+				},
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:23:28.079Z",
+			"details" : "timer"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:28.079Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-19T07:23:29.624Z",
+			"details" : {
+				"eventType" : "modeEvent",
+				"id" : 606,
+				"payLoad" : {
+					"type" : "end",
+					"modes" : [
+						"stimulus",
+						"timer"
+					]
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-19T07:23:29.624Z",
+			"details" : {
+				"eventType" : "ruleEvent",
+				"id" : 606,
+				"payLoad" : {
+					"id" : 410
+				}
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:29.624Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T07:23:29.624Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3593
+				},
+				"channel" : "equations"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T07:23:29.625Z",
+			"details" : {
+				"cue_id" : 3593,
+				"channel" : "equations"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T07:23:29.625Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3600
+				},
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-19T07:23:29.625Z",
+			"details" : {
+				"evaluation" : "incorrectNonResponse",
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T07:23:29.625Z",
+			"details" : {
+				"cue_id" : 3600,
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:23:29.626Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:29.626Z",
+			"details" : "timer"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:29.626Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-19T07:23:29.627Z",
+			"details" : {
+				"evaluation" : "correctResponse",
+				"rule" : 410,
+				"channel" : "answers"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:23:29.627Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T07:23:29.750Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T07:23:29.750Z",
+			"details" : "gameOver"
+		}
+	]
+}

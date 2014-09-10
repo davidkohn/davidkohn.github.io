@@ -1,0 +1,148 @@
+{
+	"play_data" : [
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-12T03:50:03.038Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-12T03:50:03.162Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 4208
+				},
+				"channel" : "numbers"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-12T03:50:04.180Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 4208
+				},
+				"channel" : "numbers"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-12T03:50:04.180Z",
+			"details" : {
+				"cue_id" : 4208,
+				"channel" : "numbers"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-12T03:50:04.201Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 4207
+				},
+				"channel" : "numbers"
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-12T03:50:05.114Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-12T03:50:05.114Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 4207
+				},
+				"channel" : "numbers"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-12T03:50:05.114Z",
+			"details" : {
+				"cue_id" : 4207,
+				"channel" : "numbers"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-12T03:50:05.114Z",
+			"details" : "collection"
+		},
+		{
+			"action" : "palette_press",
+			"timestamp" : "2014-02-12T03:50:06.128Z",
+			"details" : {
+				"eventType" : "channelCueEvent",
+				"id" : 38,
+				"payLoad" : {
+					"cue" : 4208,
+					"channel" : "numbers"
+				}
+			}
+		},
+		{
+			"action" : "cue_evaluation",
+			"timestamp" : "2014-02-12T03:50:06.129Z",
+			"details" : "correctCuePosition",
+			"channel" : "numbers"
+		},
+		{
+			"action" : "cue_evaluation",
+			"timestamp" : "2014-02-12T03:50:06.129Z",
+			"details" : "correctCue",
+			"channel" : "numbers"
+		},
+		{
+			"action" : "palette_press",
+			"timestamp" : "2014-02-12T03:50:06.905Z",
+			"details" : {
+				"eventType" : "channelCueEvent",
+				"id" : 31,
+				"payLoad" : {
+					"cue" : 4207,
+					"channel" : "numbers"
+				}
+			}
+		},
+		{
+			"action" : "cue_evaluation",
+			"timestamp" : "2014-02-12T03:50:06.905Z",
+			"details" : "correctCuePosition",
+			"channel" : "numbers"
+		},
+		{
+			"action" : "cue_evaluation",
+			"timestamp" : "2014-02-12T03:50:06.905Z",
+			"details" : "correctCue",
+			"channel" : "numbers"
+		},
+		{
+			"action" : "cue_evaluation",
+			"timestamp" : "2014-02-12T03:50:06.906Z",
+			"details" : "allCuesPerfect",
+			"channel" : "numbers"
+		},
+		{
+			"action" : "cue_evaluation",
+			"timestamp" : "2014-02-12T03:50:06.906Z",
+			"details" : "allCuesPresent",
+			"channel" : "numbers"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-12T03:50:07.908Z",
+			"details" : "gameOver"
+		}
+	]
+}

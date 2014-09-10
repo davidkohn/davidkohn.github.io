@@ -1,0 +1,2021 @@
+{
+	"play_data" : [
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T05:36:13.217Z",
+			"details" : "intro"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T05:36:13.221Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 9583
+				},
+				"channel" : "intro"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T05:36:14.196Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 9583
+				},
+				"channel" : "intro"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T05:36:14.196Z",
+			"details" : {
+				"cue_id" : 9583,
+				"channel" : "intro"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T05:36:14.224Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 9582
+				},
+				"channel" : "intro"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T05:36:15.200Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 9582
+				},
+				"channel" : "intro"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T05:36:15.200Z",
+			"details" : {
+				"cue_id" : 9582,
+				"channel" : "intro"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T05:36:15.215Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 9581
+				},
+				"channel" : "intro"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T05:36:16.204Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 9581
+				},
+				"channel" : "intro"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T05:36:16.204Z",
+			"details" : {
+				"cue_id" : 9581,
+				"channel" : "intro"
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T05:36:16.204Z",
+			"details" : "intro"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T05:36:16.205Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T05:36:16.205Z",
+			"details" : "control"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T05:36:16.205Z",
+			"details" : "instruction"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T05:36:16.222Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1875
+				},
+				"channel" : "faces"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T05:36:16.222Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3386
+				},
+				"channel" : "passports"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T05:36:18.599Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1875
+				},
+				"channel" : "faces"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T05:36:18.599Z",
+			"details" : {
+				"evaluation" : "correctNonResponse",
+				"channel" : "faces"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T05:36:18.600Z",
+			"details" : {
+				"cue_id" : 1875,
+				"channel" : "faces"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T05:36:18.600Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3386
+				},
+				"channel" : "passports"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T05:36:18.600Z",
+			"details" : {
+				"cue_id" : 3386,
+				"channel" : "passports"
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T05:36:18.600Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T05:36:18.600Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T05:36:18.719Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T05:36:18.719Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T05:36:18.748Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1866
+				},
+				"channel" : "faces"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T05:36:18.749Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3386
+				},
+				"channel" : "passports"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T05:36:21.119Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1866
+				},
+				"channel" : "faces"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T05:36:21.120Z",
+			"details" : {
+				"evaluation" : "correctNonResponse",
+				"channel" : "faces"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T05:36:21.120Z",
+			"details" : {
+				"cue_id" : 1866,
+				"channel" : "faces"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T05:36:21.120Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3386
+				},
+				"channel" : "passports"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T05:36:21.120Z",
+			"details" : {
+				"cue_id" : 3386,
+				"channel" : "passports"
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T05:36:21.120Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T05:36:21.121Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T05:36:21.239Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T05:36:21.239Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T05:36:21.269Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1743
+				},
+				"channel" : "faces"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T05:36:21.269Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3386
+				},
+				"channel" : "passports"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T05:36:23.640Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1743
+				},
+				"channel" : "faces"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T05:36:23.640Z",
+			"details" : {
+				"evaluation" : "correctNonResponse",
+				"channel" : "faces"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T05:36:23.640Z",
+			"details" : {
+				"cue_id" : 1743,
+				"channel" : "faces"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T05:36:23.640Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3386
+				},
+				"channel" : "passports"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T05:36:23.640Z",
+			"details" : {
+				"cue_id" : 3386,
+				"channel" : "passports"
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T05:36:23.641Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T05:36:23.641Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T05:36:23.760Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T05:36:23.761Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T05:36:23.789Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1863
+				},
+				"channel" : "faces"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T05:36:23.789Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3386
+				},
+				"channel" : "passports"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T05:36:26.161Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1863
+				},
+				"channel" : "faces"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T05:36:26.161Z",
+			"details" : {
+				"evaluation" : "correctNonResponse",
+				"channel" : "faces"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T05:36:26.161Z",
+			"details" : {
+				"cue_id" : 1863,
+				"channel" : "faces"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T05:36:26.161Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3386
+				},
+				"channel" : "passports"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T05:36:26.162Z",
+			"details" : {
+				"cue_id" : 3386,
+				"channel" : "passports"
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T05:36:26.162Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T05:36:26.162Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T05:36:26.280Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T05:36:26.280Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T05:36:26.310Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1864
+				},
+				"channel" : "faces"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T05:36:26.310Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3386
+				},
+				"channel" : "passports"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T05:36:28.680Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1864
+				},
+				"channel" : "faces"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T05:36:28.680Z",
+			"details" : {
+				"evaluation" : "correctNonResponse",
+				"channel" : "faces"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T05:36:28.680Z",
+			"details" : {
+				"cue_id" : 1864,
+				"channel" : "faces"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T05:36:28.681Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3386
+				},
+				"channel" : "passports"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T05:36:28.681Z",
+			"details" : {
+				"cue_id" : 3386,
+				"channel" : "passports"
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T05:36:28.681Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T05:36:28.681Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T05:36:28.800Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T05:36:28.800Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T05:36:28.829Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1863
+				},
+				"channel" : "faces"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T05:36:28.830Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3386
+				},
+				"channel" : "passports"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T05:36:31.200Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1863
+				},
+				"channel" : "faces"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T05:36:31.200Z",
+			"details" : {
+				"evaluation" : "correctNonResponse",
+				"channel" : "faces"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T05:36:31.201Z",
+			"details" : {
+				"cue_id" : 1863,
+				"channel" : "faces"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T05:36:31.201Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3386
+				},
+				"channel" : "passports"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T05:36:31.201Z",
+			"details" : {
+				"cue_id" : 3386,
+				"channel" : "passports"
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T05:36:31.201Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T05:36:31.201Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T05:36:31.320Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T05:36:31.320Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T05:36:31.349Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1867
+				},
+				"channel" : "faces"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T05:36:31.350Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3386
+				},
+				"channel" : "passports"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T05:36:33.718Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1867
+				},
+				"channel" : "faces"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T05:36:33.719Z",
+			"details" : {
+				"evaluation" : "correctNonResponse",
+				"channel" : "faces"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T05:36:33.719Z",
+			"details" : {
+				"cue_id" : 1867,
+				"channel" : "faces"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T05:36:33.719Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3386
+				},
+				"channel" : "passports"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T05:36:33.719Z",
+			"details" : {
+				"cue_id" : 3386,
+				"channel" : "passports"
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T05:36:33.719Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T05:36:33.720Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T05:36:33.838Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T05:36:33.839Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T05:36:33.868Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1875
+				},
+				"channel" : "faces"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T05:36:33.868Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3386
+				},
+				"channel" : "passports"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T05:36:36.239Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1875
+				},
+				"channel" : "faces"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T05:36:36.239Z",
+			"details" : {
+				"evaluation" : "correctNonResponse",
+				"channel" : "faces"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T05:36:36.239Z",
+			"details" : {
+				"cue_id" : 1875,
+				"channel" : "faces"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T05:36:36.239Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3386
+				},
+				"channel" : "passports"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T05:36:36.239Z",
+			"details" : {
+				"cue_id" : 3386,
+				"channel" : "passports"
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T05:36:36.240Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T05:36:36.240Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T05:36:36.359Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T05:36:36.360Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T05:36:36.387Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1875
+				},
+				"channel" : "faces"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T05:36:36.388Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3386
+				},
+				"channel" : "passports"
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T05:36:37.028Z",
+			"details" : {
+				"eventType" : "ruleEvent",
+				"id" : 602,
+				"payLoad" : {
+					"id" : 406
+				}
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T05:36:37.028Z",
+			"details" : {
+				"evaluation" : "correctResponse",
+				"rule" : 406,
+				"channel" : "faces"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T05:36:37.029Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T05:36:37.149Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T05:36:38.760Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1875
+				},
+				"channel" : "faces"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T05:36:38.760Z",
+			"details" : {
+				"cue_id" : 1875,
+				"channel" : "faces"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T05:36:38.760Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3386
+				},
+				"channel" : "passports"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T05:36:38.760Z",
+			"details" : {
+				"cue_id" : 3386,
+				"channel" : "passports"
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T05:36:38.761Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T05:36:38.761Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T05:36:38.880Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T05:36:38.880Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T05:36:38.909Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1746
+				},
+				"channel" : "faces"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T05:36:38.909Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3386
+				},
+				"channel" : "passports"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T05:36:41.280Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1746
+				},
+				"channel" : "faces"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T05:36:41.280Z",
+			"details" : {
+				"evaluation" : "correctNonResponse",
+				"channel" : "faces"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T05:36:41.280Z",
+			"details" : {
+				"cue_id" : 1746,
+				"channel" : "faces"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T05:36:41.281Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3386
+				},
+				"channel" : "passports"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T05:36:41.281Z",
+			"details" : {
+				"cue_id" : 3386,
+				"channel" : "passports"
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T05:36:41.281Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T05:36:41.281Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T05:36:41.400Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T05:36:41.400Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T05:36:41.429Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1746
+				},
+				"channel" : "faces"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T05:36:41.430Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3386
+				},
+				"channel" : "passports"
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T05:36:42.104Z",
+			"details" : {
+				"eventType" : "ruleEvent",
+				"id" : 602,
+				"payLoad" : {
+					"id" : 406
+				}
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T05:36:42.104Z",
+			"details" : {
+				"evaluation" : "correctResponse",
+				"rule" : 406,
+				"channel" : "faces"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T05:36:42.104Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T05:36:42.206Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T05:36:43.811Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1746
+				},
+				"channel" : "faces"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T05:36:43.811Z",
+			"details" : {
+				"cue_id" : 1746,
+				"channel" : "faces"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T05:36:43.811Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3386
+				},
+				"channel" : "passports"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T05:36:43.812Z",
+			"details" : {
+				"cue_id" : 3386,
+				"channel" : "passports"
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T05:36:43.812Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T05:36:43.812Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T05:36:43.932Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T05:36:43.932Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T05:36:43.948Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1859
+				},
+				"channel" : "faces"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T05:36:43.948Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3386
+				},
+				"channel" : "passports"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T05:36:46.332Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1859
+				},
+				"channel" : "faces"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T05:36:46.332Z",
+			"details" : {
+				"evaluation" : "correctNonResponse",
+				"channel" : "faces"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T05:36:46.332Z",
+			"details" : {
+				"cue_id" : 1859,
+				"channel" : "faces"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T05:36:46.333Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3386
+				},
+				"channel" : "passports"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T05:36:46.333Z",
+			"details" : {
+				"cue_id" : 3386,
+				"channel" : "passports"
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T05:36:46.333Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T05:36:46.333Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T05:36:46.451Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T05:36:46.451Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T05:36:46.468Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1730
+				},
+				"channel" : "faces"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T05:36:46.469Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3386
+				},
+				"channel" : "passports"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T05:36:48.850Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1730
+				},
+				"channel" : "faces"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T05:36:48.851Z",
+			"details" : {
+				"evaluation" : "correctNonResponse",
+				"channel" : "faces"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T05:36:48.851Z",
+			"details" : {
+				"cue_id" : 1730,
+				"channel" : "faces"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T05:36:48.851Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3386
+				},
+				"channel" : "passports"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T05:36:48.851Z",
+			"details" : {
+				"cue_id" : 3386,
+				"channel" : "passports"
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T05:36:48.851Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T05:36:48.852Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T05:36:48.970Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T05:36:48.970Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T05:36:48.987Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1746
+				},
+				"channel" : "faces"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T05:36:48.988Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3386
+				},
+				"channel" : "passports"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T05:36:51.370Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1746
+				},
+				"channel" : "faces"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T05:36:51.371Z",
+			"details" : {
+				"evaluation" : "correctNonResponse",
+				"channel" : "faces"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T05:36:51.371Z",
+			"details" : {
+				"cue_id" : 1746,
+				"channel" : "faces"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T05:36:51.371Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3386
+				},
+				"channel" : "passports"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T05:36:51.371Z",
+			"details" : {
+				"cue_id" : 3386,
+				"channel" : "passports"
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T05:36:51.372Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T05:36:51.372Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T05:36:51.490Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T05:36:51.491Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T05:36:51.508Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1873
+				},
+				"channel" : "faces"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T05:36:51.508Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3386
+				},
+				"channel" : "passports"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T05:36:53.880Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1873
+				},
+				"channel" : "faces"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T05:36:53.880Z",
+			"details" : {
+				"evaluation" : "correctNonResponse",
+				"channel" : "faces"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T05:36:53.880Z",
+			"details" : {
+				"cue_id" : 1873,
+				"channel" : "faces"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T05:36:53.881Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3386
+				},
+				"channel" : "passports"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T05:36:53.881Z",
+			"details" : {
+				"cue_id" : 3386,
+				"channel" : "passports"
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T05:36:53.881Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T05:36:53.881Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T05:36:53.999Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T05:36:53.999Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T05:36:54.029Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1873
+				},
+				"channel" : "faces"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T05:36:54.030Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3386
+				},
+				"channel" : "passports"
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T05:36:54.620Z",
+			"details" : {
+				"eventType" : "ruleEvent",
+				"id" : 602,
+				"payLoad" : {
+					"id" : 406
+				}
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T05:36:54.620Z",
+			"details" : {
+				"evaluation" : "correctResponse",
+				"rule" : 406,
+				"channel" : "faces"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T05:36:54.620Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T05:36:54.719Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T05:36:56.399Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1873
+				},
+				"channel" : "faces"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T05:36:56.399Z",
+			"details" : {
+				"cue_id" : 1873,
+				"channel" : "faces"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T05:36:56.400Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3386
+				},
+				"channel" : "passports"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T05:36:56.400Z",
+			"details" : {
+				"cue_id" : 3386,
+				"channel" : "passports"
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T05:36:56.400Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T05:36:56.400Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T05:36:56.519Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T05:36:56.519Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T05:36:56.548Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1873
+				},
+				"channel" : "faces"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T05:36:56.549Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3386
+				},
+				"channel" : "passports"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T05:36:58.920Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1873
+				},
+				"channel" : "faces"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T05:36:58.920Z",
+			"details" : {
+				"evaluation" : "incorrectNonResponse",
+				"channel" : "faces"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T05:36:58.920Z",
+			"details" : {
+				"cue_id" : 1873,
+				"channel" : "faces"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T05:36:58.920Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3386
+				},
+				"channel" : "passports"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T05:36:58.921Z",
+			"details" : {
+				"cue_id" : 3386,
+				"channel" : "passports"
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T05:36:58.921Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T05:36:58.921Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T05:36:59.039Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T05:36:59.040Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T05:36:59.069Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1867
+				},
+				"channel" : "faces"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T05:36:59.069Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3386
+				},
+				"channel" : "passports"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T05:37:01.440Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1867
+				},
+				"channel" : "faces"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T05:37:01.440Z",
+			"details" : {
+				"evaluation" : "correctNonResponse",
+				"channel" : "faces"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T05:37:01.440Z",
+			"details" : {
+				"cue_id" : 1867,
+				"channel" : "faces"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T05:37:01.440Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3386
+				},
+				"channel" : "passports"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T05:37:01.441Z",
+			"details" : {
+				"cue_id" : 3386,
+				"channel" : "passports"
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T05:37:01.441Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T05:37:01.441Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T05:37:01.560Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T05:37:01.560Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T05:37:01.589Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1875
+				},
+				"channel" : "faces"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T05:37:01.590Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3386
+				},
+				"channel" : "passports"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T05:37:03.960Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1875
+				},
+				"channel" : "faces"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T05:37:03.960Z",
+			"details" : {
+				"evaluation" : "correctNonResponse",
+				"channel" : "faces"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T05:37:03.960Z",
+			"details" : {
+				"cue_id" : 1875,
+				"channel" : "faces"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T05:37:03.961Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3386
+				},
+				"channel" : "passports"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T05:37:03.961Z",
+			"details" : {
+				"cue_id" : 3386,
+				"channel" : "passports"
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T05:37:03.961Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T05:37:03.961Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T05:37:04.081Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T05:37:04.081Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T05:37:04.109Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1872
+				},
+				"channel" : "faces"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T05:37:04.110Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3386
+				},
+				"channel" : "passports"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T05:37:06.481Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1872
+				},
+				"channel" : "faces"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T05:37:06.481Z",
+			"details" : {
+				"evaluation" : "correctNonResponse",
+				"channel" : "faces"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T05:37:06.481Z",
+			"details" : {
+				"cue_id" : 1872,
+				"channel" : "faces"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T05:37:06.482Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 3386
+				},
+				"channel" : "passports"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T05:37:06.482Z",
+			"details" : {
+				"cue_id" : 3386,
+				"channel" : "passports"
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T05:37:06.482Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T05:37:06.482Z",
+			"details" : "gameOver"
+		}
+	]
+}

@@ -1,0 +1,354 @@
+{
+	"play_data" : [
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-06-24T05:14:42.477Z",
+			"details" : "intro"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-06-24T05:14:42.487Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 9583
+				},
+				"channel" : "intro"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-06-24T05:14:43.467Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 9583
+				},
+				"channel" : "intro"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-06-24T05:14:43.467Z",
+			"details" : {
+				"cue_id" : 9583,
+				"channel" : "intro"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-06-24T05:14:43.489Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 9582
+				},
+				"channel" : "intro"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-06-24T05:14:44.468Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 9582
+				},
+				"channel" : "intro"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-06-24T05:14:44.468Z",
+			"details" : {
+				"cue_id" : 9582,
+				"channel" : "intro"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-06-24T05:14:44.489Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 9581
+				},
+				"channel" : "intro"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-06-24T05:14:45.468Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 9581
+				},
+				"channel" : "intro"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-06-24T05:14:45.468Z",
+			"details" : {
+				"cue_id" : 9581,
+				"channel" : "intro"
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-06-24T05:14:45.469Z",
+			"details" : "intro"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-06-24T05:14:45.469Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-06-24T05:14:45.490Z",
+			"details" : {
+				"cue" : {
+					"y" : 39,
+					"x" : 125,
+					"id" : 9580
+				},
+				"channel" : "numbers"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-06-24T05:14:45.491Z",
+			"details" : {
+				"cue" : {
+					"y" : 24,
+					"x" : 108,
+					"id" : 9569
+				},
+				"channel" : "tiles"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-06-24T05:14:46.958Z",
+			"details" : {
+				"cue" : {
+					"y" : 39,
+					"x" : 125,
+					"id" : 9580
+				},
+				"channel" : "numbers"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-06-24T05:14:46.958Z",
+			"details" : {
+				"cue_id" : 9580,
+				"channel" : "numbers"
+			}
+		},
+		{
+			"action" : "score_event_tracking",
+			"timestamp" : "2014-06-24T05:14:46.959Z",
+			"details" : {
+				"score_event_id" : 645,
+				"channel" : "numbers",
+				"dichotomy" : "potential"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-06-24T05:14:46.959Z",
+			"details" : {
+				"cue" : {
+					"y" : 24,
+					"x" : 108,
+					"id" : 9569
+				},
+				"channel" : "tiles"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-06-24T05:14:46.959Z",
+			"details" : {
+				"cue_id" : 9569,
+				"channel" : "tiles"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-06-24T05:14:46.988Z",
+			"details" : {
+				"cue" : {
+					"y" : 39,
+					"x" : 243,
+					"id" : 9580
+				},
+				"channel" : "numbers"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-06-24T05:14:46.991Z",
+			"details" : {
+				"cue" : {
+					"y" : 24,
+					"x" : 228,
+					"id" : 9566
+				},
+				"channel" : "tiles"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-06-24T05:14:48.459Z",
+			"details" : {
+				"cue" : {
+					"y" : 39,
+					"x" : 243,
+					"id" : 9580
+				},
+				"channel" : "numbers"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-06-24T05:14:48.459Z",
+			"details" : {
+				"cue_id" : 9580,
+				"channel" : "numbers"
+			}
+		},
+		{
+			"action" : "score_event_tracking",
+			"timestamp" : "2014-06-24T05:14:48.460Z",
+			"details" : {
+				"score_event_id" : 645,
+				"channel" : "numbers",
+				"dichotomy" : "potential"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-06-24T05:14:48.460Z",
+			"details" : {
+				"cue" : {
+					"y" : 24,
+					"x" : 228,
+					"id" : 9566
+				},
+				"channel" : "tiles"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-06-24T05:14:48.460Z",
+			"details" : {
+				"cue_id" : 9566,
+				"channel" : "tiles"
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-06-24T05:14:48.461Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-06-24T05:14:48.462Z",
+			"details" : "collection"
+		},
+		{
+			"action" : "palette_press",
+			"timestamp" : "2014-06-24T05:14:50.557Z",
+			"details" : {
+				"eventType" : "channelCueEvent",
+				"id" : 115,
+				"payLoad" : {
+					"cue" : 9580,
+					"channel" : "numbers"
+				}
+			}
+		},
+		{
+			"action" : "cue_evaluation",
+			"timestamp" : "2014-06-24T05:14:50.557Z",
+			"details" : "correctCuePosition",
+			"channel" : "numbers"
+		},
+		{
+			"action" : "score_event_tracking",
+			"timestamp" : "2014-06-24T05:14:50.557Z",
+			"details" : {
+				"score_event_id" : 645,
+				"channel" : "numbers",
+				"dichotomy" : "actual"
+			}
+		},
+		{
+			"action" : "cue_evaluation",
+			"timestamp" : "2014-06-24T05:14:50.557Z",
+			"details" : "correctCue",
+			"channel" : "numbers"
+		},
+		{
+			"action" : "palette_press",
+			"timestamp" : "2014-06-24T05:14:51.337Z",
+			"details" : {
+				"eventType" : "channelCueEvent",
+				"id" : 115,
+				"payLoad" : {
+					"cue" : 9580,
+					"channel" : "numbers"
+				}
+			}
+		},
+		{
+			"action" : "cue_evaluation",
+			"timestamp" : "2014-06-24T05:14:51.338Z",
+			"details" : "correctCuePosition",
+			"channel" : "numbers"
+		},
+		{
+			"action" : "score_event_tracking",
+			"timestamp" : "2014-06-24T05:14:51.338Z",
+			"details" : {
+				"score_event_id" : 645,
+				"channel" : "numbers",
+				"dichotomy" : "actual"
+			}
+		},
+		{
+			"action" : "cue_evaluation",
+			"timestamp" : "2014-06-24T05:14:51.338Z",
+			"details" : "correctCue",
+			"channel" : "numbers"
+		},
+		{
+			"action" : "cue_evaluation",
+			"timestamp" : "2014-06-24T05:14:51.338Z",
+			"details" : "allCuesPerfect",
+			"channel" : "numbers"
+		},
+		{
+			"action" : "cue_evaluation",
+			"timestamp" : "2014-06-24T05:14:51.338Z",
+			"details" : "allCuesPresent",
+			"channel" : "numbers"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-06-24T05:14:52.342Z",
+			"details" : "gameOver"
+		}
+	]
+}

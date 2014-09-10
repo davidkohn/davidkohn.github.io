@@ -7,6 +7,8 @@ image1: /assets/game_275_mean.png
 image2: /assets/game_275_adj_mean.png
 image3: /assets/game_275_no_gamesets.png
 image4: /assets/game_275_no_players.png
+cuepool1: /assets/cuepool-symmetry-span-all.csv
+json1: /assets/json-275.txt
 ---
 
 ### Contents
@@ -27,157 +29,73 @@ image4: /assets/game_275_no_players.png
 </ul>
 </p>
 
-## Display
+## How the game works
 <p>
 <ul>
-<li>Channels</li>
+<li>The game has two components:</li>
 <ul>
-<li>span</li>
+<li>A symmetry component where the user must identify if an image is symmetrical or not.</li>
 <ul>
-<li>cueSelectionMethod: dice</li>
-<li>delayInPercent: 10</li>
-<li>durationInPercent: 10</li>
-<li>modes: symmetry</li>
+<li>The image is made up of two smaller images and the larger image will be symmetrical when the second smaller image is the flipped version of the first smaller image.</li>
+<li>Each image is composed of 32 yellow colored or non-colored dots arranged in an 8 long by 4 wide matrix.</li>
+<li>This component has weight 2.0 per stimuli</li>
 </ul>
-<li>symmetryright</li>
+<li>A span component. A picture of an animal is displayed alongside each symmetry question. After all stimuli have been presented the user is asked to recall the order they were presented in.</li>
 <ul>
-<li>cueSelectionMethod: dice</li>
-<li>modes: symmetry</li>
-</ul>
-<li>symmetryleft</li>
-<ul>
-<li>cueSelectionMethod: dice</li>
-<li>retries: 50</li>
-<li>modes: symmetry</li>
-</ul>
-<li>followRight</li>
-<ul>
-<li>followChannel: symmetryright</li>
-<li>modes: symmetry</li>
-</ul>
-<li>followLeft</li>
-<ul>
-<li>followChannel: symmetryleft</li>
-<li>modes: symmetry</li>
+<li>This component has weight 5.0 per stimuli.</li>
 </ul>
 </ul>
-<li>gameModes</li>
-<ul>
-<li>endTriggers</li>
-<ul>
-<li>intro -> symmetry,controls</li>
-<li>pause -> symmetry, pause -> spanpause is 2 loops between pause and symmetry</li>
-<li>spanpause end = symmetry, controls end</li>
-<li>spanpause -> spancollection</li>
+<li>Cues for both the span and symmetry components are selected randomly with replacement.</li>
+<li>2 stimuli are presented at level 1. Every level after adds 1 stimuli, e.g. level 2 displays 3 stimuli, level 3 displays 4 stimuli, etc.</li>
 </ul>
-<li>durationInFrames</li>
+</p>
+
+## Cuepools
+<p>
+Click <a href="{{ page.cuepool1 }}">here for a CSV file</a> of the combined cuepool data. This includes data on the number of colored dots in each image.
 <ul>
-<li>pause: 8</li>
-<li>spanpause: 8</li>
-<li>correct: 6</li>
-<li>incorrect: 6</li>
-</ul>
-<li>adaptation rules</li>
+<li>Symmetry Span - A Left/Right</li>
 <ul>
-<li>pause -> spanpause if 2 + <em>i</em> loops between pause and symmetry where <em>i</em> = level - 1</li>
+<li>Level 1, 2, 3</li>
+<li>Left - avg. no. colored dots: 19.75</li>
+<li>Right - avg. no. colored dots: 19.72</li>
 </ul>
+<li>Symmetry Span - B Left/Right</li>
+<ul>
+<li>Level 4, 5, 6</li>
+<li>Left - avg. no. colored dots: 20.55</li>
+<li>Right - avg. no. colored dots: 20.88</li>
+</ul>
+<li>Symmetry Span - C Left/Right</li>
+<ul>
+<li>Level 7, 8, 9</li>
+<li>Left - avg. no. colored dots: 21.43</li>
+<li>Right - avg. no. colored dots: 21.77</li>
+</ul>
+<li>Symmetry Span - D Left/Right</li>
+<ul>
+<li>Level 10, 11, 12</li>
+<li>Left - avg. no. colored dots: 22.43</li>
+<li>Right - avg. no. colored dots: 22.90</li>
+</ul>
+<li>Symmetry Span - E Left/Right</li>
+<ul>
+<li>Level 13, 14, 15</li>
+<li>Left - avg. no. colored dots: 23.04</li>
+<li>Right - avg. no. colored dots: 23.14</li>
 </ul>
 </ul>
 </p>
 
-## Stimulus
+## Example JSON
 <p>
 <ul>
-<li>channel: span </li>
-<ul><li>symmetry span - 8 animals </li></ul>
-<li>channel: symmetryLeft </li>
-<ul><li>cue pool: symmetry span - A Left</li></ul>
-<li>channel: symmetryRight</li>
-<ul><li>cue pool: symmetry span - A Right</li></ul>
-</ul>
-</ul>
-</p>
-
-## Rules
-<p>
-<ul>
-<li>ID: 358</li>
-<ul><li>criteria: (followleft.ordinalityValue() == followright.ordinalityValue() && ((followleft.containsTag('left') && followright.containsTag('I_flip')) || (followleft.containsTag('r_flip') && followright.containsTag('right')))</li></ul>
-<li>ID: 607</li>
-<ul><li>criteria: symmetryLeft.ordinalityValue() == symmetryright.ordinalityValue()</li></ul>
-</ul>
-</p>
-
-## Buttons
-<p>
-<ul>
-<li>Name: Memory - Down - label left</li>
-<ul><li>tags: no</li>
-<li>ID: 569</li>
-</ul>
-<li>Name: Memory - Up - label left</li>
-<ul><li>tags: yes</li>
-<li>ID: 568</li>
-</ul>
-</ul>
-</p>
-
-## Palettes
-<p>
-<ul>
-<li>palette: symmetry span</li>
-<li>modes: spancollection</li>
-</ul>
-</p>
-
-## Collections
-<p>
-<ul>
-<li>modes: spancollection</li>
-<li>channel: span</li>
-</ul>
-</p>
-
-## Score Events
-<p>
-<ul>
-<li>ID: 883</li>
-<ul>
-<li>score name: correct_non_response</li>
-<li>channel: followleft</li>
-<li>label: incorrect symmetry</li>
-<li>weight: 2.0</li>
-<li>play events</li>
-<ul><li>start correct</li></ul>
-<li>penalty play events</li>
-<ul><li>incorrect start</li>
-<li>symmetry end</li>
-<li>pause start</li>
-</ul>
-</ul>
-<li>ID: 695</li>
-<ul>
-<li>score name: correct_cue_position</li>
-<li>channel: span</li>
-<li>label: symbols remembered</li>
-<li>weight: 5.0</li>
-</ul>
-<li>ID: 696</li>
-<ul>
-<li>score name: correct_response</li>
-<li>channel: followleft</li>
-<li>label: correct symmetry</li>
-<li>weight: 2.0</li>
-<li>play events</li>
-<ul><li>end symmetry</li>
-<li>start pause</li>
-<li>start correct</li>
-</ul>
-<li>penalty play events</li>
-<ul>
-<li>start incorrect</li>
-</ul>
-</ul>
+<li><a href="{{ page.json1 }}">Here is a link to some example JSON</a> for game 275 level 1.</li>
+<li>This JSON is only the 'play_data' portion of the actual JSON from a gameplay session.</li>
+<li>Additionally the intro sequence has also been removed from the 'play_data'.</li>
+<li>Stimuli are displayed in the 'show_cue' actions.</li>
+<li>Responses are evaluated after all stimuli have been displayed. The score event is 'correct_cue_position' for the span component of the task.</li>
+<li>Score events 'correct_non_response' and 'correct_response' are part of the symmetry tak.</li>
 </ul>
 </p>
 

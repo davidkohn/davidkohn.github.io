@@ -1,0 +1,3742 @@
+{
+	"play_data" : [
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T08:59:44.600Z",
+			"details" : "intro"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T08:59:44.601Z",
+			"details" : "targetscore"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T08:59:44.612Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 9583
+				},
+				"channel" : "intro"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T08:59:44.614Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1149
+				},
+				"channel" : "targetscore"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T08:59:44.702Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1149
+				},
+				"channel" : "targetscore"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T08:59:44.702Z",
+			"details" : {
+				"evaluation" : "incorrectNonResponse",
+				"channel" : "targetscore"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T08:59:44.702Z",
+			"details" : {
+				"cue_id" : 1149,
+				"channel" : "targetscore"
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T08:59:44.703Z",
+			"details" : "targetscore"
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T08:59:45.610Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 9583
+				},
+				"channel" : "intro"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T08:59:45.611Z",
+			"details" : {
+				"cue_id" : 9583,
+				"channel" : "intro"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T08:59:45.629Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 9582
+				},
+				"channel" : "intro"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T08:59:46.634Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 9582
+				},
+				"channel" : "intro"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T08:59:46.634Z",
+			"details" : {
+				"cue_id" : 9582,
+				"channel" : "intro"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T08:59:46.644Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 9581
+				},
+				"channel" : "intro"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T08:59:47.644Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 9581
+				},
+				"channel" : "intro"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T08:59:47.644Z",
+			"details" : {
+				"cue_id" : 9581,
+				"channel" : "intro"
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T08:59:47.644Z",
+			"details" : "intro"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T08:59:47.644Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T08:59:47.646Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1150
+				},
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T08:59:47.646Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1154
+				},
+				"channel" : "wordscolour"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T08:59:47.646Z",
+			"details" : "timer"
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T08:59:51.991Z",
+			"details" : {
+				"eventType" : "modeEvent",
+				"id" : 684,
+				"payLoad" : {
+					"type" : "end",
+					"modes" : [
+						"stimulus"
+					]
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T08:59:51.991Z",
+			"details" : {
+				"eventType" : "modeEvent",
+				"id" : 684,
+				"payLoad" : {
+					"type" : "start",
+					"modes" : [
+						"stimuluspause"
+					]
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T08:59:51.991Z",
+			"details" : {
+				"eventType" : "ruleEvent",
+				"id" : 684,
+				"payLoad" : {
+					"id" : 400
+				}
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T08:59:51.991Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T08:59:51.991Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1150
+				},
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T08:59:51.992Z",
+			"details" : {
+				"evaluation" : "incorrectNonResponse",
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T08:59:51.992Z",
+			"details" : {
+				"cue_id" : 1150,
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T08:59:51.992Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1154
+				},
+				"channel" : "wordscolour"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T08:59:51.993Z",
+			"details" : {
+				"cue_id" : 1154,
+				"channel" : "wordscolour"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T08:59:51.993Z",
+			"details" : "stimuluspause"
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T08:59:51.993Z",
+			"details" : {
+				"evaluation" : "correctResponse",
+				"rule" : 400,
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T08:59:51.994Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T08:59:52.083Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T08:59:52.142Z",
+			"details" : "stimuluspause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T08:59:52.142Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T08:59:52.144Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1150
+				},
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T08:59:52.144Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1163
+				},
+				"channel" : "wordscolour"
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T08:59:53.828Z",
+			"details" : {
+				"eventType" : "modeEvent",
+				"id" : 684,
+				"payLoad" : {
+					"type" : "end",
+					"modes" : [
+						"stimulus"
+					]
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T08:59:53.829Z",
+			"details" : {
+				"eventType" : "modeEvent",
+				"id" : 684,
+				"payLoad" : {
+					"type" : "start",
+					"modes" : [
+						"stimuluspause"
+					]
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T08:59:53.829Z",
+			"details" : {
+				"eventType" : "ruleEvent",
+				"id" : 684,
+				"payLoad" : {
+					"id" : 400
+				}
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T08:59:53.829Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T08:59:53.829Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1150
+				},
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T08:59:53.829Z",
+			"details" : {
+				"evaluation" : "incorrectNonResponse",
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T08:59:53.830Z",
+			"details" : {
+				"cue_id" : 1150,
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T08:59:53.830Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1163
+				},
+				"channel" : "wordscolour"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T08:59:53.830Z",
+			"details" : {
+				"cue_id" : 1163,
+				"channel" : "wordscolour"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T08:59:53.831Z",
+			"details" : "stimuluspause"
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T08:59:53.831Z",
+			"details" : {
+				"evaluation" : "incorrectResponse",
+				"rule" : {
+					"span" : false,
+					"adaptationLevels" : [ ],
+					"criteria" : "!wordsmeaning.hasSameTagsAs(wordscolour)",
+					"retryExempt" : false,
+					"id" : 400,
+					"channel" : "wordsmeaning"
+				},
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T08:59:53.832Z",
+			"details" : "incorrect"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T08:59:53.908Z",
+			"details" : "incorrect"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T08:59:53.959Z",
+			"details" : "stimuluspause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T08:59:53.959Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T08:59:53.961Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1150
+				},
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T08:59:53.961Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1159
+				},
+				"channel" : "wordscolour"
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T08:59:58.150Z",
+			"details" : {
+				"eventType" : "modeEvent",
+				"id" : 685,
+				"payLoad" : {
+					"type" : "end",
+					"modes" : [
+						"stimulus"
+					]
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T08:59:58.150Z",
+			"details" : {
+				"eventType" : "modeEvent",
+				"id" : 685,
+				"payLoad" : {
+					"type" : "start",
+					"modes" : [
+						"stimuluspause"
+					]
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T08:59:58.150Z",
+			"details" : {
+				"eventType" : "ruleEvent",
+				"id" : 685,
+				"payLoad" : {
+					"id" : 399
+				}
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T08:59:58.150Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T08:59:58.150Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1150
+				},
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T08:59:58.151Z",
+			"details" : {
+				"evaluation" : "incorrectNonResponse",
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T08:59:58.151Z",
+			"details" : {
+				"cue_id" : 1150,
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T08:59:58.151Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1159
+				},
+				"channel" : "wordscolour"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T08:59:58.151Z",
+			"details" : {
+				"cue_id" : 1159,
+				"channel" : "wordscolour"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T08:59:58.152Z",
+			"details" : "stimuluspause"
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T08:59:58.152Z",
+			"details" : {
+				"evaluation" : "incorrectResponse",
+				"rule" : {
+					"span" : false,
+					"adaptationLevels" : [ ],
+					"criteria" : "wordsmeaning.hasSameTagsAs(wordscolour)",
+					"retryExempt" : false,
+					"id" : 399,
+					"channel" : "wordsmeaning"
+				},
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T08:59:58.152Z",
+			"details" : "incorrect"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T08:59:58.220Z",
+			"details" : "incorrect"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T08:59:58.279Z",
+			"details" : "stimuluspause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T08:59:58.279Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T08:59:58.280Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1151
+				},
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T08:59:58.281Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1160
+				},
+				"channel" : "wordscolour"
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T09:00:00.126Z",
+			"details" : {
+				"eventType" : "modeEvent",
+				"id" : 684,
+				"payLoad" : {
+					"type" : "end",
+					"modes" : [
+						"stimulus"
+					]
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T09:00:00.127Z",
+			"details" : {
+				"eventType" : "modeEvent",
+				"id" : 684,
+				"payLoad" : {
+					"type" : "start",
+					"modes" : [
+						"stimuluspause"
+					]
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T09:00:00.127Z",
+			"details" : {
+				"eventType" : "ruleEvent",
+				"id" : 684,
+				"payLoad" : {
+					"id" : 400
+				}
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T09:00:00.127Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T09:00:00.128Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1151
+				},
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T09:00:00.128Z",
+			"details" : {
+				"evaluation" : "incorrectNonResponse",
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T09:00:00.129Z",
+			"details" : {
+				"cue_id" : 1151,
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T09:00:00.129Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1160
+				},
+				"channel" : "wordscolour"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T09:00:00.130Z",
+			"details" : {
+				"cue_id" : 1160,
+				"channel" : "wordscolour"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T09:00:00.130Z",
+			"details" : "stimuluspause"
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T09:00:00.131Z",
+			"details" : {
+				"evaluation" : "correctResponse",
+				"rule" : 400,
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T09:00:00.131Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T09:00:00.217Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T09:00:00.282Z",
+			"details" : "stimuluspause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T09:00:00.283Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T09:00:00.284Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1152
+				},
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T09:00:00.285Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1163
+				},
+				"channel" : "wordscolour"
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T09:00:01.877Z",
+			"details" : {
+				"eventType" : "modeEvent",
+				"id" : 684,
+				"payLoad" : {
+					"type" : "end",
+					"modes" : [
+						"stimulus"
+					]
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T09:00:01.877Z",
+			"details" : {
+				"eventType" : "modeEvent",
+				"id" : 684,
+				"payLoad" : {
+					"type" : "start",
+					"modes" : [
+						"stimuluspause"
+					]
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T09:00:01.877Z",
+			"details" : {
+				"eventType" : "ruleEvent",
+				"id" : 684,
+				"payLoad" : {
+					"id" : 400
+				}
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T09:00:01.877Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T09:00:01.877Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1152
+				},
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T09:00:01.878Z",
+			"details" : {
+				"evaluation" : "incorrectNonResponse",
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T09:00:01.878Z",
+			"details" : {
+				"cue_id" : 1152,
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T09:00:01.878Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1163
+				},
+				"channel" : "wordscolour"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T09:00:01.879Z",
+			"details" : {
+				"cue_id" : 1163,
+				"channel" : "wordscolour"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T09:00:01.879Z",
+			"details" : "stimuluspause"
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T09:00:01.879Z",
+			"details" : {
+				"evaluation" : "correctResponse",
+				"rule" : 400,
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T09:00:01.879Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T09:00:01.957Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T09:00:02.015Z",
+			"details" : "stimuluspause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T09:00:02.015Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T09:00:02.016Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1152
+				},
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T09:00:02.017Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1163
+				},
+				"channel" : "wordscolour"
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T09:00:03.492Z",
+			"details" : {
+				"eventType" : "modeEvent",
+				"id" : 684,
+				"payLoad" : {
+					"type" : "end",
+					"modes" : [
+						"stimulus"
+					]
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T09:00:03.492Z",
+			"details" : {
+				"eventType" : "modeEvent",
+				"id" : 684,
+				"payLoad" : {
+					"type" : "start",
+					"modes" : [
+						"stimuluspause"
+					]
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T09:00:03.492Z",
+			"details" : {
+				"eventType" : "ruleEvent",
+				"id" : 684,
+				"payLoad" : {
+					"id" : 400
+				}
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T09:00:03.492Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T09:00:03.492Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1152
+				},
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T09:00:03.493Z",
+			"details" : {
+				"evaluation" : "incorrectNonResponse",
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T09:00:03.493Z",
+			"details" : {
+				"cue_id" : 1152,
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T09:00:03.493Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1163
+				},
+				"channel" : "wordscolour"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T09:00:03.493Z",
+			"details" : {
+				"cue_id" : 1163,
+				"channel" : "wordscolour"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T09:00:03.494Z",
+			"details" : "stimuluspause"
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T09:00:03.494Z",
+			"details" : {
+				"evaluation" : "correctResponse",
+				"rule" : 400,
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T09:00:03.494Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T09:00:03.579Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T09:00:03.635Z",
+			"details" : "stimuluspause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T09:00:03.635Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T09:00:03.636Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1151
+				},
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T09:00:03.637Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1161
+				},
+				"channel" : "wordscolour"
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T09:00:05.348Z",
+			"details" : {
+				"eventType" : "modeEvent",
+				"id" : 684,
+				"payLoad" : {
+					"type" : "end",
+					"modes" : [
+						"stimulus"
+					]
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T09:00:05.348Z",
+			"details" : {
+				"eventType" : "modeEvent",
+				"id" : 684,
+				"payLoad" : {
+					"type" : "start",
+					"modes" : [
+						"stimuluspause"
+					]
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T09:00:05.348Z",
+			"details" : {
+				"eventType" : "ruleEvent",
+				"id" : 684,
+				"payLoad" : {
+					"id" : 400
+				}
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T09:00:05.348Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T09:00:05.348Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1151
+				},
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T09:00:05.349Z",
+			"details" : {
+				"evaluation" : "incorrectNonResponse",
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T09:00:05.349Z",
+			"details" : {
+				"cue_id" : 1151,
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T09:00:05.350Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1161
+				},
+				"channel" : "wordscolour"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T09:00:05.350Z",
+			"details" : {
+				"cue_id" : 1161,
+				"channel" : "wordscolour"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T09:00:05.350Z",
+			"details" : "stimuluspause"
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T09:00:05.351Z",
+			"details" : {
+				"evaluation" : "correctResponse",
+				"rule" : 400,
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T09:00:05.351Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T09:00:05.439Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T09:00:05.493Z",
+			"details" : "stimuluspause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T09:00:05.494Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T09:00:05.495Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1153
+				},
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T09:00:05.495Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1157
+				},
+				"channel" : "wordscolour"
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T09:00:07.479Z",
+			"details" : {
+				"eventType" : "modeEvent",
+				"id" : 684,
+				"payLoad" : {
+					"type" : "end",
+					"modes" : [
+						"stimulus"
+					]
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T09:00:07.479Z",
+			"details" : {
+				"eventType" : "modeEvent",
+				"id" : 684,
+				"payLoad" : {
+					"type" : "start",
+					"modes" : [
+						"stimuluspause"
+					]
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T09:00:07.479Z",
+			"details" : {
+				"eventType" : "ruleEvent",
+				"id" : 684,
+				"payLoad" : {
+					"id" : 400
+				}
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T09:00:07.479Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T09:00:07.479Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1153
+				},
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T09:00:07.480Z",
+			"details" : {
+				"evaluation" : "incorrectNonResponse",
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T09:00:07.480Z",
+			"details" : {
+				"cue_id" : 1153,
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T09:00:07.480Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1157
+				},
+				"channel" : "wordscolour"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T09:00:07.480Z",
+			"details" : {
+				"cue_id" : 1157,
+				"channel" : "wordscolour"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T09:00:07.481Z",
+			"details" : "stimuluspause"
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T09:00:07.481Z",
+			"details" : {
+				"evaluation" : "correctResponse",
+				"rule" : 400,
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T09:00:07.481Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T09:00:07.569Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T09:00:07.629Z",
+			"details" : "stimuluspause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T09:00:07.629Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T09:00:07.630Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1152
+				},
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T09:00:07.631Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1162
+				},
+				"channel" : "wordscolour"
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T09:00:09.526Z",
+			"details" : {
+				"eventType" : "modeEvent",
+				"id" : 684,
+				"payLoad" : {
+					"type" : "end",
+					"modes" : [
+						"stimulus"
+					]
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T09:00:09.526Z",
+			"details" : {
+				"eventType" : "modeEvent",
+				"id" : 684,
+				"payLoad" : {
+					"type" : "start",
+					"modes" : [
+						"stimuluspause"
+					]
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T09:00:09.526Z",
+			"details" : {
+				"eventType" : "ruleEvent",
+				"id" : 684,
+				"payLoad" : {
+					"id" : 400
+				}
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T09:00:09.526Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T09:00:09.526Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1152
+				},
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T09:00:09.527Z",
+			"details" : {
+				"evaluation" : "incorrectNonResponse",
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T09:00:09.527Z",
+			"details" : {
+				"cue_id" : 1152,
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T09:00:09.528Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1162
+				},
+				"channel" : "wordscolour"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T09:00:09.528Z",
+			"details" : {
+				"cue_id" : 1162,
+				"channel" : "wordscolour"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T09:00:09.528Z",
+			"details" : "stimuluspause"
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T09:00:09.529Z",
+			"details" : {
+				"evaluation" : "correctResponse",
+				"rule" : 400,
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T09:00:09.529Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T09:00:09.614Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T09:00:09.683Z",
+			"details" : "stimuluspause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T09:00:09.684Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T09:00:09.685Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1152
+				},
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T09:00:09.685Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1161
+				},
+				"channel" : "wordscolour"
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T09:00:11.193Z",
+			"details" : {
+				"eventType" : "modeEvent",
+				"id" : 684,
+				"payLoad" : {
+					"type" : "end",
+					"modes" : [
+						"stimulus"
+					]
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T09:00:11.193Z",
+			"details" : {
+				"eventType" : "modeEvent",
+				"id" : 684,
+				"payLoad" : {
+					"type" : "start",
+					"modes" : [
+						"stimuluspause"
+					]
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T09:00:11.193Z",
+			"details" : {
+				"eventType" : "ruleEvent",
+				"id" : 684,
+				"payLoad" : {
+					"id" : 400
+				}
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T09:00:11.193Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T09:00:11.194Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1152
+				},
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T09:00:11.194Z",
+			"details" : {
+				"evaluation" : "incorrectNonResponse",
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T09:00:11.195Z",
+			"details" : {
+				"cue_id" : 1152,
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T09:00:11.196Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1161
+				},
+				"channel" : "wordscolour"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T09:00:11.196Z",
+			"details" : {
+				"cue_id" : 1161,
+				"channel" : "wordscolour"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T09:00:11.196Z",
+			"details" : "stimuluspause"
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T09:00:11.197Z",
+			"details" : {
+				"evaluation" : "correctResponse",
+				"rule" : 400,
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T09:00:11.197Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T09:00:11.308Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T09:00:11.359Z",
+			"details" : "stimuluspause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T09:00:11.359Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T09:00:11.361Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1151
+				},
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T09:00:11.362Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1157
+				},
+				"channel" : "wordscolour"
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T09:00:12.953Z",
+			"details" : {
+				"eventType" : "modeEvent",
+				"id" : 684,
+				"payLoad" : {
+					"type" : "end",
+					"modes" : [
+						"stimulus"
+					]
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T09:00:12.954Z",
+			"details" : {
+				"eventType" : "modeEvent",
+				"id" : 684,
+				"payLoad" : {
+					"type" : "start",
+					"modes" : [
+						"stimuluspause"
+					]
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T09:00:12.954Z",
+			"details" : {
+				"eventType" : "ruleEvent",
+				"id" : 684,
+				"payLoad" : {
+					"id" : 400
+				}
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T09:00:12.954Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T09:00:12.954Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1151
+				},
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T09:00:12.955Z",
+			"details" : {
+				"evaluation" : "incorrectNonResponse",
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T09:00:12.955Z",
+			"details" : {
+				"cue_id" : 1151,
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T09:00:12.956Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1157
+				},
+				"channel" : "wordscolour"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T09:00:12.956Z",
+			"details" : {
+				"cue_id" : 1157,
+				"channel" : "wordscolour"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T09:00:12.957Z",
+			"details" : "stimuluspause"
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T09:00:12.957Z",
+			"details" : {
+				"evaluation" : "correctResponse",
+				"rule" : 400,
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T09:00:12.958Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T09:00:13.051Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T09:00:13.118Z",
+			"details" : "stimuluspause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T09:00:13.118Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T09:00:13.119Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1150
+				},
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T09:00:13.120Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1164
+				},
+				"channel" : "wordscolour"
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T09:00:14.854Z",
+			"details" : {
+				"eventType" : "modeEvent",
+				"id" : 684,
+				"payLoad" : {
+					"type" : "end",
+					"modes" : [
+						"stimulus"
+					]
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T09:00:14.854Z",
+			"details" : {
+				"eventType" : "modeEvent",
+				"id" : 684,
+				"payLoad" : {
+					"type" : "start",
+					"modes" : [
+						"stimuluspause"
+					]
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T09:00:14.854Z",
+			"details" : {
+				"eventType" : "ruleEvent",
+				"id" : 684,
+				"payLoad" : {
+					"id" : 400
+				}
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T09:00:14.854Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T09:00:14.854Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1150
+				},
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T09:00:14.855Z",
+			"details" : {
+				"evaluation" : "incorrectNonResponse",
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T09:00:14.855Z",
+			"details" : {
+				"cue_id" : 1150,
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T09:00:14.855Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1164
+				},
+				"channel" : "wordscolour"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T09:00:14.856Z",
+			"details" : {
+				"cue_id" : 1164,
+				"channel" : "wordscolour"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T09:00:14.856Z",
+			"details" : "stimuluspause"
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T09:00:14.856Z",
+			"details" : {
+				"evaluation" : "incorrectResponse",
+				"rule" : {
+					"span" : false,
+					"adaptationLevels" : [ ],
+					"criteria" : "!wordsmeaning.hasSameTagsAs(wordscolour)",
+					"retryExempt" : false,
+					"id" : 400,
+					"channel" : "wordsmeaning"
+				},
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T09:00:14.857Z",
+			"details" : "incorrect"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T09:00:14.939Z",
+			"details" : "incorrect"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T09:00:14.999Z",
+			"details" : "stimuluspause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T09:00:14.999Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T09:00:15.001Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1152
+				},
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T09:00:15.001Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1157
+				},
+				"channel" : "wordscolour"
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T09:00:19.636Z",
+			"details" : {
+				"eventType" : "modeEvent",
+				"id" : 684,
+				"payLoad" : {
+					"type" : "end",
+					"modes" : [
+						"stimulus"
+					]
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T09:00:19.636Z",
+			"details" : {
+				"eventType" : "modeEvent",
+				"id" : 684,
+				"payLoad" : {
+					"type" : "start",
+					"modes" : [
+						"stimuluspause"
+					]
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T09:00:19.636Z",
+			"details" : {
+				"eventType" : "ruleEvent",
+				"id" : 684,
+				"payLoad" : {
+					"id" : 400
+				}
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T09:00:19.636Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T09:00:19.637Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1152
+				},
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T09:00:19.637Z",
+			"details" : {
+				"evaluation" : "incorrectNonResponse",
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T09:00:19.637Z",
+			"details" : {
+				"cue_id" : 1152,
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T09:00:19.638Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1157
+				},
+				"channel" : "wordscolour"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T09:00:19.638Z",
+			"details" : {
+				"cue_id" : 1157,
+				"channel" : "wordscolour"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T09:00:19.639Z",
+			"details" : "stimuluspause"
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T09:00:19.639Z",
+			"details" : {
+				"evaluation" : "correctResponse",
+				"rule" : 400,
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T09:00:19.639Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T09:00:19.719Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T09:00:19.766Z",
+			"details" : "stimuluspause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T09:00:19.766Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T09:00:19.767Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1152
+				},
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T09:00:19.767Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1165
+				},
+				"channel" : "wordscolour"
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T09:00:21.517Z",
+			"details" : {
+				"eventType" : "modeEvent",
+				"id" : 685,
+				"payLoad" : {
+					"type" : "end",
+					"modes" : [
+						"stimulus"
+					]
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T09:00:21.517Z",
+			"details" : {
+				"eventType" : "modeEvent",
+				"id" : 685,
+				"payLoad" : {
+					"type" : "start",
+					"modes" : [
+						"stimuluspause"
+					]
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T09:00:21.517Z",
+			"details" : {
+				"eventType" : "ruleEvent",
+				"id" : 685,
+				"payLoad" : {
+					"id" : 399
+				}
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T09:00:21.517Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T09:00:21.518Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1152
+				},
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T09:00:21.518Z",
+			"details" : {
+				"evaluation" : "incorrectNonResponse",
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T09:00:21.519Z",
+			"details" : {
+				"cue_id" : 1152,
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T09:00:21.520Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1165
+				},
+				"channel" : "wordscolour"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T09:00:21.520Z",
+			"details" : {
+				"cue_id" : 1165,
+				"channel" : "wordscolour"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T09:00:21.520Z",
+			"details" : "stimuluspause"
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T09:00:21.521Z",
+			"details" : {
+				"evaluation" : "incorrectResponse",
+				"rule" : {
+					"span" : false,
+					"adaptationLevels" : [ ],
+					"criteria" : "wordsmeaning.hasSameTagsAs(wordscolour)",
+					"retryExempt" : false,
+					"id" : 399,
+					"channel" : "wordsmeaning"
+				},
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T09:00:21.521Z",
+			"details" : "incorrect"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T09:00:21.616Z",
+			"details" : "incorrect"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T09:00:21.663Z",
+			"details" : "stimuluspause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T09:00:21.663Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T09:00:21.664Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1153
+				},
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T09:00:21.665Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1159
+				},
+				"channel" : "wordscolour"
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T09:00:25.928Z",
+			"details" : {
+				"eventType" : "modeEvent",
+				"id" : 684,
+				"payLoad" : {
+					"type" : "end",
+					"modes" : [
+						"stimulus"
+					]
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T09:00:25.928Z",
+			"details" : {
+				"eventType" : "modeEvent",
+				"id" : 684,
+				"payLoad" : {
+					"type" : "start",
+					"modes" : [
+						"stimuluspause"
+					]
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T09:00:25.928Z",
+			"details" : {
+				"eventType" : "ruleEvent",
+				"id" : 684,
+				"payLoad" : {
+					"id" : 400
+				}
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T09:00:25.928Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T09:00:25.928Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1153
+				},
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T09:00:25.929Z",
+			"details" : {
+				"evaluation" : "incorrectNonResponse",
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T09:00:25.929Z",
+			"details" : {
+				"cue_id" : 1153,
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T09:00:25.930Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1159
+				},
+				"channel" : "wordscolour"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T09:00:25.930Z",
+			"details" : {
+				"cue_id" : 1159,
+				"channel" : "wordscolour"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T09:00:25.931Z",
+			"details" : "stimuluspause"
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T09:00:25.932Z",
+			"details" : {
+				"evaluation" : "correctResponse",
+				"rule" : 400,
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T09:00:25.932Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T09:00:26.018Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T09:00:26.077Z",
+			"details" : "stimuluspause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T09:00:26.078Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T09:00:26.079Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1150
+				},
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T09:00:26.080Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1163
+				},
+				"channel" : "wordscolour"
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T09:00:28.258Z",
+			"details" : {
+				"eventType" : "modeEvent",
+				"id" : 684,
+				"payLoad" : {
+					"type" : "end",
+					"modes" : [
+						"stimulus"
+					]
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T09:00:28.258Z",
+			"details" : {
+				"eventType" : "modeEvent",
+				"id" : 684,
+				"payLoad" : {
+					"type" : "start",
+					"modes" : [
+						"stimuluspause"
+					]
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T09:00:28.258Z",
+			"details" : {
+				"eventType" : "ruleEvent",
+				"id" : 684,
+				"payLoad" : {
+					"id" : 400
+				}
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T09:00:28.258Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T09:00:28.258Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1150
+				},
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T09:00:28.259Z",
+			"details" : {
+				"evaluation" : "incorrectNonResponse",
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T09:00:28.259Z",
+			"details" : {
+				"cue_id" : 1150,
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T09:00:28.260Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1163
+				},
+				"channel" : "wordscolour"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T09:00:28.260Z",
+			"details" : {
+				"cue_id" : 1163,
+				"channel" : "wordscolour"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T09:00:28.260Z",
+			"details" : "stimuluspause"
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T09:00:28.261Z",
+			"details" : {
+				"evaluation" : "incorrectResponse",
+				"rule" : {
+					"span" : false,
+					"adaptationLevels" : [ ],
+					"criteria" : "!wordsmeaning.hasSameTagsAs(wordscolour)",
+					"retryExempt" : false,
+					"id" : 400,
+					"channel" : "wordsmeaning"
+				},
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T09:00:28.261Z",
+			"details" : "incorrect"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T09:00:28.352Z",
+			"details" : "incorrect"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T09:00:28.404Z",
+			"details" : "stimuluspause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T09:00:28.404Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T09:00:28.405Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1153
+				},
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T09:00:28.406Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1160
+				},
+				"channel" : "wordscolour"
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T09:00:30.991Z",
+			"details" : {
+				"eventType" : "modeEvent",
+				"id" : 684,
+				"payLoad" : {
+					"type" : "end",
+					"modes" : [
+						"stimulus"
+					]
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T09:00:30.991Z",
+			"details" : {
+				"eventType" : "modeEvent",
+				"id" : 684,
+				"payLoad" : {
+					"type" : "start",
+					"modes" : [
+						"stimuluspause"
+					]
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T09:00:30.992Z",
+			"details" : {
+				"eventType" : "ruleEvent",
+				"id" : 684,
+				"payLoad" : {
+					"id" : 400
+				}
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T09:00:30.992Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T09:00:30.992Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1153
+				},
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T09:00:30.992Z",
+			"details" : {
+				"evaluation" : "incorrectNonResponse",
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T09:00:30.993Z",
+			"details" : {
+				"cue_id" : 1153,
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T09:00:30.993Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1160
+				},
+				"channel" : "wordscolour"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T09:00:30.993Z",
+			"details" : {
+				"cue_id" : 1160,
+				"channel" : "wordscolour"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T09:00:30.994Z",
+			"details" : "stimuluspause"
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T09:00:30.994Z",
+			"details" : {
+				"evaluation" : "correctResponse",
+				"rule" : 400,
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T09:00:30.995Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T09:00:31.072Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T09:00:31.129Z",
+			"details" : "stimuluspause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T09:00:31.129Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T09:00:31.130Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1150
+				},
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T09:00:31.131Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1160
+				},
+				"channel" : "wordscolour"
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T09:00:35.479Z",
+			"details" : {
+				"eventType" : "modeEvent",
+				"id" : 684,
+				"payLoad" : {
+					"type" : "end",
+					"modes" : [
+						"stimulus"
+					]
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T09:00:35.479Z",
+			"details" : {
+				"eventType" : "modeEvent",
+				"id" : 684,
+				"payLoad" : {
+					"type" : "start",
+					"modes" : [
+						"stimuluspause"
+					]
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T09:00:35.479Z",
+			"details" : {
+				"eventType" : "ruleEvent",
+				"id" : 684,
+				"payLoad" : {
+					"id" : 400
+				}
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T09:00:35.479Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T09:00:35.480Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1150
+				},
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T09:00:35.480Z",
+			"details" : {
+				"evaluation" : "incorrectNonResponse",
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T09:00:35.481Z",
+			"details" : {
+				"cue_id" : 1150,
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T09:00:35.481Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1160
+				},
+				"channel" : "wordscolour"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T09:00:35.482Z",
+			"details" : {
+				"cue_id" : 1160,
+				"channel" : "wordscolour"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T09:00:35.482Z",
+			"details" : "stimuluspause"
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T09:00:35.483Z",
+			"details" : {
+				"evaluation" : "correctResponse",
+				"rule" : 400,
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T09:00:35.483Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T09:00:35.593Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T09:00:35.648Z",
+			"details" : "stimuluspause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T09:00:35.648Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T09:00:35.649Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1151
+				},
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T09:00:35.649Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1155
+				},
+				"channel" : "wordscolour"
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T09:00:39.187Z",
+			"details" : {
+				"eventType" : "modeEvent",
+				"id" : 684,
+				"payLoad" : {
+					"type" : "end",
+					"modes" : [
+						"stimulus"
+					]
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T09:00:39.187Z",
+			"details" : {
+				"eventType" : "modeEvent",
+				"id" : 684,
+				"payLoad" : {
+					"type" : "start",
+					"modes" : [
+						"stimuluspause"
+					]
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T09:00:39.187Z",
+			"details" : {
+				"eventType" : "ruleEvent",
+				"id" : 684,
+				"payLoad" : {
+					"id" : 400
+				}
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T09:00:39.187Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T09:00:39.187Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1151
+				},
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T09:00:39.188Z",
+			"details" : {
+				"evaluation" : "incorrectNonResponse",
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T09:00:39.188Z",
+			"details" : {
+				"cue_id" : 1151,
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T09:00:39.189Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1155
+				},
+				"channel" : "wordscolour"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T09:00:39.189Z",
+			"details" : {
+				"cue_id" : 1155,
+				"channel" : "wordscolour"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T09:00:39.190Z",
+			"details" : "stimuluspause"
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T09:00:39.190Z",
+			"details" : {
+				"evaluation" : "correctResponse",
+				"rule" : 400,
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T09:00:39.191Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T09:00:39.320Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T09:00:39.370Z",
+			"details" : "stimuluspause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T09:00:39.370Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T09:00:39.371Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1151
+				},
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T09:00:39.372Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1157
+				},
+				"channel" : "wordscolour"
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T09:00:41.197Z",
+			"details" : {
+				"eventType" : "modeEvent",
+				"id" : 684,
+				"payLoad" : {
+					"type" : "end",
+					"modes" : [
+						"stimulus"
+					]
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T09:00:41.197Z",
+			"details" : {
+				"eventType" : "modeEvent",
+				"id" : 684,
+				"payLoad" : {
+					"type" : "start",
+						"modes" : [
+						"stimuluspause"
+					]
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T09:00:41.197Z",
+			"details" : {
+				"eventType" : "ruleEvent",
+				"id" : 684,
+				"payLoad" : {
+					"id" : 400
+				}
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T09:00:41.197Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T09:00:41.197Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1151
+				},
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T09:00:41.198Z",
+			"details" : {
+				"evaluation" : "incorrectNonResponse",
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T09:00:41.198Z",
+			"details" : {
+				"cue_id" : 1151,
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T09:00:41.198Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1157
+				},
+				"channel" : "wordscolour"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T09:00:41.199Z",
+			"details" : {
+				"cue_id" : 1157,
+				"channel" : "wordscolour"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T09:00:41.199Z",
+			"details" : "stimuluspause"
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T09:00:41.199Z",
+			"details" : {
+				"evaluation" : "correctResponse",
+				"rule" : 400,
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T09:00:41.199Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T09:00:41.279Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T09:00:41.334Z",
+			"details" : "stimuluspause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T09:00:41.335Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T09:00:41.336Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1152
+				},
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T09:00:41.336Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1163
+				},
+				"channel" : "wordscolour"
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T09:00:43.465Z",
+			"details" : {
+				"eventType" : "modeEvent",
+				"id" : 684,
+				"payLoad" : {
+					"type" : "end",
+					"modes" : [
+						"stimulus"
+					]
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T09:00:43.465Z",
+			"details" : {
+				"eventType" : "modeEvent",
+				"id" : 684,
+				"payLoad" : {
+					"type" : "start",
+					"modes" : [
+						"stimuluspause"
+					]
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T09:00:43.465Z",
+			"details" : {
+				"eventType" : "ruleEvent",
+				"id" : 684,
+				"payLoad" : {
+					"id" : 400
+				}
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T09:00:43.465Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T09:00:43.465Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1152
+				},
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T09:00:43.466Z",
+			"details" : {
+				"evaluation" : "incorrectNonResponse",
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T09:00:43.466Z",
+			"details" : {
+				"cue_id" : 1152,
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T09:00:43.467Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1163
+				},
+				"channel" : "wordscolour"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T09:00:43.467Z",
+			"details" : {
+				"cue_id" : 1163,
+				"channel" : "wordscolour"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T09:00:43.467Z",
+			"details" : "stimuluspause"
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T09:00:43.468Z",
+			"details" : {
+				"evaluation" : "correctResponse",
+				"rule" : 400,
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T09:00:43.468Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T09:00:43.538Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T09:00:43.600Z",
+			"details" : "stimuluspause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T09:00:43.600Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T09:00:43.601Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1153
+				},
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T09:00:43.601Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1159
+				},
+				"channel" : "wordscolour"
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T09:00:45.964Z",
+			"details" : {
+				"eventType" : "modeEvent",
+				"id" : 684,
+				"payLoad" : {
+					"type" : "end",
+					"modes" : [
+						"stimulus"
+					]
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T09:00:45.964Z",
+			"details" : {
+				"eventType" : "modeEvent",
+				"id" : 684,
+				"payLoad" : {
+					"type" : "start",
+					"modes" : [
+						"stimuluspause"
+					]
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T09:00:45.964Z",
+			"details" : {
+				"eventType" : "ruleEvent",
+				"id" : 684,
+				"payLoad" : {
+					"id" : 400
+				}
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T09:00:45.964Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T09:00:45.964Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1153
+				},
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T09:00:45.965Z",
+			"details" : {
+				"evaluation" : "incorrectNonResponse",
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T09:00:45.965Z",
+			"details" : {
+				"cue_id" : 1153,
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T09:00:45.966Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1159
+				},
+				"channel" : "wordscolour"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T09:00:45.966Z",
+			"details" : {
+				"cue_id" : 1159,
+				"channel" : "wordscolour"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T09:00:45.966Z",
+			"details" : "stimuluspause"
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T09:00:45.967Z",
+			"details" : {
+				"evaluation" : "correctResponse",
+				"rule" : 400,
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T09:00:45.967Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T09:00:46.038Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T09:00:46.098Z",
+			"details" : "stimuluspause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T09:00:46.098Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T09:00:46.099Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1153
+				},
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T09:00:46.100Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1167
+				},
+				"channel" : "wordscolour"
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T09:00:47.702Z",
+			"details" : {
+				"eventType" : "modeEvent",
+				"id" : 684,
+				"payLoad" : {
+					"type" : "end",
+					"modes" : [
+						"stimulus"
+					]
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T09:00:47.702Z",
+			"details" : {
+				"eventType" : "modeEvent",
+				"id" : 684,
+				"payLoad" : {
+					"type" : "start",
+					"modes" : [
+						"stimuluspause"
+					]
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T09:00:47.702Z",
+			"details" : {
+				"eventType" : "ruleEvent",
+				"id" : 684,
+				"payLoad" : {
+					"id" : 400
+				}
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T09:00:47.702Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T09:00:47.702Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1153
+				},
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T09:00:47.703Z",
+			"details" : {
+				"evaluation" : "incorrectNonResponse",
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T09:00:47.703Z",
+			"details" : {
+				"cue_id" : 1153,
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T09:00:47.704Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1167
+				},
+				"channel" : "wordscolour"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T09:00:47.704Z",
+			"details" : {
+				"cue_id" : 1167,
+				"channel" : "wordscolour"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T09:00:47.704Z",
+			"details" : "stimuluspause"
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T09:00:47.705Z",
+			"details" : {
+				"evaluation" : "correctResponse",
+				"rule" : 400,
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T09:00:47.705Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T09:00:47.780Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T09:00:47.840Z",
+			"details" : "stimuluspause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T09:00:47.841Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T09:00:47.842Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1153
+				},
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T09:00:47.843Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1162
+				},
+				"channel" : "wordscolour"
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T09:00:48.578Z",
+			"details" : "timer"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T09:00:48.579Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T09:00:48.579Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1153
+				},
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T09:00:48.579Z",
+			"details" : {
+				"evaluation" : "incorrectNonResponse",
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T09:00:48.580Z",
+			"details" : {
+				"cue_id" : 1153,
+				"channel" : "wordsmeaning"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T09:00:48.580Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 1162
+				},
+				"channel" : "wordscolour"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T09:00:48.581Z",
+			"details" : {
+				"cue_id" : 1162,
+				"channel" : "wordscolour"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T09:00:48.581Z",
+			"details" : "gameOver"
+		}
+	]
+}

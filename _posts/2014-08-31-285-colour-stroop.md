@@ -7,6 +7,8 @@ image1: /assets/game_285_mean.png
 image2: /assets/game_285_adj_mean.png
 image3: /assets/game_285_no_gamesets.png
 image4: /assets/game_285_no_players.png
+cuepool1: /assets/cuepool-colour-stroop.csv
+json1: /assets/json-285.txt
 ---
 
 ### Contents
@@ -27,55 +29,28 @@ image4: /assets/game_285_no_players.png
 </ul>
 </p>
 
-## Display
+## How the game works
 <p>
 <ul>
-<li>Channels</li>
+<li>Stimuli are presented over 60 seconds.</li>
+<li>Two stimuli are presented each time. The stimuli are two words which are the names of colors. The words are also colored in themselves. The user is asked if 'meaning' and 'color' match. </li>
+<li>The game has a targetscore component.</li>
 <ul>
-<li>targetscore</li>
-<ul><li>updateAtFrame: 5</li>
-<li>modes: targetscore</li>
+<li>An initial 'l' target scores are generated where 'l' is the level number, e.g. 1 target scores on level 1, 15 target scores on level 15.</li>
+<li>Target score events have a weight of 1.0.</li>
+<li>A target score event is also generated for the last question as the user is never able to answer the last question, i.e. the game will always end when the user is looking at a question.</li>
 </ul>
-<li>wordsmeaning</li>
-<ul><li>retries: 3</li>
-<li>modes: stimulus</li>
-</ul>
-<li>wordscolour</li>
-<ul><li>modes: stimulus</li></ul>
-</ul>
-<li>gameModes</li>
-<ul>
-<li>endTriggers</li>
-<ul><li>intro -> stimulus, timer</li>
-<li>stimuluspause -> stimulus</li>
-<li>timer end = stimulus end</li>
-<li>timer -> gameOver</li>
-</ul>
-<li>durationInFrames</li>
-<ul><li>targetscore: 5</li>
-<li>timer: 3000</li>
-<li>stimuluspause: 6</li>
-<li>correct: 10</li>
-<li>incorrect: 10</li>
-</ul>
-</ul>
-<li>Adaptation rules</li>
-<ul><li>+5 duration to targetscore</li></ul>
+<li>Correct responses, i.e. correctresponse, have a weight of 1.0.</li>
+<li>Score is determined as (1.0 * no. correct responses) / (((level no. + 1) * 1.0) + (no. stimuli presented * 1.0))</li>
+<li>For example, if the user answers 2 out of 3 questions correct on level 1 their score will be, 2/5 or 40%. If the user answers 1 out of 4 questions correctly on level 15 their score will be 1/20 or 5%.</li>
 </ul>
 </p>
 
-## Stimulus
+## Cue Pools
 <p>
 <ul>
-<li>channel: wordsmeaning</li>
-<ul><li>cue pool: colour stroop - meaning (grey)</li></ul>
-<li>channel: targetscore</li>
-<ul><li>cue pool: colour stroop - taget</li>
-<li>channel: wordscolour</li>
-<ul>
-<li>cue pool: colour stroop colour</li>
-</ul>
-</ul>
+<li>The colors and words red, black, yellow and blue are displayed.</li>
+<li>Here is <a href="{{ page.cuepool1 }}">a CSV file of the cuepool</a>.</li>
 </ul>
 </p>
 
@@ -140,6 +115,16 @@ image4: /assets/game_285_no_players.png
 <li>language: 700</li>
 <li>auditory: 75</li>
 <li>spatial: 75</li>
+</ul>
+</p>
+
+## Example JSON
+<p>
+<ul>
+<li><a href="{{ page.json1 }}">Here is a link to some example JSON</a> for game 285 level 1.</li>
+<li>This JSON is only the 'play_data' portion of the actual JSON from a gameplay session.</li>
+<li>Stimuli are displayed in the 'show_cue' actions.</li>
+<li>Responses are evaluated after all stimuli have been displayed. The score event is 'correct_cue_position'.</li>
 </ul>
 </p>
 

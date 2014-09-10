@@ -19,7 +19,7 @@ This article applies to Antonyms, Synonyms, Antonyms 2 and Synonyms 2.
 <p>
 <ul>
 <li>Time: the game lasts 60 seconds on every level.</li>
-<li>Stimuli selection: cues are selected randomly without replacement. </li>
+<li>Stimuli selection: cues are selected randomly with replacement. </li>
 <li>Level differences: </li>
 <ul>
 <li>Different cue pools are used for different levels.</li>

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "312 Tonal Span"
+title: "312 Figure Exchange"
 category: doc
 date: 2014-09-01 15:51:10
 image1: /assets/game_312_mean.png
