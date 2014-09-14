@@ -7,6 +7,8 @@ image1: /assets/game_312_mean.png
 image2: /assets/game_312_adj_mean.png
 image3: /assets/game_312_no_gamesets.png
 image4: /assets/game_312_no_players.png
+json1: /assets/json-312.txt
+cuepool1: /assets/cuepool-figure-exchange.csv
 ---
 
 ### Contents
@@ -27,64 +29,39 @@ image4: /assets/game_312_no_players.png
 </ul>
 </p>
 
-## Display
+## How the game works
 <p>
 <ul>
-<li>channels</li>
-<ul>
-<li>stimulus</li>
-<ul>
-<li>cueSelectionMethod: deck</li>
-</ul>
-</ul>
-<li>gameModes</li>
-<ul>
-<li>endTriggers</li>
-<ul>
-<li>intro -> stimulus, solution, controls</li>
-<li>pause -> stimulus, solution, controls</li>
-<li>stimulus -> pause, stimulus -> gameOver when stimulus -> pause execute 2 times</li>
-<li>incorrect end = stimulus, controls end</li>
-<li>correct end = stimulus, controls end</li>
-</ul>
-<li>durationInFrames</li>
-<ul>
-<li>stimulus: 4000</li>
-<li>solution: 4000</li>
-<li>pause: 20</li>
-<li>correct: 20</li>
-<li>incorrect: 20</li>
-</ul>
-</ul>
-<li>adaptation rules</li>
-<ul>
-<li>stimulus -> gameOver when stimulus -> pause looped 2 + 1 times</li>
-<li>stimulus -250 durationInFrames</li>
-<li>solution -250 durationInFrames</li>
-</ul>
+<li>Two stimuli are presented each time. Stimuli A is a group of 4 card suits: hearts, clubs, spades and diamonds. Stimuli B is the same thing but the ordering is different. The user is asked how many moves it takes to get from A to B: 1, 2, 3, 4 or 5.</li>
+<li>Stimuli are selected randomly without replacement.</li>
+<li>At level 1 stimuli are presented for 80 seconds each. 2 stimuli are presented at level 1.</li>
+<li>On each subsequent level 1 more stimulus is presented. Stimuli are displayed for 450 frames or 9 seconds less on each subsequent level. </li>
+<li>For example at level 2, 3 stimuli are presented for 71 seconds each.</li>
+<li>Correct and incorrect responses both have weight 1.0.</li>
 </ul>
 </p>
 
 ## Stimulus
 <p>
+<a href="{{page.cuepool1}}">CSV file of the cuepool data</a>.
 <ul>
 <li>logic set 1</li>
 <ul>
 <li>levels: 1, 2, 3, 4, 5</li>
-<li>channel: stimulus</li>
-<ul><li>cue pool: Figure Exchange 1</li></ul>
+<li>cue pool: Figure Exchange 1</li>
+<li>average no. moves: 1.9</li>
 </ul>
 <li>logic set 2</li>
 <ul>
 <li>levels: 6, 7, 8, 9, 10</li>
-<li>channel: stimulus</li>
-<ul><li>cue pool: Figure Exchange 2</li></ul>
+<li>cue pool: Figure Exchange 2</li>
+<li>average no. moves: 2.5</li>
 </ul>
 <li>logic set 1</li>
 <ul>
 <li>levels: 11, 12, 13, 14, 15</li>
-<li>channel: stimulus</li>
-<ul><li>cue pool: Figure Exchange 3</li></ul>
+<li>cue pool: Figure Exchange 3</li>
+<li>average no. moves: 4.1</li>
 </ul>
 </ul>
 </p>
@@ -107,6 +84,14 @@ image4: /assets/game_312_no_players.png
 <li>language: 75</li>
 <li>auditory: 75</li>
 <li>spatial: 75</li>
+</ul>
+</p>
+
+## Example JSON
+<p>
+<ul>
+<li><a href="{{ page.json1 }}">Here is a link to some example JSON</a> for game 312 level 1.</li>
+<li>This JSON is only the 'play_data' portion of the actual JSON from a gameplay session.</li>
 </ul>
 </p>
 

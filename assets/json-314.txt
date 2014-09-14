@@ -1,0 +1,1764 @@
+{
+	"play_data" : [
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T05:02:39.516Z",
+			"details" : "intro"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T05:02:39.544Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 9583
+				},
+				"channel" : "intro"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T05:02:40.525Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 9583
+				},
+				"channel" : "intro"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T05:02:40.526Z",
+			"details" : {
+				"cue_id" : 9583,
+				"channel" : "intro"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T05:02:40.542Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 9582
+				},
+				"channel" : "intro"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T05:02:41.525Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 9582
+				},
+				"channel" : "intro"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T05:02:41.525Z",
+			"details" : {
+				"cue_id" : 9582,
+				"channel" : "intro"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T05:02:41.542Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 9581
+				},
+				"channel" : "intro"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T05:02:42.524Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 9581
+				},
+				"channel" : "intro"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T05:02:42.524Z",
+			"details" : {
+				"cue_id" : 9581,
+				"channel" : "intro"
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T05:02:42.525Z",
+			"details" : "intro"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T05:02:42.525Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T05:02:42.526Z",
+			"details" : "control"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T05:02:42.546Z",
+			"details" : {
+				"cue" : {
+					"y" : 136,
+					"x" : 330,
+					"id" : 7579
+				},
+				"channel" : "spatial"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T05:02:42.547Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 917
+				},
+				"channel" : "auditory"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T05:02:44.923Z",
+			"details" : {
+				"cue" : {
+					"y" : 136,
+					"x" : 330,
+					"id" : 7579
+				},
+				"channel" : "spatial"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-19T05:02:44.924Z",
+			"details" : {
+				"evaluation" : "correctNonResponse",
+				"channel" : "spatial"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T05:02:44.925Z",
+			"details" : {
+				"cue_id" : 7579,
+				"channel" : "spatial"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T05:02:44.925Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 917
+				},
+				"channel" : "auditory"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-19T05:02:44.926Z",
+			"details" : {
+				"evaluation" : "correctNonResponse",
+				"channel" : "auditory"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T05:02:44.926Z",
+			"details" : {
+				"cue_id" : 917,
+				"channel" : "auditory"
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T05:02:44.926Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T05:02:44.926Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T05:02:45.523Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T05:02:45.523Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T05:02:45.540Z",
+			"details" : {
+				"cue" : {
+					"y" : 136,
+					"x" : 330,
+					"id" : 7579
+				},
+				"channel" : "spatial"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T05:02:45.541Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 4050
+				},
+				"channel" : "auditory"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T05:02:47.922Z",
+			"details" : {
+				"cue" : {
+					"y" : 136,
+					"x" : 330,
+					"id" : 7579
+				},
+				"channel" : "spatial"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-19T05:02:47.922Z",
+			"details" : {
+				"evaluation" : "incorrectNonResponse",
+				"channel" : "spatial"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T05:02:47.922Z",
+			"details" : {
+				"cue_id" : 7579,
+				"channel" : "spatial"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T05:02:47.923Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 4050
+				},
+				"channel" : "auditory"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-19T05:02:47.923Z",
+			"details" : {
+				"evaluation" : "correctNonResponse",
+				"channel" : "auditory"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T05:02:47.923Z",
+			"details" : {
+				"cue_id" : 4050,
+				"channel" : "auditory"
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T05:02:47.923Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T05:02:47.923Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T05:02:48.522Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T05:02:48.522Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T05:02:48.538Z",
+			"details" : {
+				"cue" : {
+					"y" : 136,
+					"x" : 330,
+					"id" : 7579
+				},
+				"channel" : "spatial"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T05:02:48.539Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 917
+				},
+				"channel" : "auditory"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T05:02:50.920Z",
+			"details" : {
+				"cue" : {
+					"y" : 136,
+					"x" : 330,
+					"id" : 7579
+				},
+				"channel" : "spatial"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-19T05:02:50.920Z",
+			"details" : {
+				"evaluation" : "incorrectNonResponse",
+				"channel" : "spatial"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T05:02:50.920Z",
+			"details" : {
+				"cue_id" : 7579,
+				"channel" : "spatial"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T05:02:50.921Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 917
+				},
+				"channel" : "auditory"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-19T05:02:50.921Z",
+			"details" : {
+				"evaluation" : "correctNonResponse",
+				"channel" : "auditory"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T05:02:50.921Z",
+			"details" : {
+				"cue_id" : 917,
+				"channel" : "auditory"
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T05:02:50.921Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T05:02:50.921Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T05:02:51.520Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T05:02:51.520Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T05:02:51.536Z",
+			"details" : {
+				"cue" : {
+					"y" : 300,
+					"x" : 282,
+					"id" : 7583
+				},
+				"channel" : "spatial"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T05:02:51.537Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 917
+				},
+				"channel" : "auditory"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T05:02:53.918Z",
+			"details" : {
+				"cue" : {
+					"y" : 300,
+					"x" : 282,
+					"id" : 7583
+				},
+				"channel" : "spatial"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-19T05:02:53.918Z",
+			"details" : {
+				"evaluation" : "correctNonResponse",
+				"channel" : "spatial"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T05:02:53.918Z",
+			"details" : {
+				"cue_id" : 7583,
+				"channel" : "spatial"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T05:02:53.919Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 917
+				},
+				"channel" : "auditory"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-19T05:02:53.919Z",
+			"details" : {
+				"evaluation" : "incorrectNonResponse",
+				"channel" : "auditory"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T05:02:53.919Z",
+			"details" : {
+				"cue_id" : 917,
+				"channel" : "auditory"
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T05:02:53.919Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T05:02:53.919Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T05:02:54.518Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T05:02:54.518Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T05:02:54.535Z",
+			"details" : {
+				"cue" : {
+					"y" : 136,
+					"x" : 330,
+					"id" : 7579
+				},
+				"channel" : "spatial"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T05:02:54.536Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 929
+				},
+				"channel" : "auditory"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T05:02:56.916Z",
+			"details" : {
+				"cue" : {
+					"y" : 136,
+					"x" : 330,
+					"id" : 7579
+				},
+				"channel" : "spatial"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-19T05:02:56.917Z",
+			"details" : {
+				"evaluation" : "correctNonResponse",
+				"channel" : "spatial"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T05:02:56.917Z",
+			"details" : {
+				"cue_id" : 7579,
+				"channel" : "spatial"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T05:02:56.917Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 929
+				},
+				"channel" : "auditory"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-19T05:02:56.917Z",
+			"details" : {
+				"evaluation" : "correctNonResponse",
+				"channel" : "auditory"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T05:02:56.917Z",
+			"details" : {
+				"cue_id" : 929,
+				"channel" : "auditory"
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T05:02:56.917Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T05:02:56.918Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T05:02:57.516Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T05:02:57.516Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T05:02:57.548Z",
+			"details" : {
+				"cue" : {
+					"y" : 300,
+					"x" : 282,
+					"id" : 7583
+				},
+				"channel" : "spatial"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T05:02:57.549Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 929
+				},
+				"channel" : "auditory"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T05:02:59.915Z",
+			"details" : {
+				"cue" : {
+					"y" : 300,
+					"x" : 282,
+					"id" : 7583
+				},
+				"channel" : "spatial"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-19T05:02:59.915Z",
+			"details" : {
+				"evaluation" : "correctNonResponse",
+				"channel" : "spatial"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T05:02:59.915Z",
+			"details" : {
+				"cue_id" : 7583,
+				"channel" : "spatial"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T05:02:59.915Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 929
+				},
+				"channel" : "auditory"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-19T05:02:59.915Z",
+			"details" : {
+				"evaluation" : "incorrectNonResponse",
+				"channel" : "auditory"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T05:02:59.916Z",
+			"details" : {
+				"cue_id" : 929,
+				"channel" : "auditory"
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T05:02:59.916Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T05:02:59.916Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T05:03:00.514Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T05:03:00.514Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T05:03:00.547Z",
+			"details" : {
+				"cue" : {
+					"y" : 300,
+					"x" : 282,
+					"id" : 7583
+				},
+				"channel" : "spatial"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T05:03:00.548Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 911
+				},
+				"channel" : "auditory"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T05:03:02.928Z",
+			"details" : {
+				"cue" : {
+					"y" : 300,
+					"x" : 282,
+					"id" : 7583
+				},
+				"channel" : "spatial"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-19T05:03:02.929Z",
+			"details" : {
+				"evaluation" : "incorrectNonResponse",
+				"channel" : "spatial"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T05:03:02.929Z",
+			"details" : {
+				"cue_id" : 7583,
+				"channel" : "spatial"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T05:03:02.929Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 911
+				},
+				"channel" : "auditory"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-19T05:03:02.929Z",
+			"details" : {
+				"evaluation" : "correctNonResponse",
+				"channel" : "auditory"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T05:03:02.929Z",
+			"details" : {
+				"cue_id" : 911,
+				"channel" : "auditory"
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T05:03:02.929Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T05:03:02.930Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T05:03:03.528Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T05:03:03.528Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T05:03:03.549Z",
+			"details" : {
+				"cue" : {
+					"y" : 136,
+					"x" : 330,
+					"id" : 7579
+				},
+				"channel" : "spatial"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T05:03:03.549Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 920
+				},
+				"channel" : "auditory"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T05:03:05.927Z",
+			"details" : {
+				"cue" : {
+					"y" : 136,
+					"x" : 330,
+					"id" : 7579
+				},
+				"channel" : "spatial"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-19T05:03:05.927Z",
+			"details" : {
+				"evaluation" : "correctNonResponse",
+				"channel" : "spatial"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T05:03:05.927Z",
+			"details" : {
+				"cue_id" : 7579,
+				"channel" : "spatial"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T05:03:05.927Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 920
+				},
+				"channel" : "auditory"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-19T05:03:05.927Z",
+			"details" : {
+				"evaluation" : "correctNonResponse",
+				"channel" : "auditory"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T05:03:05.927Z",
+			"details" : {
+				"cue_id" : 920,
+				"channel" : "auditory"
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T05:03:05.928Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T05:03:05.928Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T05:03:06.526Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T05:03:06.527Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T05:03:06.544Z",
+			"details" : {
+				"cue" : {
+					"y" : 24,
+					"x" : 183,
+					"id" : 7580
+				},
+				"channel" : "spatial"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T05:03:06.545Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 916
+				},
+				"channel" : "auditory"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T05:03:08.926Z",
+			"details" : {
+				"cue" : {
+					"y" : 24,
+					"x" : 183,
+					"id" : 7580
+				},
+				"channel" : "spatial"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-19T05:03:08.926Z",
+			"details" : {
+				"evaluation" : "correctNonResponse",
+				"channel" : "spatial"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T05:03:08.927Z",
+			"details" : {
+				"cue_id" : 7580,
+				"channel" : "spatial"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T05:03:08.927Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 916
+				},
+				"channel" : "auditory"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-19T05:03:08.927Z",
+			"details" : {
+				"evaluation" : "correctNonResponse",
+				"channel" : "auditory"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T05:03:08.927Z",
+			"details" : {
+				"cue_id" : 916,
+				"channel" : "auditory"
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T05:03:08.927Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T05:03:08.927Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T05:03:09.526Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T05:03:09.526Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T05:03:09.543Z",
+			"details" : {
+				"cue" : {
+					"y" : 24,
+					"x" : 183,
+					"id" : 7580
+				},
+				"channel" : "spatial"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T05:03:09.543Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 916
+				},
+				"channel" : "auditory"
+			}
+		},
+		{
+			"action" : "pause_game",
+			"timestamp" : "2014-02-19T05:03:09.631Z",
+			"details" : ""
+		},
+		{
+			"action" : "resume_game",
+			"timestamp" : "2014-02-19T05:04:20.295Z",
+			"details" : ""
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T05:04:22.585Z",
+			"details" : {
+				"cue" : {
+					"y" : 24,
+					"x" : 183,
+					"id" : 7580
+				},
+				"channel" : "spatial"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-19T05:04:22.585Z",
+			"details" : {
+				"evaluation" : "incorrectNonResponse",
+				"channel" : "spatial"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T05:04:22.586Z",
+			"details" : {
+				"cue_id" : 7580,
+				"channel" : "spatial"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T05:04:22.586Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 916
+				},
+				"channel" : "auditory"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-19T05:04:22.586Z",
+			"details" : {
+				"evaluation" : "incorrectNonResponse",
+				"channel" : "auditory"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T05:04:22.586Z",
+			"details" : {
+				"cue_id" : 916,
+				"channel" : "auditory"
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T05:04:22.587Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T05:04:22.587Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T05:04:23.184Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T05:04:23.184Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T05:04:23.201Z",
+			"details" : {
+				"cue" : {
+					"y" : 24,
+					"x" : 183,
+					"id" : 7580
+				},
+				"channel" : "spatial"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T05:04:23.201Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 916
+				},
+				"channel" : "auditory"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T05:04:25.584Z",
+			"details" : {
+				"cue" : {
+					"y" : 24,
+					"x" : 183,
+					"id" : 7580
+				},
+				"channel" : "spatial"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-19T05:04:25.584Z",
+			"details" : {
+				"evaluation" : "incorrectNonResponse",
+				"channel" : "spatial"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T05:04:25.584Z",
+			"details" : {
+				"cue_id" : 7580,
+				"channel" : "spatial"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T05:04:25.585Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 916
+				},
+				"channel" : "auditory"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-19T05:04:25.585Z",
+			"details" : {
+				"evaluation" : "incorrectNonResponse",
+				"channel" : "auditory"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T05:04:25.585Z",
+			"details" : {
+				"cue_id" : 916,
+				"channel" : "auditory"
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T05:04:25.585Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T05:04:25.585Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T05:04:26.184Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T05:04:26.184Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T05:04:26.199Z",
+			"details" : {
+				"cue" : {
+					"y" : 24,
+					"x" : 183,
+					"id" : 7580
+				},
+				"channel" : "spatial"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T05:04:26.200Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 4049
+				},
+				"channel" : "auditory"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T05:04:28.582Z",
+			"details" : {
+				"cue" : {
+					"y" : 24,
+					"x" : 183,
+					"id" : 7580
+				},
+				"channel" : "spatial"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-19T05:04:28.582Z",
+			"details" : {
+				"evaluation" : "incorrectNonResponse",
+				"channel" : "spatial"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T05:04:28.582Z",
+			"details" : {
+				"cue_id" : 7580,
+				"channel" : "spatial"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T05:04:28.583Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 4049
+				},
+				"channel" : "auditory"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-19T05:04:28.583Z",
+			"details" : {
+				"evaluation" : "correctNonResponse",
+				"channel" : "auditory"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T05:04:28.583Z",
+			"details" : {
+				"cue_id" : 4049,
+				"channel" : "auditory"
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T05:04:28.583Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T05:04:28.583Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T05:04:29.182Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T05:04:29.182Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T05:04:29.197Z",
+			"details" : {
+				"cue" : {
+					"y" : 24,
+					"x" : 183,
+					"id" : 7580
+				},
+				"channel" : "spatial"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T05:04:29.198Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 929
+				},
+				"channel" : "auditory"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T05:04:31.579Z",
+			"details" : {
+				"cue" : {
+					"y" : 24,
+					"x" : 183,
+					"id" : 7580
+				},
+				"channel" : "spatial"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-19T05:04:31.579Z",
+			"details" : {
+				"evaluation" : "incorrectNonResponse",
+				"channel" : "spatial"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T05:04:31.579Z",
+			"details" : {
+				"cue_id" : 7580,
+				"channel" : "spatial"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T05:04:31.580Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 929
+				},
+				"channel" : "auditory"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-19T05:04:31.580Z",
+			"details" : {
+				"evaluation" : "correctNonResponse",
+				"channel" : "auditory"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T05:04:31.580Z",
+			"details" : {
+				"cue_id" : 929,
+				"channel" : "auditory"
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T05:04:31.580Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T05:04:31.580Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T05:04:32.180Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T05:04:32.180Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T05:04:32.195Z",
+			"details" : {
+				"cue" : {
+					"y" : 24,
+					"x" : 183,
+					"id" : 7580
+				},
+				"channel" : "spatial"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T05:04:32.196Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 917
+				},
+				"channel" : "auditory"
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-19T05:04:32.725Z",
+			"details" : {
+				"eventType" : "ruleEvent",
+				"id" : 688,
+				"payLoad" : {
+					"id" : 537
+				}
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-19T05:04:32.725Z",
+			"details" : {
+				"evaluation" : "correctResponse",
+				"rule" : 537,
+				"channel" : "spatial"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T05:04:32.725Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T05:04:32.827Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T05:04:34.579Z",
+			"details" : {
+				"cue" : {
+					"y" : 24,
+					"x" : 183,
+					"id" : 7580
+				},
+				"channel" : "spatial"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T05:04:34.579Z",
+			"details" : {
+				"cue_id" : 7580,
+				"channel" : "spatial"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T05:04:34.579Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 917
+				},
+				"channel" : "auditory"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-19T05:04:34.579Z",
+			"details" : {
+				"evaluation" : "correctNonResponse",
+				"channel" : "auditory"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T05:04:34.579Z",
+			"details" : {
+				"cue_id" : 917,
+				"channel" : "auditory"
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T05:04:34.580Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T05:04:34.580Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T05:04:35.177Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T05:04:35.177Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T05:04:35.194Z",
+			"details" : {
+				"cue" : {
+					"y" : 136,
+					"x" : 32,
+					"id" : 7581
+				},
+				"channel" : "spatial"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T05:04:35.195Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 4049
+				},
+				"channel" : "auditory"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T05:04:37.575Z",
+			"details" : {
+				"cue" : {
+					"y" : 136,
+					"x" : 32,
+					"id" : 7581
+				},
+				"channel" : "spatial"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-19T05:04:37.576Z",
+			"details" : {
+				"evaluation" : "correctNonResponse",
+				"channel" : "spatial"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T05:04:37.576Z",
+			"details" : {
+				"cue_id" : 7581,
+				"channel" : "spatial"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T05:04:37.576Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 4049
+				},
+				"channel" : "auditory"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-19T05:04:37.576Z",
+			"details" : {
+				"evaluation" : "correctNonResponse",
+				"channel" : "auditory"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T05:04:37.576Z",
+			"details" : {
+				"cue_id" : 4049,
+				"channel" : "auditory"
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T05:04:37.576Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T05:04:37.577Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T05:04:38.177Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T05:04:38.177Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T05:04:38.207Z",
+			"details" : {
+				"cue" : {
+					"y" : 136,
+					"x" : 32,
+					"id" : 7581
+				},
+				"channel" : "spatial"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-19T05:04:38.208Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 920
+				},
+				"channel" : "auditory"
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-19T05:04:38.778Z",
+			"details" : {
+				"eventType" : "ruleEvent",
+				"id" : 688,
+				"payLoad" : {
+					"id" : 537
+				}
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-19T05:04:38.778Z",
+			"details" : {
+				"evaluation" : "correctResponse",
+				"rule" : 537,
+				"channel" : "spatial"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T05:04:38.778Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T05:04:38.907Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T05:04:40.575Z",
+			"details" : {
+				"cue" : {
+					"y" : 136,
+					"x" : 32,
+					"id" : 7581
+				},
+				"channel" : "spatial"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T05:04:40.575Z",
+			"details" : {
+				"cue_id" : 7581,
+				"channel" : "spatial"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-19T05:04:40.576Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 920
+				},
+				"channel" : "auditory"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-19T05:04:40.576Z",
+			"details" : {
+				"evaluation" : "correctNonResponse",
+				"channel" : "auditory"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-19T05:04:40.576Z",
+			"details" : {
+				"cue_id" : 920,
+				"channel" : "auditory"
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-19T05:04:40.576Z",
+			"details" : "stimulus"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-19T05:04:40.576Z",
+			"details" : "gameOver"
+		}
+	]
+}

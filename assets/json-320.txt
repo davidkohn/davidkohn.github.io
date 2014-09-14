@@ -1,0 +1,3091 @@
+{
+	"play_data" : [
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T07:02:38.400Z",
+			"details" : "intro"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T07:02:38.403Z",
+			"details" : "dynamicscore"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T07:02:38.403Z",
+			"details" : "staticscore"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T07:02:38.417Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 9583
+				},
+				"channel" : "intro"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T07:02:38.422Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 530
+				},
+				"channel" : "dynamicscore"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T07:02:38.424Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 530
+				},
+				"channel" : "staticscore"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T07:02:38.507Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 530
+				},
+				"channel" : "dynamicscore"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T07:02:38.509Z",
+			"details" : {
+				"evaluation" : "incorrectNonResponse",
+				"channel" : "dynamicscore"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T07:02:38.510Z",
+			"details" : {
+				"cue_id" : 530,
+				"channel" : "dynamicscore"
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:02:38.512Z",
+			"details" : "dynamicscore"
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T07:02:38.512Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 530
+				},
+				"channel" : "staticscore"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T07:02:38.513Z",
+			"details" : {
+				"evaluation" : "incorrectNonResponse",
+				"channel" : "staticscore"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T07:02:38.513Z",
+			"details" : {
+				"cue_id" : 530,
+				"channel" : "staticscore"
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:02:38.514Z",
+			"details" : "staticscore"
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T07:02:39.396Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 9583
+				},
+				"channel" : "intro"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T07:02:39.397Z",
+			"details" : {
+				"cue_id" : 9583,
+				"channel" : "intro"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T07:02:39.416Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 9582
+				},
+				"channel" : "intro"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T07:02:40.399Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 9582
+				},
+				"channel" : "intro"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T07:02:40.399Z",
+			"details" : {
+				"cue_id" : 9582,
+				"channel" : "intro"
+			}
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T07:02:40.418Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 9581
+				},
+				"channel" : "intro"
+			}
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T07:02:41.401Z",
+			"details" : {
+				"cue" : {
+					"y" : 0,
+					"x" : 0,
+					"id" : 9581
+				},
+				"channel" : "intro"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T07:02:41.401Z",
+			"details" : {
+				"cue_id" : 9581,
+				"channel" : "intro"
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:02:41.403Z",
+			"details" : "intro"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T07:02:41.404Z",
+			"details" : "stimulus7"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T07:02:41.405Z",
+			"details" : "timer"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T07:02:41.435Z",
+			"details" : {
+				"cue" : {
+					"y" : 39,
+					"x" : 165,
+					"id" : 5854
+				},
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "keydown",
+			"timestamp" : "2014-02-20T07:02:44.337Z",
+			"details" : {
+				"eventType" : "buttonEvent",
+				"id" : 414,
+				"payLoad" : {
+					"id" : 737
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T07:02:44.338Z",
+			"details" : {
+				"eventType" : "ruleEvent",
+				"id" : 737,
+				"payLoad" : {
+					"id" : 599
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T07:02:44.338Z",
+			"details" : {
+				"eventType" : "modeEvent",
+				"id" : 737,
+				"payLoad" : {
+					"type" : "end",
+					"modes" : [
+						"stimulus7",
+						"stimulus17",
+						"wasp",
+						"wasps"
+					]
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T07:02:44.338Z",
+			"details" : {
+				"eventType" : "ruleEvent",
+				"id" : 737,
+				"payLoad" : {
+					"id" : 575
+				}
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:02:44.339Z",
+			"details" : "stimulus7"
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T07:02:44.340Z",
+			"details" : {
+				"cue" : {
+					"y" : 39,
+					"x" : 165,
+					"id" : 5854
+				},
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T07:02:44.342Z",
+			"details" : {
+				"evaluation" : "incorrectNonResponse",
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T07:02:44.343Z",
+			"details" : {
+				"cue_id" : 5854,
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T07:02:44.345Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:02:44.345Z",
+			"details" : "stimulus17"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:02:44.346Z",
+			"details" : "wasp"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:02:44.346Z",
+			"details" : "wasps"
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T07:02:44.347Z",
+			"details" : {
+				"evaluation" : "correctResponse",
+				"rule" : 575,
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T07:02:44.348Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:02:44.447Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:02:44.523Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T07:02:44.523Z",
+			"details" : "stimulus7"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T07:02:44.543Z",
+			"details" : {
+				"cue" : {
+					"y" : 129,
+					"x" : 217,
+					"id" : 5860
+				},
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "keyup",
+			"timestamp" : "2014-02-20T07:02:44.571Z",
+			"details" : {
+				"eventType" : "buttonEvent",
+				"id" : 414,
+				"payLoad" : {
+					"id" : 737
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T07:02:52.261Z",
+			"details" : {
+				"eventType" : "modeEvent",
+				"id" : 745,
+				"payLoad" : {
+					"type" : "end",
+					"modes" : [
+						"stimulus7",
+						"stimulus17",
+						"wasp",
+						"wasps"
+					]
+				}
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:02:52.261Z",
+			"details" : "stimulus7"
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T07:02:52.261Z",
+			"details" : {
+				"cue" : {
+					"y" : 129,
+					"x" : 217,
+					"id" : 5860
+				},
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T07:02:52.262Z",
+			"details" : {
+				"evaluation" : "incorrectNonResponse",
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T07:02:52.263Z",
+			"details" : {
+				"cue_id" : 5860,
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T07:02:52.265Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:02:52.265Z",
+			"details" : "stimulus17"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:02:52.266Z",
+			"details" : "wasp"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:02:52.266Z",
+			"details" : "wasps"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:02:52.456Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T07:02:52.457Z",
+			"details" : "stimulus7"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T07:02:52.477Z",
+			"details" : {
+				"cue" : {
+					"y" : 189,
+					"x" : 113,
+					"id" : 5857
+				},
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T07:03:00.342Z",
+			"details" : {
+				"eventType" : "modeEvent",
+				"id" : 745,
+				"payLoad" : {
+					"type" : "end",
+					"modes" : [
+						"stimulus7",
+						"stimulus17",
+						"wasp",
+						"wasps"
+					]
+				}
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:00.343Z",
+			"details" : "stimulus7"
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T07:03:00.343Z",
+			"details" : {
+				"cue" : {
+					"y" : 189,
+					"x" : 113,
+					"id" : 5857
+				},
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T07:03:00.345Z",
+			"details" : {
+				"evaluation" : "incorrectNonResponse",
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T07:03:00.346Z",
+			"details" : {
+				"cue_id" : 5857,
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T07:03:00.348Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:00.350Z",
+			"details" : "stimulus17"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:00.350Z",
+			"details" : "wasp"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:00.351Z",
+			"details" : "wasps"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:00.548Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T07:03:00.549Z",
+			"details" : "stimulus7"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T07:03:00.572Z",
+			"details" : {
+				"cue" : {
+					"y" : 219,
+					"x" : 165,
+					"id" : 5861
+				},
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "keydown",
+			"timestamp" : "2014-02-20T07:03:02.936Z",
+			"details" : {
+				"eventType" : "buttonEvent",
+				"id" : 415,
+				"payLoad" : {
+					"id" : 735
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T07:03:02.937Z",
+			"details" : {
+				"eventType" : "ruleEvent",
+				"id" : 735,
+				"payLoad" : {
+					"id" : 600
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T07:03:02.937Z",
+			"details" : {
+				"eventType" : "modeEvent",
+				"id" : 735,
+				"payLoad" : {
+					"type" : "end",
+					"modes" : [
+						"stimulus7",
+						"stimulus17",
+						"wasp",
+						"wasps"
+					]
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T07:03:02.937Z",
+			"details" : {
+				"eventType" : "ruleEvent",
+					"id" : 735,
+				"payLoad" : {
+					"id" : 574
+				}
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:02.938Z",
+			"details" : "stimulus7"
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T07:03:02.938Z",
+			"details" : {
+				"cue" : {
+					"y" : 219,
+					"x" : 165,
+					"id" : 5861
+				},
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T07:03:02.940Z",
+			"details" : {
+				"evaluation" : "incorrectNonResponse",
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T07:03:02.941Z",
+			"details" : {
+				"cue_id" : 5861,
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T07:03:02.944Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:02.945Z",
+			"details" : "stimulus17"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:02.945Z",
+			"details" : "wasp"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:02.946Z",
+			"details" : "wasps"
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T07:03:02.947Z",
+			"details" : {
+				"evaluation" : "correctResponse",
+				"rule" : 574,
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T07:03:02.948Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:03.044Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:03.121Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T07:03:03.122Z",
+			"details" : "stimulus7"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T07:03:03.142Z",
+			"details" : {
+				"cue" : {
+					"y" : 219,
+					"x" : 269,
+					"id" : 5865
+				},
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "keyup",
+			"timestamp" : "2014-02-20T07:03:03.147Z",
+			"details" : {
+				"eventType" : "buttonEvent",
+				"id" : 415,
+				"payLoad" : {
+					"id" : 735
+				}
+			}
+		},
+		{
+			"action" : "keydown",
+			"timestamp" : "2014-02-20T07:03:04.837Z",
+			"details" : {
+				"eventType" : "buttonEvent",
+				"id" : 416,
+				"payLoad" : {
+					"id" : 734
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T07:03:04.837Z",
+			"details" : {
+				"eventType" : "ruleEvent",
+				"id" : 734,
+				"payLoad" : {
+					"id" : 602
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T07:03:04.837Z",
+			"details" : {
+				"eventType" : "modeEvent",
+				"id" : 734,
+				"payLoad" : {
+					"type" : "end",
+					"modes" : [
+						"stimulus7",
+						"stimulus17",
+						"wasp",
+						"wasps"
+					]
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T07:03:04.838Z",
+			"details" : {
+				"eventType" : "ruleEvent",
+				"id" : 734,
+				"payLoad" : {
+					"id" : 576
+				}
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:04.838Z",
+			"details" : "stimulus7"
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T07:03:04.839Z",
+			"details" : {
+				"cue" : {
+					"y" : 219,
+					"x" : 269,
+					"id" : 5865
+				},
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T07:03:04.841Z",
+			"details" : {
+				"evaluation" : "incorrectNonResponse",
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T07:03:04.841Z",
+			"details" : {
+				"cue_id" : 5865,
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T07:03:04.843Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:04.844Z",
+			"details" : "stimulus17"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:04.844Z",
+			"details" : "wasp"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:04.845Z",
+			"details" : "wasps"
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T07:03:04.845Z",
+			"details" : {
+				"evaluation" : "correctResponse",
+				"rule" : 576,
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T07:03:04.846Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:04.935Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "keyup",
+			"timestamp" : "2014-02-20T07:03:04.993Z",
+			"details" : {
+				"eventType" : "buttonEvent",
+				"id" : 416,
+				"payLoad" : {
+					"id" : 734
+				}
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:05.025Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T07:03:05.026Z",
+			"details" : "stimulus7"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T07:03:05.042Z",
+			"details" : {
+				"cue" : {
+					"y" : 189,
+					"x" : 9,
+					"id" : 5861
+				},
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "keydown",
+			"timestamp" : "2014-02-20T07:03:06.662Z",
+			"details" : {
+				"eventType" : "buttonEvent",
+				"id" : 415,
+				"payLoad" : {
+					"id" : 735
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T07:03:06.663Z",
+			"details" : {
+				"eventType" : "ruleEvent",
+				"id" : 735,
+				"payLoad" : {
+					"id" : 600
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T07:03:06.663Z",
+			"details" : {
+				"eventType" : "modeEvent",
+				"id" : 735,
+				"payLoad" : {
+					"type" : "end",
+					"modes" : [
+						"stimulus7",
+						"stimulus17",
+						"wasp",
+						"wasps"
+					]
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T07:03:06.663Z",
+			"details" : {
+				"eventType" : "ruleEvent",
+				"id" : 735,
+				"payLoad" : {
+					"id" : 574
+				}
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:06.664Z",
+			"details" : "stimulus7"
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T07:03:06.664Z",
+			"details" : {
+				"cue" : {
+					"y" : 189,
+					"x" : 9,
+					"id" : 5861
+				},
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T07:03:06.664Z",
+			"details" : {
+				"evaluation" : "incorrectNonResponse",
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T07:03:06.665Z",
+			"details" : {
+				"cue_id" : 5861,
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T07:03:06.666Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:06.667Z",
+			"details" : "stimulus17"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:06.667Z",
+			"details" : "wasp"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:06.668Z",
+			"details" : "wasps"
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T07:03:06.668Z",
+			"details" : {
+				"evaluation" : "correctResponse",
+				"rule" : 574,
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T07:03:06.669Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:06.783Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "keyup",
+			"timestamp" : "2014-02-20T07:03:06.825Z",
+			"details" : {
+				"eventType" : "buttonEvent",
+				"id" : 415,
+				"payLoad" : {
+					"id" : 735
+				}
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:06.867Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T07:03:06.867Z",
+			"details" : "stimulus7"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T07:03:06.883Z",
+			"details" : {
+				"cue" : {
+					"y" : 189,
+					"x" : 9,
+					"id" : 5864
+				},
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "keydown",
+			"timestamp" : "2014-02-20T07:03:09.218Z",
+			"details" : {
+				"eventType" : "buttonEvent",
+				"id" : 415,
+				"payLoad" : {
+					"id" : 735
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T07:03:09.218Z",
+			"details" : {
+				"eventType" : "ruleEvent",
+				"id" : 735,
+				"payLoad" : {
+					"id" : 600
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T07:03:09.219Z",
+			"details" : {
+				"eventType" : "modeEvent",
+				"id" : 735,
+				"payLoad" : {
+					"type" : "end",
+					"modes" : [
+						"stimulus7",
+						"stimulus17",
+						"wasp",
+						"wasps"
+					]
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T07:03:09.219Z",
+			"details" : {
+				"eventType" : "ruleEvent",
+				"id" : 735,
+				"payLoad" : {
+					"id" : 574
+				}
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:09.219Z",
+			"details" : "stimulus7"
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T07:03:09.220Z",
+			"details" : {
+				"cue" : {
+					"y" : 189,
+					"x" : 9,
+					"id" : 5864
+				},
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T07:03:09.221Z",
+			"details" : {
+				"evaluation" : "incorrectNonResponse",
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T07:03:09.222Z",
+			"details" : {
+				"cue_id" : 5864,
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T07:03:09.224Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:09.225Z",
+			"details" : "stimulus17"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:09.226Z",
+			"details" : "wasp"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:09.226Z",
+			"details" : "wasps"
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T07:03:09.227Z",
+			"details" : {
+				"evaluation" : "correctResponse",
+				"rule" : 574,
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T07:03:09.228Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:09.330Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "keyup",
+			"timestamp" : "2014-02-20T07:03:09.399Z",
+			"details" : {
+				"eventType" : "buttonEvent",
+				"id" : 415,
+				"payLoad" : {
+					"id" : 735
+				}
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:09.402Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T07:03:09.403Z",
+			"details" : "stimulus7"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T07:03:09.429Z",
+			"details" : {
+				"cue" : {
+					"y" : 159,
+					"x" : 165,
+					"id" : 5860
+				},
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "keydown",
+			"timestamp" : "2014-02-20T07:03:11.745Z",
+			"details" : {
+				"eventType" : "buttonEvent",
+				"id" : 416,
+				"payLoad" : {
+					"id" : 734
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T07:03:11.745Z",
+			"details" : {
+				"eventType" : "ruleEvent",
+				"id" : 734,
+				"payLoad" : {
+					"id" : 602
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T07:03:11.745Z",
+			"details" : {
+				"eventType" : "modeEvent",
+				"id" : 734,
+				"payLoad" : {
+					"type" : "end",
+					"modes" : [
+						"stimulus7",
+						"stimulus17",
+						"wasp",
+						"wasps"
+					]
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T07:03:11.745Z",
+			"details" : {
+				"eventType" : "ruleEvent",
+				"id" : 734,
+				"payLoad" : {
+					"id" : 576
+				}
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:11.746Z",
+			"details" : "stimulus7"
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T07:03:11.746Z",
+			"details" : {
+				"cue" : {
+					"y" : 159,
+					"x" : 165,
+					"id" : 5860
+				},
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T07:03:11.747Z",
+			"details" : {
+				"evaluation" : "incorrectNonResponse",
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T07:03:11.747Z",
+			"details" : {
+				"cue_id" : 5860,
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T07:03:11.749Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:11.749Z",
+			"details" : "stimulus17"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:11.750Z",
+			"details" : "wasp"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:11.750Z",
+			"details" : "wasps"
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T07:03:11.751Z",
+			"details" : {
+				"evaluation" : "incorrectResponse",
+				"rule" : {
+					"span" : false,
+					"adaptationLevels" : [
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					],
+					"criteria" : "stimulus7.containsTag('right')",
+					"retryExempt" : false,
+					"id" : 576,
+					"channel" : "stimulus7"
+				},
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T07:03:11.751Z",
+			"details" : "incorrect"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:11.851Z",
+			"details" : "incorrect"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:11.943Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T07:03:11.943Z",
+			"details" : "stimulus7"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T07:03:11.961Z",
+			"details" : {
+				"cue" : {
+					"y" : 159,
+					"x" : 61,
+					"id" : 5859
+				},
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "keyup",
+			"timestamp" : "2014-02-20T07:03:11.967Z",
+			"details" : {
+				"eventType" : "buttonEvent",
+				"id" : 416,
+				"payLoad" : {
+					"id" : 734
+				}
+			}
+		},
+		{
+			"action" : "keydown",
+			"timestamp" : "2014-02-20T07:03:14.559Z",
+			"details" : {
+				"eventType" : "buttonEvent",
+				"id" : 415,
+				"payLoad" : {
+					"id" : 735
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T07:03:14.560Z",
+			"details" : {
+				"eventType" : "ruleEvent",
+				"id" : 735,
+				"payLoad" : {
+					"id" : 600
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T07:03:14.560Z",
+			"details" : {
+				"eventType" : "modeEvent",
+				"id" : 735,
+				"payLoad" : {
+					"type" : "end",
+					"modes" : [
+						"stimulus7",
+						"stimulus17",
+						"wasp",
+						"wasps"
+					]
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T07:03:14.561Z",
+			"details" : {
+				"eventType" : "ruleEvent",
+				"id" : 735,
+				"payLoad" : {
+					"id" : 574
+				}
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:14.561Z",
+			"details" : "stimulus7"
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T07:03:14.562Z",
+			"details" : {
+				"cue" : {
+					"y" : 159,
+					"x" : 61,
+					"id" : 5859
+				},
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T07:03:14.563Z",
+			"details" : {
+				"evaluation" : "incorrectNonResponse",
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T07:03:14.564Z",
+			"details" : {
+				"cue_id" : 5859,
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T07:03:14.566Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:14.567Z",
+			"details" : "stimulus17"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:14.567Z",
+			"details" : "wasp"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:14.567Z",
+			"details" : "wasps"
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T07:03:14.568Z",
+			"details" : {
+				"evaluation" : "correctResponse",
+				"rule" : 574,
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T07:03:14.569Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:14.673Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "keyup",
+			"timestamp" : "2014-02-20T07:03:14.724Z",
+			"details" : {
+				"eventType" : "buttonEvent",
+				"id" : 415,
+				"payLoad" : {
+					"id" : 735
+				}
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:14.753Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T07:03:14.753Z",
+			"details" : "stimulus7"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T07:03:14.772Z",
+			"details" : {
+				"cue" : {
+					"y" : 99,
+					"x" : 165,
+					"id" : 5865
+				},
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "keydown",
+			"timestamp" : "2014-02-20T07:03:16.258Z",
+			"details" : {
+				"eventType" : "buttonEvent",
+				"id" : 416,
+				"payLoad" : {
+					"id" : 734
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T07:03:16.258Z",
+			"details" : {
+				"eventType" : "ruleEvent",
+				"id" : 734,
+				"payLoad" : {
+					"id" : 602
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T07:03:16.259Z",
+			"details" : {
+				"eventType" : "modeEvent",
+				"id" : 734,
+				"payLoad" : {
+					"type" : "end",
+					"modes" : [
+						"stimulus7",
+						"stimulus17",
+						"wasp",
+						"wasps"
+					]
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T07:03:16.259Z",
+			"details" : {
+				"eventType" : "ruleEvent",
+				"id" : 734,
+				"payLoad" : {
+					"id" : 576
+				}
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:16.259Z",
+			"details" : "stimulus7"
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T07:03:16.260Z",
+			"details" : {
+				"cue" : {
+					"y" : 99,
+					"x" : 165,
+					"id" : 5865
+				},
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T07:03:16.260Z",
+			"details" : {
+				"evaluation" : "incorrectNonResponse",
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T07:03:16.261Z",
+			"details" : {
+				"cue_id" : 5865,
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T07:03:16.262Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:16.263Z",
+			"details" : "stimulus17"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:16.263Z",
+			"details" : "wasp"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:16.264Z",
+			"details" : "wasps"
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T07:03:16.264Z",
+			"details" : {
+				"evaluation" : "correctResponse",
+				"rule" : 576,
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T07:03:16.265Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:16.372Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "keyup",
+			"timestamp" : "2014-02-20T07:03:16.448Z",
+			"details" : {
+				"eventType" : "buttonEvent",
+				"id" : 416,
+				"payLoad" : {
+					"id" : 734
+				}
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:16.456Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T07:03:16.457Z",
+			"details" : "stimulus7"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T07:03:16.472Z",
+			"details" : {
+				"cue" : {
+					"y" : 159,
+					"x" : 61,
+					"id" : 5856
+				},
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "keydown",
+			"timestamp" : "2014-02-20T07:03:18.936Z",
+			"details" : {
+				"eventType" : "buttonEvent",
+				"id" : 417,
+				"payLoad" : {
+					"id" : 736
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T07:03:18.936Z",
+			"details" : {
+				"eventType" : "ruleEvent",
+				"id" : 736,
+				"payLoad" : {
+					"id" : 601
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T07:03:18.936Z",
+			"details" : {
+				"eventType" : "modeEvent",
+				"id" : 736,
+				"payLoad" : {
+					"type" : "end",
+					"modes" : [
+						"stimulus7",
+						"stimulus17",
+						"wasp",
+						"wasps"
+					]
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T07:03:18.936Z",
+			"details" : {
+				"eventType" : "ruleEvent",
+				"id" : 736,
+				"payLoad" : {
+					"id" : 573
+				}
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:18.937Z",
+			"details" : "stimulus7"
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T07:03:18.937Z",
+			"details" : {
+				"cue" : {
+					"y" : 159,
+					"x" : 61,
+					"id" : 5856
+				},
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T07:03:18.938Z",
+			"details" : {
+				"evaluation" : "incorrectNonResponse",
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T07:03:18.938Z",
+			"details" : {
+				"cue_id" : 5856,
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T07:03:18.941Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:18.941Z",
+			"details" : "stimulus17"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:18.942Z",
+			"details" : "wasp"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:18.942Z",
+			"details" : "wasps"
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T07:03:18.943Z",
+			"details" : {
+				"evaluation" : "incorrectResponse",
+				"rule" : {
+					"span" : false,
+					"adaptationLevels" : [
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					],
+					"criteria" : "stimulus7.containsTag('left')",
+					"retryExempt" : false,
+					"id" : 573,
+					"channel" : "stimulus7"
+				},
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T07:03:18.943Z",
+			"details" : "incorrect"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:19.054Z",
+			"details" : "incorrect"
+		},
+		{
+			"action" : "keyup",
+			"timestamp" : "2014-02-20T07:03:19.123Z",
+			"details" : {
+				"eventType" : "buttonEvent",
+				"id" : 417,
+				"payLoad" : {
+					"id" : 736
+				}
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:19.137Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T07:03:19.138Z",
+			"details" : "stimulus7"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T07:03:19.154Z",
+			"details" : {
+				"cue" : {
+					"y" : 189,
+					"x" : 113,
+					"id" : 5859
+				},
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "keydown",
+			"timestamp" : "2014-02-20T07:03:21.993Z",
+			"details" : {
+				"eventType" : "buttonEvent",
+				"id" : 415,
+				"payLoad" : {
+					"id" : 735
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T07:03:21.994Z",
+			"details" : {
+				"eventType" : "ruleEvent",
+				"id" : 735,
+				"payLoad" : {
+					"id" : 600
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T07:03:21.994Z",
+			"details" : {
+				"eventType" : "modeEvent",
+				"id" : 735,
+				"payLoad" : {
+					"type" : "end",
+					"modes" : [
+						"stimulus7",
+						"stimulus17",
+						"wasp",
+						"wasps"
+					]
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T07:03:21.994Z",
+			"details" : {
+				"eventType" : "ruleEvent",
+				"id" : 735,
+				"payLoad" : {
+					"id" : 574
+				}
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:21.994Z",
+			"details" : "stimulus7"
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T07:03:21.995Z",
+			"details" : {
+				"cue" : {
+					"y" : 189,
+					"x" : 113,
+					"id" : 5859
+				},
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T07:03:21.995Z",
+			"details" : {
+				"evaluation" : "incorrectNonResponse",
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T07:03:21.996Z",
+			"details" : {
+				"cue_id" : 5859,
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T07:03:21.997Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:21.998Z",
+			"details" : "stimulus17"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:21.998Z",
+			"details" : "wasp"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:21.998Z",
+			"details" : "wasps"
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T07:03:21.999Z",
+			"details" : {
+				"evaluation" : "correctResponse",
+				"rule" : 574,
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T07:03:21.999Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:22.096Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "keyup",
+			"timestamp" : "2014-02-20T07:03:22.159Z",
+			"details" : {
+				"eventType" : "buttonEvent",
+				"id" : 415,
+				"payLoad" : {
+					"id" : 735
+				}
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:22.180Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T07:03:22.180Z",
+			"details" : "stimulus7"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T07:03:22.196Z",
+			"details" : {
+				"cue" : {
+					"y" : 189,
+					"x" : 9,
+					"id" : 5858
+				},
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "keydown",
+			"timestamp" : "2014-02-20T07:03:23.507Z",
+			"details" : {
+				"eventType" : "buttonEvent",
+				"id" : 417,
+				"payLoad" : {
+					"id" : 736
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T07:03:23.508Z",
+			"details" : {
+				"eventType" : "ruleEvent",
+				"id" : 736,
+				"payLoad" : {
+					"id" : 601
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T07:03:23.508Z",
+			"details" : {
+				"eventType" : "modeEvent",
+				"id" : 736,
+				"payLoad" : {
+					"type" : "end",
+					"modes" : [
+						"stimulus7",
+						"stimulus17",
+						"wasp",
+						"wasps"
+					]
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T07:03:23.508Z",
+			"details" : {
+				"eventType" : "ruleEvent",
+				"id" : 736,
+				"payLoad" : {
+					"id" : 573
+				}
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:23.508Z",
+			"details" : "stimulus7"
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T07:03:23.509Z",
+			"details" : {
+				"cue" : {
+					"y" : 189,
+					"x" : 9,
+					"id" : 5858
+				},
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T07:03:23.510Z",
+			"details" : {
+				"evaluation" : "incorrectNonResponse",
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T07:03:23.510Z",
+			"details" : {
+				"cue_id" : 5858,
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T07:03:23.512Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:23.512Z",
+			"details" : "stimulus17"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:23.513Z",
+			"details" : "wasp"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:23.513Z",
+			"details" : "wasps"
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T07:03:23.514Z",
+			"details" : {
+				"evaluation" : "correctResponse",
+				"rule" : 573,
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T07:03:23.514Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:23.620Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "keyup",
+			"timestamp" : "2014-02-20T07:03:23.686Z",
+			"details" : {
+				"eventType" : "buttonEvent",
+				"id" : 417,
+				"payLoad" : {
+					"id" : 736
+				}
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:23.697Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T07:03:23.697Z",
+			"details" : "stimulus7"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T07:03:23.717Z",
+			"details" : {
+				"cue" : {
+					"y" : 189,
+					"x" : 217,
+					"id" : 5859
+				},
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "keydown",
+			"timestamp" : "2014-02-20T07:03:26.230Z",
+			"details" : {
+				"eventType" : "buttonEvent",
+				"id" : 415,
+				"payLoad" : {
+					"id" : 735
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T07:03:26.230Z",
+			"details" : {
+				"eventType" : "ruleEvent",
+				"id" : 735,
+				"payLoad" : {
+					"id" : 600
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T07:03:26.230Z",
+			"details" : {
+				"eventType" : "modeEvent",
+				"id" : 735,
+				"payLoad" : {
+					"type" : "end",
+					"modes" : [
+						"stimulus7",
+						"stimulus17",
+						"wasp",
+						"wasps"
+					]
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T07:03:26.230Z",
+			"details" : {
+				"eventType" : "ruleEvent",
+				"id" : 735,
+				"payLoad" : {
+					"id" : 574
+				}
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:26.231Z",
+			"details" : "stimulus7"
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T07:03:26.231Z",
+			"details" : {
+				"cue" : {
+					"y" : 189,
+					"x" : 217,
+					"id" : 5859
+				},
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T07:03:26.232Z",
+			"details" : {
+				"evaluation" : "incorrectNonResponse",
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T07:03:26.232Z",
+			"details" : {
+				"cue_id" : 5859,
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T07:03:26.234Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:26.235Z",
+			"details" : "stimulus17"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:26.235Z",
+			"details" : "wasp"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:26.235Z",
+			"details" : "wasps"
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T07:03:26.236Z",
+			"details" : {
+				"evaluation" : "correctResponse",
+				"rule" : 574,
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T07:03:26.236Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:26.338Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "keyup",
+			"timestamp" : "2014-02-20T07:03:26.380Z",
+			"details" : {
+				"eventType" : "buttonEvent",
+				"id" : 415,
+				"payLoad" : {
+					"id" : 735
+				}
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:26.422Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T07:03:26.423Z",
+			"details" : "stimulus7"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T07:03:26.439Z",
+			"details" : {
+				"cue" : {
+					"y" : 219,
+					"x" : 61,
+					"id" : 5860
+				},
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "keydown",
+			"timestamp" : "2014-02-20T07:03:29.133Z",
+			"details" : {
+				"eventType" : "buttonEvent",
+				"id" : 417,
+				"payLoad" : {
+					"id" : 736
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T07:03:29.134Z",
+			"details" : {
+				"eventType" : "ruleEvent",
+				"id" : 736,
+				"payLoad" : {
+					"id" : 601
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T07:03:29.134Z",
+			"details" : {
+				"eventType" : "modeEvent",
+				"id" : 736,
+				"payLoad" : {
+					"type" : "end",
+					"modes" : [
+						"stimulus7",
+						"stimulus17",
+						"wasp",
+						"wasps"
+					]
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T07:03:29.134Z",
+			"details" : {
+				"eventType" : "ruleEvent",
+				"id" : 736,
+				"payLoad" : {
+					"id" : 573
+				}
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:29.134Z",
+			"details" : "stimulus7"
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T07:03:29.135Z",
+			"details" : {
+				"cue" : {
+					"y" : 219,
+					"x" : 61,
+					"id" : 5860
+				},
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T07:03:29.135Z",
+			"details" : {
+				"evaluation" : "incorrectNonResponse",
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T07:03:29.136Z",
+			"details" : {
+				"cue_id" : 5860,
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T07:03:29.137Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:29.138Z",
+			"details" : "stimulus17"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:29.138Z",
+			"details" : "wasp"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:29.138Z",
+			"details" : "wasps"
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T07:03:29.139Z",
+			"details" : {
+				"evaluation" : "correctResponse",
+				"rule" : 573,
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T07:03:29.139Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:29.250Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "keyup",
+			"timestamp" : "2014-02-20T07:03:29.314Z",
+			"details" : {
+				"eventType" : "buttonEvent",
+				"id" : 417,
+				"payLoad" : {
+					"id" : 736
+				}
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:29.335Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T07:03:29.335Z",
+			"details" : "stimulus7"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T07:03:29.352Z",
+			"details" : {
+				"cue" : {
+					"y" : 69,
+					"x" : 113,
+					"id" : 5865
+				},
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "keydown",
+			"timestamp" : "2014-02-20T07:03:31.664Z",
+			"details" : {
+				"eventType" : "buttonEvent",
+				"id" : 416,
+				"payLoad" : {
+					"id" : 734
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T07:03:31.664Z",
+			"details" : {
+				"eventType" : "ruleEvent",
+				"id" : 734,
+				"payLoad" : {
+					"id" : 602
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T07:03:31.664Z",
+			"details" : {
+				"eventType" : "modeEvent",
+				"id" : 734,
+				"payLoad" : {
+					"type" : "end",
+					"modes" : [
+						"stimulus7",
+						"stimulus17",
+						"wasp",
+						"wasps"
+					]
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T07:03:31.664Z",
+			"details" : {
+				"eventType" : "ruleEvent",
+				"id" : 734,
+				"payLoad" : {
+					"id" : 576
+				}
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:31.664Z",
+			"details" : "stimulus7"
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T07:03:31.665Z",
+			"details" : {
+				"cue" : {
+					"y" : 69,
+					"x" : 113,
+					"id" : 5865
+				},
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T07:03:31.665Z",
+			"details" : {
+				"evaluation" : "incorrectNonResponse",
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T07:03:31.666Z",
+			"details" : {
+				"cue_id" : 5865,
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T07:03:31.667Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:31.668Z",
+			"details" : "stimulus17"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:31.668Z",
+			"details" : "wasp"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:31.668Z",
+			"details" : "wasps"
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T07:03:31.669Z",
+			"details" : {
+				"evaluation" : "correctResponse",
+				"rule" : 576,
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T07:03:31.669Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:31.785Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:31.856Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T07:03:31.857Z",
+			"details" : "stimulus7"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T07:03:31.875Z",
+			"details" : {
+				"cue" : {
+					"y" : 129,
+					"x" : 9,
+					"id" : 5864
+				},
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "keyup",
+			"timestamp" : "2014-02-20T07:03:31.879Z",
+			"details" : {
+				"eventType" : "buttonEvent",
+				"id" : 416,
+				"payLoad" : {
+					"id" : 734
+				}
+			}
+		},
+		{
+			"action" : "keydown",
+			"timestamp" : "2014-02-20T07:03:34.055Z",
+			"details" : {
+				"eventType" : "buttonEvent",
+				"id" : 415,
+				"payLoad" : {
+					"id" : 735
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T07:03:34.055Z",
+			"details" : {
+				"eventType" : "ruleEvent",
+				"id" : 735,
+				"payLoad" : {
+					"id" : 600
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T07:03:34.056Z",
+			"details" : {
+				"eventType" : "modeEvent",
+				"id" : 735,
+				"payLoad" : {
+					"type" : "end",
+					"modes" : [
+						"stimulus7",
+						"stimulus17",
+						"wasp",
+						"wasps"
+					]
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T07:03:34.056Z",
+			"details" : {
+				"eventType" : "ruleEvent",
+				"id" : 735,
+				"payLoad" : {
+					"id" : 574
+				}
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:34.056Z",
+			"details" : "stimulus7"
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T07:03:34.057Z",
+			"details" : {
+				"cue" : {
+					"y" : 129,
+					"x" : 9,
+					"id" : 5864
+				},
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T07:03:34.058Z",
+			"details" : {
+				"evaluation" : "incorrectNonResponse",
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T07:03:34.058Z",
+			"details" : {
+				"cue_id" : 5864,
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T07:03:34.060Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:34.060Z",
+			"details" : "stimulus17"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:34.061Z",
+			"details" : "wasp"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:34.061Z",
+			"details" : "wasps"
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T07:03:34.062Z",
+			"details" : {
+				"evaluation" : "correctResponse",
+				"rule" : 574,
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T07:03:34.062Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:34.173Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "keyup",
+			"timestamp" : "2014-02-20T07:03:34.189Z",
+			"details" : {
+				"eventType" : "buttonEvent",
+				"id" : 415,
+				"payLoad" : {
+					"id" : 735
+				}
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:34.256Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T07:03:34.257Z",
+			"details" : "stimulus7"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T07:03:34.274Z",
+			"details" : {
+				"cue" : {
+					"y" : 129,
+					"x" : 9,
+					"id" : 5856
+				},
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "keydown",
+			"timestamp" : "2014-02-20T07:03:37.649Z",
+			"details" : {
+				"eventType" : "buttonEvent",
+				"id" : 414,
+				"payLoad" : {
+					"id" : 737
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T07:03:37.650Z",
+			"details" : {
+				"eventType" : "ruleEvent",
+				"id" : 737,
+				"payLoad" : {
+					"id" : 599
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T07:03:37.650Z",
+			"details" : {
+				"eventType" : "modeEvent",
+				"id" : 737,
+				"payLoad" : {
+					"type" : "end",
+					"modes" : [
+						"stimulus7",
+						"stimulus17",
+						"wasp",
+						"wasps"
+					]
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T07:03:37.650Z",
+			"details" : {
+				"eventType" : "ruleEvent",
+				"id" : 737,
+				"payLoad" : {
+					"id" : 575
+				}
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:37.651Z",
+			"details" : "stimulus7"
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T07:03:37.651Z",
+			"details" : {
+				"cue" : {
+					"y" : 129,
+					"x" : 9,
+					"id" : 5856
+				},
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T07:03:37.652Z",
+			"details" : {
+				"evaluation" : "incorrectNonResponse",
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T07:03:37.653Z",
+			"details" : {
+				"cue_id" : 5856,
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T07:03:37.655Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:37.656Z",
+			"details" : "stimulus17"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:37.657Z",
+			"details" : "wasp"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:37.658Z",
+			"details" : "wasps"
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T07:03:37.659Z",
+			"details" : {
+				"evaluation" : "correctResponse",
+				"rule" : 575,
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T07:03:37.660Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:37.757Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "keyup",
+			"timestamp" : "2014-02-20T07:03:37.831Z",
+			"details" : {
+				"eventType" : "buttonEvent",
+				"id" : 414,
+				"payLoad" : {
+					"id" : 737
+				}
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:37.839Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T07:03:37.840Z",
+			"details" : "stimulus7"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T07:03:37.858Z",
+			"details" : {
+				"cue" : {
+					"y" : 69,
+					"x" : 9,
+					"id" : 5861
+				},
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "keydown",
+			"timestamp" : "2014-02-20T07:03:40.107Z",
+			"details" : {
+				"eventType" : "buttonEvent",
+				"id" : 415,
+				"payLoad" : {
+					"id" : 735
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T07:03:40.107Z",
+			"details" : {
+				"eventType" : "ruleEvent",
+				"id" : 735,
+				"payLoad" : {
+					"id" : 600
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T07:03:40.107Z",
+			"details" : {
+				"eventType" : "modeEvent",
+				"id" : 735,
+				"payLoad" : {
+					"type" : "end",
+					"modes" : [
+						"stimulus7",
+						"stimulus17",
+						"wasp",
+						"wasps"
+					]
+				}
+			}
+		},
+		{
+			"action" : "button_press",
+			"timestamp" : "2014-02-20T07:03:40.107Z",
+			"details" : {
+				"eventType" : "ruleEvent",
+				"id" : 735,
+				"payLoad" : {
+					"id" : 574
+				}
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:40.108Z",
+			"details" : "stimulus7"
+		},
+		{
+			"action" : "hide_cue",
+			"timestamp" : "2014-02-20T07:03:40.108Z",
+			"details" : {
+				"cue" : {
+					"y" : 69,
+					"x" : 9,
+					"id" : 5861
+				},
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T07:03:40.109Z",
+			"details" : {
+				"evaluation" : "incorrectNonResponse",
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "store_cue_for_span",
+			"timestamp" : "2014-02-20T07:03:40.110Z",
+			"details" : {
+				"cue_id" : 5861,
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T07:03:40.111Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:40.112Z",
+			"details" : "stimulus17"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:40.112Z",
+			"details" : "wasp"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:40.112Z",
+			"details" : "wasps"
+		},
+		{
+			"action" : "rule_evaluation",
+			"timestamp" : "2014-02-20T07:03:40.113Z",
+			"details" : {
+				"evaluation" : "correctResponse",
+				"rule" : 574,
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T07:03:40.113Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:40.227Z",
+			"details" : "correct"
+		},
+		{
+			"action" : "keyup",
+			"timestamp" : "2014-02-20T07:03:40.282Z",
+			"details" : {
+				"eventType" : "buttonEvent",
+				"id" : 415,
+				"payLoad" : {
+					"id" : 735
+				}
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:40.298Z",
+			"details" : "pause"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T07:03:40.298Z",
+			"details" : "stimulus7"
+		},
+		{
+			"action" : "show_cue",
+			"timestamp" : "2014-02-20T07:03:40.318Z",
+			"details" : {
+				"cue" : {
+					"y" : 249,
+					"x" : 217,
+					"id" : 5863
+				},
+				"channel" : "stimulus7"
+			}
+		},
+		{
+			"action" : "end_mode",
+			"timestamp" : "2014-02-20T07:03:41.459Z",
+			"details" : "timer"
+		},
+		{
+			"action" : "start_mode",
+			"timestamp" : "2014-02-20T07:03:41.461Z",
+			"details" : "gameOver"
+		}
+	]
+}

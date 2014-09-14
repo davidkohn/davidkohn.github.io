@@ -7,6 +7,7 @@ image1: /assets/game_297_mean.png
 image2: /assets/game_297_adj_mean.png
 image3: /assets/game_297_no_gamesets.png
 image4: /assets/game_297_no_players.png
+json1: /assets/json-297.txt
 ---
 
 ### Contents
@@ -27,61 +28,137 @@ image4: /assets/game_297_no_players.png
 </ul>
 </p>
 
+## How the game works
+<p>
+<ul>
+<li>A set of instructions are displayed at the start of the game telling the user what the rule for the level is.</li>
+<li>The game runs for 1 min. 30 stimuli are displayed for 2 seconds each.</li>
+<li>For every level after level 1 an additional stimulus is displayed.Additionally, each stimuli is displayed for 1/25 of a second less for each level. For example 31 stimuli will be displayed on level 2, the game will last 0.98 * 2 seconds * 31 stimuli or aproximately 61 seconds. On level 3, 32 stimuli will be displayed each will be displayed for 4 frames less. The game will last 0.94 * 2 seconds * 32 or approximately 60 seconds. On level 4, 33 stimuli will be displayed for 6 frames less so the game will last 0.92 * 2 seconds * 33 or approximately 61 seconds. </li>
+<li>The game displays stimuli which are a set of numbers that depend on the cue pool of a given level. The user must press a button is the relationship between the current number and numbers previously displayed matches the rule given at the beginning of the level.</li>
+<li>A correct response has weight 1.0. If the relationship between the numbers did not match the rule and the user did not press anything this is counted as a correct non-response which also has weight 1.0. An incorrect response or an incorrect non-response also have wiehgt 1.0</li>
+</ul>
+</p>
+
+
+## Cuepools
+<p>
+<ul>
+<li>Level 1</li>
+<ul>
+<li>Rule: last and current are even.</li>
+<li>Cue pool: Odds and Evens - numbers 1-4</li>
+</ul>
+<li>Level 2</li>
+<ul>
+<li>Rule: last and current are odd.</li>
+<li>Cue pool: Odds and Evens - numbers 1-4</li>
+</ul>
+<li>Level 3</li>
+<ul>
+<li>Rule: last and current have parity.</li>
+<li>Cue pool: Odds and Evens - numbers 1-4</li>
+</ul>
+<li>Level 4</li>
+<ul>
+<li>Rule: last and current have parity.</li>
+<li>Cue pool: Odds and Evens - numbers 1-6</li>
+</ul>
+<li>Level 5</li>
+<ul>
+<li>Rule: last and current have no parity.</li>
+<li>Cue pool: Odds and Evens - numbers 1-6</li>
+</ul>
+<li>Level 6</li>
+<ul>
+<li>Rule: last and current have no parity.</li>
+<li>Cue pool: Odds and Evens - numbers 1-8</li>
+</ul>
+<li>Level 7</li>
+<ul>
+<li>Rule: second to last and current have parity.</li>
+<li>Cue pool: Odds and Evens - numbers 1-2</li>
+</ul>
+<li>Level 8</li>
+<ul>
+<li>Rule: second to last and current have parity.</li>
+<li>Cue pool: Odds and Evens - numbers 1-4</li>
+</ul>
+<li>Level 9</li>
+<ul>
+<li>Rule: second to last and current have no parity.</li>
+<li>Cue pool: Odds and Evens - numbers 1-6</li>
+</ul>
+<li>Level 10</li>
+<ul>
+<li>Rule: second to last and current have no parity.</li>
+<li>Cue pool: Odds and Evens - numbers 1-8</li>
+</ul>
+<li>Level 11</li>
+<ul>
+<li>Rule: sum of last two have parity with current.</li>
+<li>Cue pool: Odds and Evens - numbers 1-2</li>
+</ul>
+<li>Level 12</li>
+<ul>
+<li>Rule: sum of last two have parity with current.</li>
+<li>Cue pool: Odds and Evens - numbers 1-4</li>
+</ul>
+<li>Level 13</li>
+<ul>
+<li>Rule: sum of last two have no parity with current.</li>
+<li>Cue pool: Odds and Evens - numbers 1-6</li>
+</ul>
+<li>Level 14</li>
+<ul>
+<li>Rule: sum of last two have no parity with current.</li>
+<li>Cue pool: Odds and Evens - numbers 1-8</li>
+</ul>
+<li>Level 15</li>
+<ul>
+<li>Rule: sum of last three have parity with current.</li>
+<li>Cue pool: Odds and Evens - numbers 1-8</li>
+</ul>
+</ul>
+</p>
+
 ## Modes
 <p>
 <ul>
 <li>text1a: levels 1</li>
+<ul>
+<li>Rule: last and current are even.</li>
+</ul>
 <li>text1b: levels 2</li>
+<ul>
+<li>Rule: last and current are odd.</li>
+</ul>
 <li>text2a: levels 3, 4</li>
+<ul>
+<li>Rule: last and current have parity.</li>
+</ul>
 <li>text2b: levels 5, 6</li>
+<ul>
+<li>Rule: last and current have no parity.</li>
+</ul>
 <li>text3a: levels 7, 8</li>
+<ul>
+<li>Rule: second to last and current have parity.</li>
+</ul>
 <li>text3b: levels 9, 10</li>
+<ul>
+<li>Rule: second to last and current have no parity.</li>
+</ul>
 <li>text4a: levels 11, 12</li>
+<ul>
+<li>Rule: sum of last two have parity with current.</li>
+</ul>
 <li>text4b: levels 13, 14</li>
+<ul>
+<li>Rule: sum of last two have no parity with current.</li>
+</ul>
 <li>text5: levels 15</li>
-</ul>
-</p>
-
-## Display
-<p>
 <ul>
-<li>channels</li>
-<ul>
-<li>instruct</li>
-<ul>
-<li>durationInFrames: 9000</li>
-<li>modes: instruct</li>
-<li>cueSequence: 9613</li>
-</ul>
-<li>stimulus</li>
-<ul>
-<li>updateAtFrame: 100</li>
-<li>modes: stimulus</li>
-</ul>
-</ul>
-<li>gameModes</li>
-<ul>
-<li>endTriggers</li>
-<ul>
-<li>instruct -> intro</li>
-<li>intro -> stimulus, controls, text1a/1b/2a/2b/3a/3b/4a/4b/5</li>
-<li>stimulus -> pause</li>
-<li>pause -> stimulus, pause -> gameOver if pause -> stimulus 30 times</li>
-</ul>
-<li>durationInFrames</li>
-<ul>
-<li>stimulus: 100</li>
-<li>pause: 10</li>
-<li>correct: 6</li>
-<li>incorrect: 6</li>
-<li>instruct: 9000</li>
-</ul>
-</ul>
-<li>adaptation rules</li>
-<ul>
-<li>instruct channel cueSequence +1</li>
-<li>pause -> gameOver if pause -> stimulus 30 + 1 times</li>
-<li>stimulus -2 durationInFrames</li>
+<li>Rule: sum of last three have parity with current.</li>
 </ul>
 </ul>
 </p>
@@ -99,7 +176,7 @@ image4: /assets/game_297_no_players.png
 </ul>
 <li>logic set 2</li>
 <ul>
-<li>levels: 4, 5, 9, 12</li>
+<li>levels: 4, 5, 9, 13</li>
 <li>channel: stimulus</li>
 <ul>
 <li>cue pool: Odds and Evens - numbers 1-6</li>
@@ -142,6 +219,14 @@ image4: /assets/game_297_no_players.png
 <li>language: 75</li>
 <li>auditory: 75</li>
 <li>spatial: 75</li>
+</ul>
+</p>
+
+## Example JSON
+<p>
+<ul>
+<li><a href="{{ page.json1 }}">Here is a link to some example JSON</a> for game 297 level 1.</li>
+<li>This JSON is only the 'play_data' portion of the actual JSON from a gameplay session.</li>
 </ul>
 </p>
 

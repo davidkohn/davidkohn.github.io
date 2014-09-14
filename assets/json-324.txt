@@ -1,0 +1,8884 @@
+{
+	"play_data" : [
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:51:24.882Z",
+		"details" : "intro"
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:51:24.894Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 9583
+			},
+			"channel" : "intro"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:51:25.870Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 9583
+			},
+			"channel" : "intro"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:51:25.871Z",
+		"details" : {
+			"cue_id" : 9583,
+			"channel" : "intro"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:51:25.886Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 9582
+			},
+			"channel" : "intro"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:51:26.867Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 9582
+			},
+			"channel" : "intro"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:51:26.868Z",
+		"details" : {
+			"cue_id" : 9582,
+			"channel" : "intro"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:51:26.883Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 9581
+			},
+			"channel" : "intro"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:51:27.868Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 9581
+			},
+			"channel" : "intro"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:51:27.868Z",
+		"details" : {
+			"cue_id" : 9581,
+			"channel" : "intro"
+		}
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:51:27.869Z",
+		"details" : "intro"
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:51:27.872Z",
+		"details" : "stimulus"
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:51:27.873Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4976
+			},
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:51:27.892Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5004
+			},
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:51:27.893Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4976
+			},
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:51:27.895Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5004
+			},
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:51:27.896Z",
+		"details" : "timer"
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:51:27.899Z",
+		"details" : "targetscore"
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:51:27.910Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 530
+			},
+			"channel" : "targetscore"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:51:27.974Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 530
+			},
+			"channel" : "targetscore"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:51:27.975Z",
+		"details" : {
+			"evaluation" : "incorrectNonResponse",
+			"channel" : "targetscore"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:51:27.975Z",
+		"details" : {
+			"cue_id" : 530,
+			"channel" : "targetscore"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:51:27.978Z",
+		"details" : {
+			"score_event_id" : 868,
+			"channel" : "targetscore",
+			"dichotomy" : "potential"
+		}
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:51:27.978Z",
+		"details" : "targetscore"
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:51:30.118Z",
+		"details" : {
+			"eventType" : "modeEvent",
+			"id" : 743,
+			"payLoad" : {
+				"type" : "end",
+				"modes" : [
+					"stimulus"
+				]
+			}
+		}
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:51:30.118Z",
+		"details" : {
+			"eventType" : "modeEvent",
+			"id" : 743,
+			"payLoad" : {
+				"type" : "start",
+				"modes" : [
+					"stimuluspause"
+				]
+			}
+		}
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:51:30.118Z",
+		"details" : {
+			"eventType" : "ruleEvent",
+			"id" : 743,
+			"payLoad" : {
+				"id" : 591
+			}
+		}
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:51:30.118Z",
+		"details" : "stimulus"
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:51:30.118Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4976
+			},
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:51:30.119Z",
+		"details" : {
+			"cue_id" : 4976,
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:51:30.119Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5004
+			},
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:51:30.119Z",
+		"details" : {
+			"evaluation" : "incorrectNonResponse",
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:51:30.120Z",
+		"details" : {
+			"cue_id" : 5004,
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:51:30.121Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4976
+			},
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:51:30.121Z",
+		"details" : {
+			"evaluation" : "correctNonResponse",
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:51:30.123Z",
+		"details" : {
+			"score_event_id" : 870,
+			"channel" : "followword",
+			"dichotomy" : "actual"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:51:30.123Z",
+		"details" : {
+			"cue_id" : 4976,
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:51:30.125Z",
+		"details" : {
+			"score_event_id" : 870,
+			"channel" : "followword",
+			"dichotomy" : "potential"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:51:30.125Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5004
+			},
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:51:30.125Z",
+		"details" : {
+			"evaluation" : "incorrectNonResponse",
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:51:30.125Z",
+		"details" : {
+			"cue_id" : 5004,
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:51:30.126Z",
+		"details" : {
+			"score_event_id" : 872,
+			"channel" : "followmeaning",
+			"dichotomy" : "potential"
+		}
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:51:30.127Z",
+		"details" : "stimuluspause"
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:51:30.128Z",
+		"details" : {
+			"evaluation" : "correctResponse",
+			"rule" : 591,
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:51:30.130Z",
+		"details" : "correct"
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:51:30.133Z",
+		"details" : {
+			"score_event_id" : 872,
+			"channel" : "followmeaning",
+			"dichotomy" : "actual"
+		}
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:51:30.249Z",
+		"details" : "stimuluspause"
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:51:30.249Z",
+		"details" : "stimulus"
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:51:30.250Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5004
+			},
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:51:30.266Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4976
+			},
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:51:30.268Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5004
+			},
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:51:30.269Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4976
+			},
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:51:30.273Z",
+		"details" : "correct"
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:51:31.742Z",
+		"details" : {
+			"eventType" : "modeEvent",
+			"id" : 743,
+			"payLoad" : {
+				"type" : "end",
+				"modes" : [
+					"stimulus"
+				]
+			}
+		}
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:51:31.742Z",
+		"details" : {
+			"eventType" : "modeEvent",
+			"id" : 743,
+			"payLoad" : {
+				"type" : "start",
+				"modes" : [
+					"stimuluspause"
+				]
+			}
+		}
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:51:31.742Z",
+		"details" : {
+			"eventType" : "ruleEvent",
+			"id" : 743,
+			"payLoad" : {
+				"id" : 591
+			}
+		}
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:51:31.742Z",
+		"details" : "stimulus"
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:51:31.742Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5004
+			},
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:51:31.743Z",
+		"details" : {
+			"cue_id" : 5004,
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:51:31.743Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4976
+			},
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:51:31.744Z",
+		"details" : {
+			"evaluation" : "incorrectNonResponse",
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:51:31.744Z",
+		"details" : {
+			"cue_id" : 4976,
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:51:31.745Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5004
+			},
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:51:31.745Z",
+		"details" : {
+			"evaluation" : "correctNonResponse",
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:51:31.745Z",
+		"details" : {
+			"score_event_id" : 870,
+			"channel" : "followword",
+			"dichotomy" : "actual"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:51:31.745Z",
+		"details" : {
+			"cue_id" : 5004,
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:51:31.747Z",
+		"details" : {
+			"score_event_id" : 870,
+			"channel" : "followword",
+			"dichotomy" : "potential"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:51:31.747Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4976
+			},
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:51:31.748Z",
+		"details" : {
+			"evaluation" : "incorrectNonResponse",
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:51:31.748Z",
+		"details" : {
+			"cue_id" : 4976,
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:51:31.749Z",
+		"details" : {
+			"score_event_id" : 872,
+			"channel" : "followmeaning",
+			"dichotomy" : "potential"
+		}
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:51:31.750Z",
+		"details" : "stimuluspause"
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:51:31.751Z",
+		"details" : {
+			"evaluation" : "correctResponse",
+			"rule" : 591,
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:51:31.751Z",
+		"details" : "correct"
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:51:31.753Z",
+		"details" : {
+			"score_event_id" : 872,
+			"channel" : "followmeaning",
+			"dichotomy" : "actual"
+		}
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:51:31.869Z",
+		"details" : "stimuluspause"
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:51:31.870Z",
+		"details" : "stimulus"
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:51:31.870Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5026
+			},
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:51:31.876Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5021
+			},
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:51:31.878Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5026
+			},
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:51:31.879Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5021
+			},
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:51:31.880Z",
+		"details" : "correct"
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:51:33.358Z",
+		"details" : {
+			"eventType" : "modeEvent",
+			"id" : 743,
+			"payLoad" : {
+				"type" : "end",
+				"modes" : [
+					"stimulus"
+				]
+			}
+		}
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:51:33.358Z",
+		"details" : {
+			"eventType" : "modeEvent",
+			"id" : 743,
+			"payLoad" : {
+				"type" : "start",
+				"modes" : [
+					"stimuluspause"
+				]
+			}
+		}
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:51:33.358Z",
+		"details" : {
+			"eventType" : "ruleEvent",
+			"id" : 743,
+			"payLoad" : {
+				"id" : 591
+			}
+		}
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:51:33.358Z",
+		"details" : "stimulus"
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:51:33.358Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5026
+			},
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:51:33.359Z",
+		"details" : {
+			"cue_id" : 5026,
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:51:33.359Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5021
+			},
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:51:33.360Z",
+		"details" : {
+			"evaluation" : "incorrectNonResponse",
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:51:33.360Z",
+		"details" : {
+			"cue_id" : 5021,
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:51:33.361Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5026
+			},
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:51:33.361Z",
+		"details" : {
+			"evaluation" : "correctNonResponse",
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:51:33.361Z",
+		"details" : {
+			"score_event_id" : 870,
+			"channel" : "followword",
+			"dichotomy" : "actual"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:51:33.361Z",
+		"details" : {
+			"cue_id" : 5026,
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:51:33.362Z",
+		"details" : {
+			"score_event_id" : 870,
+			"channel" : "followword",
+			"dichotomy" : "potential"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:51:33.364Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5021
+			},
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:51:33.364Z",
+		"details" : {
+			"evaluation" : "incorrectNonResponse",
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:51:33.364Z",
+		"details" : {
+			"cue_id" : 5021,
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:51:33.365Z",
+		"details" : {
+			"score_event_id" : 872,
+			"channel" : "followmeaning",
+			"dichotomy" : "potential"
+		}
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:51:33.366Z",
+		"details" : "stimuluspause"
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:51:33.366Z",
+		"details" : {
+			"evaluation" : "correctResponse",
+			"rule" : 591,
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:51:33.367Z",
+		"details" : "correct"
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:51:33.368Z",
+		"details" : {
+			"score_event_id" : 872,
+			"channel" : "followmeaning",
+			"dichotomy" : "actual"
+		}
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:51:33.494Z",
+		"details" : "stimuluspause"
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:51:33.494Z",
+		"details" : "stimulus"
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:51:33.495Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4990
+			},
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:51:33.509Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4952
+			},
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:51:33.511Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4990
+			},
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:51:33.516Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4952
+			},
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:51:33.518Z",
+		"details" : "correct"
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:51:35.437Z",
+		"details" : {
+			"eventType" : "modeEvent",
+			"id" : 743,
+			"payLoad" : {
+				"type" : "end",
+				"modes" : [
+					"stimulus"
+				]
+			}
+		}
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:51:35.437Z",
+		"details" : {
+			"eventType" : "modeEvent",
+			"id" : 743,
+			"payLoad" : {
+				"type" : "start",
+				"modes" : [
+					"stimuluspause"
+				]
+			}
+		}
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:51:35.437Z",
+		"details" : {
+			"eventType" : "ruleEvent",
+			"id" : 743,
+			"payLoad" : {
+				"id" : 591
+			}
+		}
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:51:35.438Z",
+		"details" : "stimulus"
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:51:35.438Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4990
+			},
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:51:35.439Z",
+		"details" : {
+			"cue_id" : 4990,
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:51:35.440Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4952
+			},
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:51:35.440Z",
+		"details" : {
+			"evaluation" : "incorrectNonResponse",
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:51:35.441Z",
+		"details" : {
+			"cue_id" : 4952,
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:51:35.441Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4990
+			},
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:51:35.442Z",
+		"details" : {
+			"evaluation" : "correctNonResponse",
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:51:35.442Z",
+		"details" : {
+			"score_event_id" : 870,
+			"channel" : "followword",
+			"dichotomy" : "actual"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:51:35.442Z",
+		"details" : {
+			"cue_id" : 4990,
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:51:35.443Z",
+		"details" : {
+			"score_event_id" : 870,
+			"channel" : "followword",
+			"dichotomy" : "potential"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:51:35.443Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4952
+			},
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:51:35.443Z",
+		"details" : {
+			"evaluation" : "incorrectNonResponse",
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:51:35.443Z",
+		"details" : {
+			"cue_id" : 4952,
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:51:35.444Z",
+		"details" : {
+			"score_event_id" : 872,
+			"channel" : "followmeaning",
+			"dichotomy" : "potential"
+		}
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:51:35.445Z",
+		"details" : "stimuluspause"
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:51:35.445Z",
+		"details" : {
+			"evaluation" : "correctResponse",
+			"rule" : 591,
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:51:35.446Z",
+		"details" : "correct"
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:51:35.447Z",
+		"details" : {
+			"score_event_id" : 872,
+			"channel" : "followmeaning",
+			"dichotomy" : "actual"
+		}
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:51:35.568Z",
+		"details" : "stimuluspause"
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:51:35.568Z",
+		"details" : "stimulus"
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:51:35.568Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4976
+			},
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:51:35.571Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5004
+			},
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:51:35.572Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4976
+			},
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:51:35.572Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5004
+			},
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:51:35.573Z",
+		"details" : "correct"
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:51:36.989Z",
+		"details" : {
+			"eventType" : "modeEvent",
+			"id" : 743,
+			"payLoad" : {
+				"type" : "end",
+				"modes" : [
+					"stimulus"
+				]
+			}
+		}
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:51:36.990Z",
+		"details" : {
+			"eventType" : "modeEvent",
+			"id" : 743,
+			"payLoad" : {
+				"type" : "start",
+				"modes" : [
+					"stimuluspause"
+				]
+			}
+		}
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:51:36.990Z",
+		"details" : {
+			"eventType" : "ruleEvent",
+			"id" : 743,
+			"payLoad" : {
+				"id" : 591
+			}
+		}
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:51:36.990Z",
+		"details" : "stimulus"
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:51:36.990Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4976
+			},
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:51:36.991Z",
+		"details" : {
+			"cue_id" : 4976,
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:51:36.991Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5004
+			},
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:51:36.992Z",
+		"details" : {
+			"evaluation" : "incorrectNonResponse",
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:51:36.992Z",
+		"details" : {
+			"cue_id" : 5004,
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:51:36.993Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4976
+			},
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:51:36.993Z",
+		"details" : {
+			"evaluation" : "correctNonResponse",
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:51:36.994Z",
+		"details" : {
+			"score_event_id" : 870,
+			"channel" : "followword",
+			"dichotomy" : "actual"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:51:36.994Z",
+		"details" : {
+			"cue_id" : 4976,
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:51:36.994Z",
+		"details" : {
+			"score_event_id" : 870,
+			"channel" : "followword",
+			"dichotomy" : "potential"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:51:36.995Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5004
+			},
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:51:36.995Z",
+		"details" : {
+			"evaluation" : "incorrectNonResponse",
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:51:36.995Z",
+		"details" : {
+			"cue_id" : 5004,
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:51:36.996Z",
+		"details" : {
+			"score_event_id" : 872,
+			"channel" : "followmeaning",
+			"dichotomy" : "potential"
+		}
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:51:36.997Z",
+		"details" : "stimuluspause"
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:51:37.000Z",
+		"details" : {
+			"evaluation" : "correctResponse",
+			"rule" : 591,
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:51:37.001Z",
+		"details" : "correct"
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:51:37.002Z",
+		"details" : {
+			"score_event_id" : 872,
+			"channel" : "followmeaning",
+			"dichotomy" : "actual"
+		}
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:51:37.119Z",
+		"details" : "stimuluspause"
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:51:37.120Z",
+		"details" : "stimulus"
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:51:37.120Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4969
+			},
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:51:37.127Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4944
+			},
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:51:37.128Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4969
+			},
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:51:37.128Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4944
+			},
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:51:37.129Z",
+		"details" : "correct"
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:51:38.438Z",
+		"details" : {
+			"eventType" : "modeEvent",
+			"id" : 743,
+			"payLoad" : {
+				"type" : "end",
+				"modes" : [
+					"stimulus"
+				]
+			}
+		}
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:51:38.439Z",
+		"details" : {
+			"eventType" : "modeEvent",
+			"id" : 743,
+			"payLoad" : {
+				"type" : "start",
+				"modes" : [
+					"stimuluspause"
+				]
+			}
+		}
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:51:38.439Z",
+		"details" : {
+			"eventType" : "ruleEvent",
+			"id" : 743,
+			"payLoad" : {
+				"id" : 591
+			}
+		}
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:51:38.440Z",
+		"details" : "stimulus"
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:51:38.440Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4969
+			},
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:51:38.441Z",
+		"details" : {
+			"cue_id" : 4969,
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:51:38.442Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4944
+			},
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:51:38.442Z",
+		"details" : {
+			"evaluation" : "incorrectNonResponse",
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:51:38.447Z",
+		"details" : {
+			"cue_id" : 4944,
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:51:38.449Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4969
+			},
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:51:38.450Z",
+		"details" : {
+			"evaluation" : "correctNonResponse",
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:51:38.450Z",
+		"details" : {
+			"score_event_id" : 870,
+			"channel" : "followword",
+			"dichotomy" : "actual"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:51:38.450Z",
+		"details" : {
+			"cue_id" : 4969,
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:51:38.452Z",
+		"details" : {
+			"score_event_id" : 870,
+			"channel" : "followword",
+			"dichotomy" : "potential"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:51:38.452Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4944
+			},
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:51:38.453Z",
+		"details" : {
+			"evaluation" : "incorrectNonResponse",
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:51:38.454Z",
+		"details" : {
+			"cue_id" : 4944,
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:51:38.454Z",
+		"details" : {
+			"score_event_id" : 872,
+			"channel" : "followmeaning",
+			"dichotomy" : "potential"
+		}
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:51:38.455Z",
+		"details" : "stimuluspause"
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:51:38.456Z",
+		"details" : {
+			"evaluation" : "correctResponse",
+			"rule" : 591,
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:51:38.456Z",
+		"details" : "correct"
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:51:38.460Z",
+		"details" : {
+			"score_event_id" : 872,
+			"channel" : "followmeaning",
+			"dichotomy" : "actual"
+		}
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:51:38.564Z",
+		"details" : "stimuluspause"
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:51:38.565Z",
+		"details" : "stimulus"
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:51:38.566Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5031
+			},
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:51:38.572Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4958
+			},
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:51:38.573Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5031
+			},
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:51:38.573Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4958
+			},
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:51:38.575Z",
+		"details" : "correct"
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:51:41.532Z",
+		"details" : {
+			"eventType" : "modeEvent",
+			"id" : 744,
+			"payLoad" : {
+				"type" : "start",
+				"modes" : [
+					"stimuluspause"
+				]
+			}
+		}
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:51:41.532Z",
+		"details" : {
+			"eventType" : "modeEvent",
+			"id" : 744,
+			"payLoad" : {
+				"type" : "end",
+				"modes" : [
+					"stimulus"
+				]
+			}
+		}
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:51:41.532Z",
+		"details" : {
+			"eventType" : "ruleEvent",
+			"id" : 744,
+			"payLoad" : {
+				"id" : 590
+			}
+		}
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:51:41.533Z",
+		"details" : "stimuluspause"
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:51:41.534Z",
+		"details" : "stimulus"
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:51:41.535Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5031
+			},
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:51:41.535Z",
+		"details" : {
+			"cue_id" : 5031,
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:51:41.536Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4958
+			},
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:51:41.537Z",
+		"details" : {
+			"evaluation" : "correctNonResponse",
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:51:41.537Z",
+		"details" : {
+			"cue_id" : 4958,
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:51:41.539Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5031
+			},
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:51:41.539Z",
+		"details" : {
+			"evaluation" : "incorrectNonResponse",
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:51:41.544Z",
+		"details" : {
+			"cue_id" : 5031,
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:51:41.546Z",
+		"details" : {
+			"score_event_id" : 871,
+			"channel" : "followword",
+			"dichotomy" : "potential"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:51:41.548Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4958
+			},
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:51:41.548Z",
+		"details" : {
+			"evaluation" : "correctNonResponse",
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:51:41.548Z",
+		"details" : {
+			"score_event_id" : 869,
+			"channel" : "followmeaning",
+			"dichotomy" : "actual"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:51:41.548Z",
+		"details" : {
+			"cue_id" : 4958,
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:51:41.549Z",
+		"details" : {
+			"score_event_id" : 869,
+			"channel" : "followmeaning",
+			"dichotomy" : "potential"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:51:41.551Z",
+		"details" : {
+			"evaluation" : "correctResponse",
+			"rule" : 590,
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:51:41.551Z",
+		"details" : "correct"
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:51:41.552Z",
+		"details" : {
+			"score_event_id" : 871,
+			"channel" : "followword",
+			"dichotomy" : "actual"
+		}
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:51:41.665Z",
+		"details" : "stimuluspause"
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:51:41.666Z",
+		"details" : "stimulus"
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:51:41.667Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5032
+			},
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:51:41.686Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4994
+			},
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:51:41.687Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5032
+			},
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:51:41.688Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4994
+			},
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:51:41.689Z",
+		"details" : "correct"
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:51:43.260Z",
+		"details" : {
+			"eventType" : "modeEvent",
+			"id" : 744,
+			"payLoad" : {
+				"type" : "start",
+				"modes" : [
+					"stimuluspause"
+				]
+			}
+		}
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:51:43.260Z",
+		"details" : {
+			"eventType" : "modeEvent",
+			"id" : 744,
+			"payLoad" : {
+				"type" : "end",
+				"modes" : [
+					"stimulus"
+				]
+			}
+		}
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:51:43.261Z",
+		"details" : {
+			"eventType" : "ruleEvent",
+			"id" : 744,
+			"payLoad" : {
+				"id" : 590
+			}
+		}
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:51:43.261Z",
+		"details" : "stimuluspause"
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:51:43.262Z",
+		"details" : "stimulus"
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:51:43.262Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5032
+			},
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:51:43.262Z",
+		"details" : {
+			"cue_id" : 5032,
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:51:43.263Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4994
+			},
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:51:43.265Z",
+		"details" : {
+			"evaluation" : "correctNonResponse",
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:51:43.265Z",
+		"details" : {
+			"cue_id" : 4994,
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:51:43.266Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5032
+			},
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:51:43.266Z",
+		"details" : {
+			"evaluation" : "incorrectNonResponse",
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:51:43.267Z",
+		"details" : {
+			"cue_id" : 5032,
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:51:43.267Z",
+		"details" : {
+			"score_event_id" : 871,
+			"channel" : "followword",
+			"dichotomy" : "potential"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:51:43.268Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4994
+			},
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:51:43.268Z",
+		"details" : {
+			"evaluation" : "correctNonResponse",
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:51:43.268Z",
+		"details" : {
+			"score_event_id" : 869,
+			"channel" : "followmeaning",
+			"dichotomy" : "actual"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:51:43.268Z",
+		"details" : {
+			"cue_id" : 4994,
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:51:43.269Z",
+		"details" : {
+			"score_event_id" : 869,
+			"channel" : "followmeaning",
+			"dichotomy" : "potential"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:51:43.270Z",
+		"details" : {
+			"evaluation" : "correctResponse",
+			"rule" : 590,
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:51:43.270Z",
+		"details" : "correct"
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:51:43.271Z",
+		"details" : {
+			"score_event_id" : 871,
+			"channel" : "followword",
+			"dichotomy" : "actual"
+		}
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:51:43.377Z",
+		"details" : "stimuluspause"
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:51:43.377Z",
+		"details" : "stimulus"
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:51:43.377Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4988
+			},
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:51:43.385Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5000
+			},
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:51:43.386Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4988
+			},
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:51:43.386Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5000
+			},
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:51:43.387Z",
+		"details" : "correct"
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:51:44.943Z",
+		"details" : {
+			"eventType" : "modeEvent",
+			"id" : 744,
+			"payLoad" : {
+				"type" : "start",
+				"modes" : [
+					"stimuluspause"
+				]
+			}
+		}
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:51:44.943Z",
+		"details" : {
+			"eventType" : "modeEvent",
+			"id" : 744,
+			"payLoad" : {
+				"type" : "end",
+				"modes" : [
+					"stimulus"
+				]
+			}
+		}
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:51:44.943Z",
+		"details" : {
+			"eventType" : "ruleEvent",
+			"id" : 744,
+			"payLoad" : {
+				"id" : 590
+			}
+		}
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:51:44.944Z",
+		"details" : "stimuluspause"
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:51:44.945Z",
+		"details" : "stimulus"
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:51:44.945Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4988
+			},
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:51:44.946Z",
+		"details" : {
+			"cue_id" : 4988,
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:51:44.947Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5000
+			},
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:51:44.948Z",
+		"details" : {
+			"evaluation" : "correctNonResponse",
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:51:44.948Z",
+		"details" : {
+			"cue_id" : 5000,
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:51:44.949Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4988
+			},
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:51:44.950Z",
+		"details" : {
+			"evaluation" : "incorrectNonResponse",
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:51:44.950Z",
+		"details" : {
+			"cue_id" : 4988,
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:51:44.952Z",
+		"details" : {
+			"score_event_id" : 871,
+			"channel" : "followword",
+			"dichotomy" : "potential"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:51:44.952Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5000
+			},
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:51:44.952Z",
+		"details" : {
+			"evaluation" : "correctNonResponse",
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:51:44.953Z",
+		"details" : {
+			"score_event_id" : 869,
+			"channel" : "followmeaning",
+			"dichotomy" : "actual"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:51:44.953Z",
+		"details" : {
+			"cue_id" : 5000,
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:51:44.954Z",
+		"details" : {
+			"score_event_id" : 869,
+			"channel" : "followmeaning",
+			"dichotomy" : "potential"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:51:44.954Z",
+		"details" : {
+			"evaluation" : "correctResponse",
+			"rule" : 590,
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:51:44.954Z",
+		"details" : "correct"
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:51:44.955Z",
+		"details" : {
+			"score_event_id" : 871,
+			"channel" : "followword",
+			"dichotomy" : "actual"
+		}
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:51:45.068Z",
+		"details" : "stimuluspause"
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:51:45.068Z",
+		"details" : "stimulus"
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:51:45.069Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4977
+			},
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:51:45.079Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5006
+			},
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:51:45.079Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4977
+			},
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:51:45.080Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5006
+			},
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:51:45.080Z",
+		"details" : "correct"
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:51:46.485Z",
+		"details" : {
+			"eventType" : "modeEvent",
+			"id" : 744,
+			"payLoad" : {
+				"type" : "start",
+				"modes" : [
+					"stimuluspause"
+				]
+			}
+		}
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:51:46.485Z",
+		"details" : {
+			"eventType" : "modeEvent",
+			"id" : 744,
+			"payLoad" : {
+				"type" : "end",
+				"modes" : [
+					"stimulus"
+				]
+			}
+		}
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:51:46.486Z",
+		"details" : {
+			"eventType" : "ruleEvent",
+			"id" : 744,
+			"payLoad" : {
+				"id" : 590
+			}
+		}
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:51:46.486Z",
+		"details" : "stimuluspause"
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:51:46.487Z",
+		"details" : "stimulus"
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:51:46.488Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4977
+			},
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:51:46.488Z",
+		"details" : {
+			"cue_id" : 4977,
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:51:46.492Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5006
+			},
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:51:46.493Z",
+		"details" : {
+			"evaluation" : "correctNonResponse",
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:51:46.493Z",
+		"details" : {
+			"cue_id" : 5006,
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:51:46.494Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4977
+			},
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:51:46.495Z",
+		"details" : {
+			"evaluation" : "incorrectNonResponse",
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:51:46.495Z",
+		"details" : {
+			"cue_id" : 4977,
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:51:46.496Z",
+		"details" : {
+			"score_event_id" : 871,
+			"channel" : "followword",
+			"dichotomy" : "potential"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:51:46.497Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5006
+			},
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:51:46.497Z",
+		"details" : {
+			"evaluation" : "correctNonResponse",
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:51:46.498Z",
+		"details" : {
+			"score_event_id" : 869,
+			"channel" : "followmeaning",
+			"dichotomy" : "actual"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:51:46.498Z",
+		"details" : {
+			"cue_id" : 5006,
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:51:46.499Z",
+		"details" : {
+			"score_event_id" : 869,
+			"channel" : "followmeaning",
+			"dichotomy" : "potential"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:51:46.500Z",
+		"details" : {
+			"evaluation" : "correctResponse",
+			"rule" : 590,
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:51:46.501Z",
+		"details" : "correct"
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:51:46.501Z",
+		"details" : {
+			"score_event_id" : 871,
+			"channel" : "followword",
+			"dichotomy" : "actual"
+		}
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:51:46.628Z",
+		"details" : "stimuluspause"
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:51:46.629Z",
+		"details" : "stimulus"
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:51:46.630Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5002
+			},
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:51:46.649Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4997
+			},
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:51:46.651Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5002
+			},
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:51:46.652Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4997
+			},
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:51:46.653Z",
+		"details" : "correct"
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:51:48.701Z",
+		"details" : {
+			"eventType" : "modeEvent",
+			"id" : 743,
+			"payLoad" : {
+				"type" : "end",
+				"modes" : [
+					"stimulus"
+				]
+			}
+		}
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:51:48.701Z",
+		"details" : {
+			"eventType" : "modeEvent",
+			"id" : 743,
+			"payLoad" : {
+				"type" : "start",
+				"modes" : [
+					"stimuluspause"
+				]
+			}
+		}
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:51:48.701Z",
+		"details" : {
+			"eventType" : "ruleEvent",
+			"id" : 743,
+			"payLoad" : {
+				"id" : 591
+			}
+		}
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:51:48.701Z",
+		"details" : "stimulus"
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:51:48.701Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5002
+			},
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:51:48.702Z",
+		"details" : {
+			"cue_id" : 5002,
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:51:48.702Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4997
+			},
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:51:48.703Z",
+		"details" : {
+			"evaluation" : "incorrectNonResponse",
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:51:48.704Z",
+		"details" : {
+			"cue_id" : 4997,
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:51:48.704Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5002
+			},
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:51:48.704Z",
+		"details" : {
+			"evaluation" : "correctNonResponse",
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:51:48.705Z",
+		"details" : {
+			"score_event_id" : 870,
+			"channel" : "followword",
+			"dichotomy" : "actual"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:51:48.705Z",
+		"details" : {
+			"cue_id" : 5002,
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:51:48.705Z",
+		"details" : {
+			"score_event_id" : 870,
+			"channel" : "followword",
+			"dichotomy" : "potential"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:51:48.705Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4997
+			},
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:51:48.706Z",
+		"details" : {
+			"evaluation" : "incorrectNonResponse",
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:51:48.706Z",
+		"details" : {
+			"cue_id" : 4997,
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:51:48.706Z",
+		"details" : {
+			"score_event_id" : 872,
+			"channel" : "followmeaning",
+			"dichotomy" : "potential"
+		}
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:51:48.707Z",
+		"details" : "stimuluspause"
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:51:48.707Z",
+		"details" : {
+			"evaluation" : "correctResponse",
+			"rule" : 591,
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:51:48.708Z",
+		"details" : "correct"
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:51:48.709Z",
+		"details" : {
+			"score_event_id" : 872,
+			"channel" : "followmeaning",
+			"dichotomy" : "actual"
+		}
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:51:48.846Z",
+		"details" : "stimuluspause"
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:51:48.846Z",
+		"details" : "stimulus"
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:51:48.846Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4974
+			},
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:51:48.853Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5004
+			},
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:51:48.853Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4974
+			},
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:51:48.853Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5004
+			},
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:51:48.854Z",
+		"details" : "correct"
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:51:50.716Z",
+		"details" : {
+			"eventType" : "modeEvent",
+			"id" : 744,
+			"payLoad" : {
+				"type" : "start",
+				"modes" : [
+					"stimuluspause"
+				]
+			}
+		}
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:51:50.716Z",
+		"details" : {
+			"eventType" : "modeEvent",
+			"id" : 744,
+			"payLoad" : {
+				"type" : "end",
+				"modes" : [
+					"stimulus"
+				]
+			}
+		}
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:51:50.717Z",
+		"details" : {
+			"eventType" : "ruleEvent",
+			"id" : 744,
+			"payLoad" : {
+				"id" : 590
+			}
+		}
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:51:50.717Z",
+		"details" : "stimuluspause"
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:51:50.717Z",
+		"details" : "stimulus"
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:51:50.718Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4974
+			},
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:51:50.718Z",
+		"details" : {
+			"cue_id" : 4974,
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:51:50.718Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5004
+			},
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:51:50.720Z",
+		"details" : {
+			"evaluation" : "correctNonResponse",
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:51:50.720Z",
+		"details" : {
+			"cue_id" : 5004,
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:51:50.721Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4974
+			},
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:51:50.721Z",
+		"details" : {
+			"evaluation" : "incorrectNonResponse",
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:51:50.722Z",
+		"details" : {
+			"cue_id" : 4974,
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:51:50.722Z",
+		"details" : {
+			"score_event_id" : 871,
+			"channel" : "followword",
+			"dichotomy" : "potential"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:51:50.722Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5004
+			},
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:51:50.723Z",
+		"details" : {
+			"evaluation" : "correctNonResponse",
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:51:50.723Z",
+		"details" : {
+			"score_event_id" : 869,
+			"channel" : "followmeaning",
+			"dichotomy" : "actual"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:51:50.723Z",
+		"details" : {
+			"cue_id" : 5004,
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:51:50.724Z",
+		"details" : {
+			"score_event_id" : 869,
+			"channel" : "followmeaning",
+			"dichotomy" : "potential"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:51:50.724Z",
+		"details" : {
+			"evaluation" : "correctResponse",
+			"rule" : 590,
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:51:50.725Z",
+		"details" : "correct"
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:51:50.726Z",
+		"details" : {
+			"score_event_id" : 871,
+			"channel" : "followword",
+			"dichotomy" : "actual"
+		}
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:51:50.830Z",
+		"details" : "stimuluspause"
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:51:50.830Z",
+		"details" : "stimulus"
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:51:50.831Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4986
+			},
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:51:50.837Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5025
+			},
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:51:50.837Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4986
+			},
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:51:50.838Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5025
+			},
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:51:50.838Z",
+		"details" : "correct"
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:51:52.149Z",
+		"details" : {
+			"eventType" : "modeEvent",
+			"id" : 744,
+			"payLoad" : {
+				"type" : "start",
+				"modes" : [
+					"stimuluspause"
+				]
+			}
+		}
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:51:52.149Z",
+		"details" : {
+			"eventType" : "modeEvent",
+			"id" : 744,
+			"payLoad" : {
+				"type" : "end",
+				"modes" : [
+					"stimulus"
+				]
+			}
+		}
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:51:52.149Z",
+		"details" : {
+			"eventType" : "ruleEvent",
+			"id" : 744,
+			"payLoad" : {
+				"id" : 590
+			}
+		}
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:51:52.149Z",
+		"details" : "stimuluspause"
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:51:52.150Z",
+		"details" : "stimulus"
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:51:52.150Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4986
+			},
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:51:52.150Z",
+		"details" : {
+			"cue_id" : 4986,
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:51:52.151Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5025
+			},
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:51:52.151Z",
+		"details" : {
+			"evaluation" : "correctNonResponse",
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:51:52.151Z",
+		"details" : {
+			"cue_id" : 5025,
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:51:52.152Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4986
+			},
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:51:52.152Z",
+		"details" : {
+			"evaluation" : "incorrectNonResponse",
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:51:52.152Z",
+		"details" : {
+			"cue_id" : 4986,
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:51:52.153Z",
+		"details" : {
+			"score_event_id" : 871,
+			"channel" : "followword",
+			"dichotomy" : "potential"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:51:52.153Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5025
+			},
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:51:52.153Z",
+		"details" : {
+			"evaluation" : "correctNonResponse",
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:51:52.154Z",
+		"details" : {
+			"score_event_id" : 869,
+			"channel" : "followmeaning",
+			"dichotomy" : "actual"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:51:52.154Z",
+		"details" : {
+			"cue_id" : 5025,
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:51:52.155Z",
+		"details" : {
+			"score_event_id" : 869,
+			"channel" : "followmeaning",
+			"dichotomy" : "potential"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:51:52.156Z",
+		"details" : {
+			"evaluation" : "correctResponse",
+			"rule" : 590,
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:51:52.156Z",
+		"details" : "correct"
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:51:52.157Z",
+		"details" : {
+			"score_event_id" : 871,
+			"channel" : "followword",
+			"dichotomy" : "actual"
+		}
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:51:52.268Z",
+		"details" : "stimuluspause"
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:51:52.268Z",
+		"details" : "stimulus"
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:51:52.268Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4958
+			},
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:51:52.276Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5004
+			},
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:51:52.276Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4958
+			},
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:51:52.277Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5004
+			},
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:51:52.277Z",
+		"details" : "correct"
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:51:53.685Z",
+		"details" : {
+			"eventType" : "modeEvent",
+			"id" : 744,
+			"payLoad" : {
+				"type" : "start",
+				"modes" : [
+					"stimuluspause"
+				]
+			}
+		}
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:51:53.685Z",
+		"details" : {
+			"eventType" : "modeEvent",
+			"id" : 744,
+			"payLoad" : {
+				"type" : "end",
+				"modes" : [
+					"stimulus"
+				]
+			}
+		}
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:51:53.686Z",
+		"details" : {
+			"eventType" : "ruleEvent",
+			"id" : 744,
+			"payLoad" : {
+				"id" : 590
+			}
+		}
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:51:53.686Z",
+		"details" : "stimuluspause"
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:51:53.687Z",
+		"details" : "stimulus"
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:51:53.688Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4958
+			},
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:51:53.688Z",
+		"details" : {
+			"cue_id" : 4958,
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:51:53.689Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5004
+			},
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:51:53.692Z",
+		"details" : {
+			"evaluation" : "correctNonResponse",
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:51:53.692Z",
+		"details" : {
+			"cue_id" : 5004,
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:51:53.694Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4958
+			},
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:51:53.695Z",
+		"details" : {
+			"evaluation" : "incorrectNonResponse",
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:51:53.695Z",
+		"details" : {
+			"cue_id" : 4958,
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:51:53.696Z",
+		"details" : {
+			"score_event_id" : 871,
+			"channel" : "followword",
+			"dichotomy" : "potential"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:51:53.697Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5004
+			},
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:51:53.697Z",
+		"details" : {
+			"evaluation" : "correctNonResponse",
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:51:53.698Z",
+		"details" : {
+			"score_event_id" : 869,
+			"channel" : "followmeaning",
+			"dichotomy" : "actual"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:51:53.698Z",
+		"details" : {
+			"cue_id" : 5004,
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:51:53.699Z",
+		"details" : {
+			"score_event_id" : 869,
+			"channel" : "followmeaning",
+			"dichotomy" : "potential"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:51:53.700Z",
+		"details" : {
+			"evaluation" : "correctResponse",
+			"rule" : 590,
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:51:53.700Z",
+		"details" : "correct"
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:51:53.701Z",
+		"details" : {
+			"score_event_id" : 871,
+			"channel" : "followword",
+			"dichotomy" : "actual"
+		}
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:51:53.798Z",
+		"details" : "stimuluspause"
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:51:53.798Z",
+		"details" : "stimulus"
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:51:53.798Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5007
+			},
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:51:53.806Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4973
+			},
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:51:53.806Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5007
+			},
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:51:53.807Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4973
+			},
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:51:53.807Z",
+		"details" : "correct"
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:51:56.277Z",
+		"details" : {
+			"eventType" : "modeEvent",
+			"id" : 744,
+			"payLoad" : {
+				"type" : "start",
+				"modes" : [
+					"stimuluspause"
+				]
+			}
+		}
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:51:56.277Z",
+		"details" : {
+			"eventType" : "modeEvent",
+			"id" : 744,
+			"payLoad" : {
+				"type" : "end",
+				"modes" : [
+					"stimulus"
+				]
+			}
+		}
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:51:56.277Z",
+		"details" : {
+			"eventType" : "ruleEvent",
+			"id" : 744,
+			"payLoad" : {
+				"id" : 590
+			}
+		}
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:51:56.277Z",
+		"details" : "stimuluspause"
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:51:56.278Z",
+		"details" : "stimulus"
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:51:56.278Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5007
+			},
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:51:56.278Z",
+		"details" : {
+			"cue_id" : 5007,
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:51:56.279Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4973
+			},
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:51:56.279Z",
+		"details" : {
+			"evaluation" : "correctNonResponse",
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:51:56.280Z",
+		"details" : {
+			"cue_id" : 4973,
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:51:56.280Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5007
+			},
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:51:56.280Z",
+		"details" : {
+			"evaluation" : "incorrectNonResponse",
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:51:56.281Z",
+		"details" : {
+			"cue_id" : 5007,
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:51:56.281Z",
+		"details" : {
+			"score_event_id" : 871,
+			"channel" : "followword",
+			"dichotomy" : "potential"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:51:56.282Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4973
+			},
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:51:56.282Z",
+		"details" : {
+			"evaluation" : "correctNonResponse",
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:51:56.282Z",
+		"details" : {
+			"score_event_id" : 869,
+			"channel" : "followmeaning",
+			"dichotomy" : "actual"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:51:56.282Z",
+		"details" : {
+			"cue_id" : 4973,
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:51:56.283Z",
+		"details" : {
+			"score_event_id" : 869,
+			"channel" : "followmeaning",
+			"dichotomy" : "potential"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:51:56.285Z",
+		"details" : {
+			"evaluation" : "correctResponse",
+			"rule" : 590,
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:51:56.285Z",
+		"details" : "correct"
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:51:56.288Z",
+		"details" : {
+			"score_event_id" : 871,
+			"channel" : "followword",
+			"dichotomy" : "actual"
+		}
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:51:56.391Z",
+		"details" : "stimuluspause"
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:51:56.392Z",
+		"details" : "stimulus"
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:51:56.392Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5029
+			},
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:51:56.399Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5014
+			},
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:51:56.399Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5029
+			},
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:51:56.400Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5014
+			},
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:51:56.400Z",
+		"details" : "correct"
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:51:58.116Z",
+		"details" : {
+			"eventType" : "modeEvent",
+			"id" : 744,
+			"payLoad" : {
+				"type" : "start",
+				"modes" : [
+					"stimuluspause"
+				]
+			}
+		}
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:51:58.117Z",
+		"details" : {
+			"eventType" : "modeEvent",
+			"id" : 744,
+			"payLoad" : {
+				"type" : "end",
+				"modes" : [
+					"stimulus"
+				]
+			}
+		}
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:51:58.117Z",
+		"details" : {
+			"eventType" : "ruleEvent",
+			"id" : 744,
+			"payLoad" : {
+				"id" : 590
+			}
+		}
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:51:58.117Z",
+		"details" : "stimuluspause"
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:51:58.118Z",
+		"details" : "stimulus"
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:51:58.118Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5029
+			},
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:51:58.118Z",
+		"details" : {
+			"cue_id" : 5029,
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:51:58.118Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5014
+			},
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:51:58.119Z",
+		"details" : {
+			"evaluation" : "correctNonResponse",
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:51:58.119Z",
+		"details" : {
+			"cue_id" : 5014,
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:51:58.120Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5029
+			},
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:51:58.120Z",
+		"details" : {
+			"evaluation" : "incorrectNonResponse",
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:51:58.120Z",
+		"details" : {
+			"cue_id" : 5029,
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:51:58.121Z",
+		"details" : {
+			"score_event_id" : 871,
+			"channel" : "followword",
+			"dichotomy" : "potential"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:51:58.121Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5014
+			},
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:51:58.122Z",
+		"details" : {
+			"evaluation" : "correctNonResponse",
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:51:58.123Z",
+		"details" : {
+			"score_event_id" : 869,
+			"channel" : "followmeaning",
+			"dichotomy" : "actual"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:51:58.123Z",
+		"details" : {
+			"cue_id" : 5014,
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:51:58.124Z",
+		"details" : {
+			"score_event_id" : 869,
+			"channel" : "followmeaning",
+			"dichotomy" : "potential"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:51:58.126Z",
+		"details" : {
+			"evaluation" : "correctResponse",
+			"rule" : 590,
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:51:58.129Z",
+		"details" : "correct"
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:51:58.134Z",
+		"details" : {
+			"score_event_id" : 871,
+			"channel" : "followword",
+			"dichotomy" : "actual"
+		}
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:51:58.265Z",
+		"details" : "stimuluspause"
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:51:58.265Z",
+		"details" : "stimulus"
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:51:58.266Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4982
+			},
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:51:58.274Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4960
+			},
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:51:58.275Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4982
+			},
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:51:58.276Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4960
+			},
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:51:58.277Z",
+		"details" : "correct"
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:52:00.357Z",
+		"details" : {
+			"eventType" : "modeEvent",
+			"id" : 743,
+			"payLoad" : {
+				"type" : "end",
+				"modes" : [
+					"stimulus"
+				]
+			}
+		}
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:52:00.357Z",
+		"details" : {
+			"eventType" : "modeEvent",
+			"id" : 743,
+			"payLoad" : {
+				"type" : "start",
+				"modes" : [
+					"stimuluspause"
+				]
+			}
+		}
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:52:00.357Z",
+		"details" : {
+			"eventType" : "ruleEvent",
+			"id" : 743,
+			"payLoad" : {
+				"id" : 591
+			}
+		}
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:52:00.358Z",
+		"details" : "stimulus"
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:52:00.358Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4982
+			},
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:52:00.359Z",
+		"details" : {
+			"cue_id" : 4982,
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:52:00.359Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4960
+			},
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:52:00.360Z",
+		"details" : {
+			"evaluation" : "incorrectNonResponse",
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:52:00.361Z",
+		"details" : {
+			"cue_id" : 4960,
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:52:00.362Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4982
+			},
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:52:00.363Z",
+		"details" : {
+			"evaluation" : "correctNonResponse",
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:52:00.364Z",
+		"details" : {
+			"score_event_id" : 870,
+			"channel" : "followword",
+			"dichotomy" : "actual"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:52:00.364Z",
+		"details" : {
+			"cue_id" : 4982,
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:52:00.365Z",
+		"details" : {
+			"score_event_id" : 870,
+			"channel" : "followword",
+			"dichotomy" : "potential"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:52:00.366Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4960
+			},
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:52:00.366Z",
+		"details" : {
+			"evaluation" : "incorrectNonResponse",
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:52:00.367Z",
+		"details" : {
+			"cue_id" : 4960,
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:52:00.368Z",
+		"details" : {
+			"score_event_id" : 872,
+			"channel" : "followmeaning",
+			"dichotomy" : "potential"
+		}
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:52:00.369Z",
+		"details" : "stimuluspause"
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:52:00.373Z",
+		"details" : {
+			"evaluation" : "correctResponse",
+			"rule" : 591,
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:52:00.373Z",
+		"details" : "correct"
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:52:00.374Z",
+		"details" : {
+			"score_event_id" : 872,
+			"channel" : "followmeaning",
+			"dichotomy" : "actual"
+		}
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:52:00.482Z",
+		"details" : "stimuluspause"
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:52:00.483Z",
+		"details" : "stimulus"
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:52:00.483Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4976
+			},
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:52:00.493Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5019
+			},
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:52:00.493Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4976
+			},
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:52:00.494Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5019
+			},
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:52:00.494Z",
+		"details" : "correct"
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:52:02.503Z",
+		"details" : {
+			"eventType" : "modeEvent",
+			"id" : 744,
+			"payLoad" : {
+				"type" : "start",
+				"modes" : [
+					"stimuluspause"
+				]
+			}
+		}
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:52:02.503Z",
+		"details" : {
+			"eventType" : "modeEvent",
+			"id" : 744,
+			"payLoad" : {
+				"type" : "end",
+				"modes" : [
+					"stimulus"
+				]
+			}
+		}
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:52:02.503Z",
+		"details" : {
+			"eventType" : "ruleEvent",
+			"id" : 744,
+			"payLoad" : {
+				"id" : 590
+			}
+		}
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:52:02.504Z",
+		"details" : "stimuluspause"
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:52:02.505Z",
+		"details" : "stimulus"
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:52:02.505Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4976
+			},
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:52:02.506Z",
+		"details" : {
+			"cue_id" : 4976,
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:52:02.507Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5019
+			},
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:52:02.507Z",
+		"details" : {
+			"evaluation" : "correctNonResponse",
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:52:02.508Z",
+		"details" : {
+			"cue_id" : 5019,
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:52:02.509Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4976
+			},
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:52:02.509Z",
+		"details" : {
+			"evaluation" : "incorrectNonResponse",
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:52:02.510Z",
+		"details" : {
+			"cue_id" : 4976,
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:52:02.511Z",
+		"details" : {
+			"score_event_id" : 871,
+			"channel" : "followword",
+			"dichotomy" : "potential"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:52:02.512Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5019
+			},
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:52:02.512Z",
+		"details" : {
+			"evaluation" : "correctNonResponse",
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:52:02.513Z",
+		"details" : {
+			"score_event_id" : 869,
+			"channel" : "followmeaning",
+			"dichotomy" : "actual"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:52:02.513Z",
+		"details" : {
+			"cue_id" : 5019,
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:52:02.516Z",
+		"details" : {
+			"score_event_id" : 869,
+			"channel" : "followmeaning",
+			"dichotomy" : "potential"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:52:02.518Z",
+		"details" : {
+			"evaluation" : "correctResponse",
+			"rule" : 590,
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:52:02.519Z",
+		"details" : "correct"
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:52:02.525Z",
+		"details" : {
+			"score_event_id" : 871,
+			"channel" : "followword",
+			"dichotomy" : "actual"
+		}
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:52:02.626Z",
+		"details" : "stimuluspause"
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:52:02.626Z",
+		"details" : "stimulus"
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:52:02.626Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4965
+			},
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:52:02.633Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4972
+			},
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:52:02.634Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4965
+			},
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:52:02.634Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4972
+			},
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:52:02.634Z",
+		"details" : "correct"
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:52:03.828Z",
+		"details" : {
+			"eventType" : "modeEvent",
+			"id" : 744,
+			"payLoad" : {
+				"type" : "start",
+				"modes" : [
+					"stimuluspause"
+				]
+			}
+		}
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:52:03.828Z",
+		"details" : {
+			"eventType" : "modeEvent",
+			"id" : 744,
+			"payLoad" : {
+				"type" : "end",
+				"modes" : [
+					"stimulus"
+				]
+			}
+		}
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:52:03.828Z",
+		"details" : {
+			"eventType" : "ruleEvent",
+			"id" : 744,
+			"payLoad" : {
+				"id" : 590
+			}
+		}
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:52:03.829Z",
+		"details" : "stimuluspause"
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:52:03.829Z",
+		"details" : "stimulus"
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:52:03.829Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4965
+			},
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:52:03.829Z",
+		"details" : {
+			"cue_id" : 4965,
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:52:03.830Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4972
+			},
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:52:03.830Z",
+		"details" : {
+			"evaluation" : "correctNonResponse",
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:52:03.830Z",
+		"details" : {
+			"cue_id" : 4972,
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:52:03.831Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4965
+			},
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:52:03.831Z",
+		"details" : {
+			"evaluation" : "incorrectNonResponse",
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:52:03.831Z",
+		"details" : {
+			"cue_id" : 4965,
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:52:03.832Z",
+		"details" : {
+			"score_event_id" : 871,
+			"channel" : "followword",
+			"dichotomy" : "potential"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:52:03.832Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4972
+			},
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:52:03.833Z",
+		"details" : {
+			"evaluation" : "correctNonResponse",
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:52:03.833Z",
+		"details" : {
+			"score_event_id" : 869,
+			"channel" : "followmeaning",
+			"dichotomy" : "actual"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:52:03.833Z",
+		"details" : {
+			"cue_id" : 4972,
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:52:03.834Z",
+		"details" : {
+			"score_event_id" : 869,
+			"channel" : "followmeaning",
+			"dichotomy" : "potential"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:52:03.834Z",
+		"details" : {
+			"evaluation" : "correctResponse",
+			"rule" : 590,
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:52:03.834Z",
+		"details" : "correct"
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:52:03.835Z",
+		"details" : {
+			"score_event_id" : 871,
+			"channel" : "followword",
+			"dichotomy" : "actual"
+		}
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:52:03.938Z",
+		"details" : "stimuluspause"
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:52:03.938Z",
+		"details" : "stimulus"
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:52:03.939Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4961
+			},
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:52:03.945Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4976
+			},
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:52:03.946Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4961
+			},
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:52:03.946Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4976
+			},
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:52:03.947Z",
+		"details" : "correct"
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:52:05.575Z",
+		"details" : {
+			"eventType" : "modeEvent",
+			"id" : 744,
+			"payLoad" : {
+				"type" : "start",
+				"modes" : [
+					"stimuluspause"
+				]
+			}
+		}
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:52:05.575Z",
+		"details" : {
+			"eventType" : "modeEvent",
+			"id" : 744,
+			"payLoad" : {
+				"type" : "end",
+				"modes" : [
+					"stimulus"
+				]
+			}
+		}
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:52:05.575Z",
+		"details" : {
+			"eventType" : "ruleEvent",
+			"id" : 744,
+			"payLoad" : {
+				"id" : 590
+			}
+		}
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:52:05.576Z",
+		"details" : "stimuluspause"
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:52:05.577Z",
+		"details" : "stimulus"
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:52:05.577Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4961
+			},
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:52:05.578Z",
+		"details" : {
+			"cue_id" : 4961,
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:52:05.579Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4976
+			},
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:52:05.579Z",
+		"details" : {
+			"evaluation" : "correctNonResponse",
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:52:05.580Z",
+		"details" : {
+			"cue_id" : 4976,
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:52:05.581Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4961
+			},
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:52:05.582Z",
+		"details" : {
+			"evaluation" : "incorrectNonResponse",
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:52:05.583Z",
+		"details" : {
+			"cue_id" : 4961,
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:52:05.584Z",
+		"details" : {
+			"score_event_id" : 871,
+			"channel" : "followword",
+			"dichotomy" : "potential"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:52:05.585Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4976
+			},
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:52:05.586Z",
+		"details" : {
+			"evaluation" : "correctNonResponse",
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:52:05.590Z",
+		"details" : {
+			"score_event_id" : 869,
+			"channel" : "followmeaning",
+			"dichotomy" : "actual"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:52:05.590Z",
+		"details" : {
+			"cue_id" : 4976,
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:52:05.591Z",
+		"details" : {
+			"score_event_id" : 869,
+			"channel" : "followmeaning",
+			"dichotomy" : "potential"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:52:05.591Z",
+		"details" : {
+			"evaluation" : "correctResponse",
+			"rule" : 590,
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:52:05.592Z",
+		"details" : "correct"
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:52:05.593Z",
+		"details" : {
+			"score_event_id" : 871,
+			"channel" : "followword",
+			"dichotomy" : "actual"
+		}
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:52:05.689Z",
+		"details" : "stimuluspause"
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:52:05.689Z",
+		"details" : "stimulus"
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:52:05.690Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5014
+			},
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:52:05.698Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4952
+			},
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:52:05.698Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5014
+			},
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:52:05.699Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4952
+			},
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:52:05.699Z",
+		"details" : "correct"
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:52:07.246Z",
+		"details" : {
+			"eventType" : "modeEvent",
+			"id" : 744,
+			"payLoad" : {
+				"type" : "start",
+				"modes" : [
+					"stimuluspause"
+				]
+			}
+		}
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:52:07.246Z",
+		"details" : {
+			"eventType" : "modeEvent",
+			"id" : 744,
+			"payLoad" : {
+				"type" : "end",
+				"modes" : [
+					"stimulus"
+				]
+			}
+		}
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:52:07.247Z",
+		"details" : {
+			"eventType" : "ruleEvent",
+			"id" : 744,
+			"payLoad" : {
+				"id" : 590
+			}
+		}
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:52:07.247Z",
+		"details" : "stimuluspause"
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:52:07.248Z",
+		"details" : "stimulus"
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:52:07.249Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5014
+			},
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:52:07.249Z",
+		"details" : {
+			"cue_id" : 5014,
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:52:07.250Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4952
+			},
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:52:07.250Z",
+		"details" : {
+			"evaluation" : "correctNonResponse",
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:52:07.251Z",
+		"details" : {
+			"cue_id" : 4952,
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:52:07.252Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5014
+			},
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:52:07.253Z",
+		"details" : {
+			"evaluation" : "incorrectNonResponse",
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:52:07.253Z",
+		"details" : {
+			"cue_id" : 5014,
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:52:07.255Z",
+		"details" : {
+			"score_event_id" : 871,
+			"channel" : "followword",
+			"dichotomy" : "potential"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:52:07.255Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4952
+			},
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:52:07.256Z",
+		"details" : {
+			"evaluation" : "correctNonResponse",
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:52:07.256Z",
+		"details" : {
+			"score_event_id" : 869,
+			"channel" : "followmeaning",
+			"dichotomy" : "actual"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:52:07.256Z",
+		"details" : {
+			"cue_id" : 4952,
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:52:07.258Z",
+		"details" : {
+			"score_event_id" : 869,
+			"channel" : "followmeaning",
+			"dichotomy" : "potential"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:52:07.259Z",
+		"details" : {
+			"evaluation" : "correctResponse",
+			"rule" : 590,
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:52:07.259Z",
+		"details" : "correct"
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:52:07.261Z",
+		"details" : {
+			"score_event_id" : 871,
+			"channel" : "followword",
+			"dichotomy" : "actual"
+		}
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:52:07.361Z",
+		"details" : "stimuluspause"
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:52:07.361Z",
+		"details" : "stimulus"
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:52:07.361Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4964
+			},
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:52:07.369Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4998
+			},
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:52:07.370Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4964
+			},
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:52:07.370Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4998
+			},
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:52:07.371Z",
+		"details" : "correct"
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:52:08.950Z",
+		"details" : {
+			"eventType" : "modeEvent",
+			"id" : 744,
+			"payLoad" : {
+				"type" : "start",
+				"modes" : [
+					"stimuluspause"
+				]
+			}
+		}
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:52:08.950Z",
+		"details" : {
+			"eventType" : "modeEvent",
+			"id" : 744,
+			"payLoad" : {
+				"type" : "end",
+				"modes" : [
+					"stimulus"
+				]
+			}
+		}
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:52:08.950Z",
+		"details" : {
+			"eventType" : "ruleEvent",
+			"id" : 744,
+			"payLoad" : {
+				"id" : 590
+			}
+		}
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:52:08.950Z",
+		"details" : "stimuluspause"
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:52:08.952Z",
+		"details" : "stimulus"
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:52:08.952Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4964
+			},
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:52:08.952Z",
+		"details" : {
+			"cue_id" : 4964,
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:52:08.953Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4998
+			},
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:52:08.954Z",
+		"details" : {
+			"evaluation" : "correctNonResponse",
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:52:08.954Z",
+		"details" : {
+			"cue_id" : 4998,
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:52:08.956Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4964
+			},
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:52:08.956Z",
+		"details" : {
+			"evaluation" : "incorrectNonResponse",
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:52:08.957Z",
+		"details" : {
+			"cue_id" : 4964,
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:52:08.961Z",
+		"details" : {
+			"score_event_id" : 871,
+			"channel" : "followword",
+			"dichotomy" : "potential"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:52:08.961Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4998
+			},
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:52:08.962Z",
+		"details" : {
+			"evaluation" : "correctNonResponse",
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:52:08.965Z",
+		"details" : {
+			"score_event_id" : 869,
+			"channel" : "followmeaning",
+			"dichotomy" : "actual"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:52:08.966Z",
+		"details" : {
+			"cue_id" : 4998,
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:52:08.967Z",
+		"details" : {
+			"score_event_id" : 869,
+			"channel" : "followmeaning",
+			"dichotomy" : "potential"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:52:08.968Z",
+		"details" : {
+			"evaluation" : "correctResponse",
+			"rule" : 590,
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:52:08.968Z",
+		"details" : "correct"
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:52:08.970Z",
+		"details" : {
+			"score_event_id" : 871,
+			"channel" : "followword",
+			"dichotomy" : "actual"
+		}
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:52:09.083Z",
+		"details" : "stimuluspause"
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:52:09.083Z",
+		"details" : "stimulus"
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:52:09.083Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4962
+			},
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:52:09.092Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4998
+			},
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:52:09.092Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4962
+			},
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:52:09.093Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4998
+			},
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:52:09.093Z",
+		"details" : "correct"
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:52:10.488Z",
+		"details" : {
+			"eventType" : "modeEvent",
+			"id" : 744,
+			"payLoad" : {
+				"type" : "start",
+				"modes" : [
+					"stimuluspause"
+				]
+			}
+		}
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:52:10.488Z",
+		"details" : {
+			"eventType" : "modeEvent",
+			"id" : 744,
+			"payLoad" : {
+				"type" : "end",
+				"modes" : [
+					"stimulus"
+				]
+			}
+		}
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:52:10.488Z",
+		"details" : {
+			"eventType" : "ruleEvent",
+			"id" : 744,
+			"payLoad" : {
+				"id" : 590
+			}
+		}
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:52:10.489Z",
+		"details" : "stimuluspause"
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:52:10.490Z",
+		"details" : "stimulus"
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:52:10.490Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4962
+			},
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:52:10.491Z",
+		"details" : {
+			"cue_id" : 4962,
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:52:10.491Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4998
+			},
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:52:10.492Z",
+		"details" : {
+			"evaluation" : "correctNonResponse",
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:52:10.493Z",
+		"details" : {
+			"cue_id" : 4998,
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:52:10.494Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4962
+			},
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:52:10.494Z",
+		"details" : {
+			"evaluation" : "incorrectNonResponse",
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:52:10.495Z",
+		"details" : {
+			"cue_id" : 4962,
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:52:10.496Z",
+		"details" : {
+			"score_event_id" : 871,
+			"channel" : "followword",
+			"dichotomy" : "potential"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:52:10.497Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4998
+			},
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:52:10.497Z",
+		"details" : {
+			"evaluation" : "correctNonResponse",
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:52:10.498Z",
+		"details" : {
+			"score_event_id" : 869,
+			"channel" : "followmeaning",
+			"dichotomy" : "actual"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:52:10.498Z",
+		"details" : {
+			"cue_id" : 4998,
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:52:10.499Z",
+		"details" : {
+			"score_event_id" : 869,
+			"channel" : "followmeaning",
+			"dichotomy" : "potential"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:52:10.500Z",
+		"details" : {
+			"evaluation" : "correctResponse",
+			"rule" : 590,
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:52:10.505Z",
+		"details" : "correct"
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:52:10.507Z",
+		"details" : {
+			"score_event_id" : 871,
+			"channel" : "followword",
+			"dichotomy" : "actual"
+		}
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:52:10.614Z",
+		"details" : "stimuluspause"
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:52:10.615Z",
+		"details" : "stimulus"
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:52:10.615Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4983
+			},
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:52:10.630Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4999
+			},
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:52:10.631Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4983
+			},
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:52:10.632Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4999
+			},
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:52:10.633Z",
+		"details" : "correct"
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:52:12.756Z",
+		"details" : {
+			"eventType" : "modeEvent",
+			"id" : 744,
+			"payLoad" : {
+				"type" : "start",
+				"modes" : [
+					"stimuluspause"
+				]
+			}
+		}
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:52:12.756Z",
+		"details" : {
+			"eventType" : "modeEvent",
+			"id" : 744,
+			"payLoad" : {
+				"type" : "end",
+				"modes" : [
+					"stimulus"
+				]
+			}
+		}
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:52:12.757Z",
+		"details" : {
+			"eventType" : "ruleEvent",
+			"id" : 744,
+			"payLoad" : {
+				"id" : 590
+			}
+		}
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:52:12.757Z",
+		"details" : "stimuluspause"
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:52:12.757Z",
+		"details" : "stimulus"
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:52:12.758Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4983
+			},
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:52:12.758Z",
+		"details" : {
+			"cue_id" : 4983,
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:52:12.759Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4999
+			},
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:52:12.759Z",
+		"details" : {
+			"evaluation" : "incorrectNonResponse",
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:52:12.759Z",
+		"details" : {
+			"cue_id" : 4999,
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:52:12.760Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4983
+			},
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:52:12.760Z",
+		"details" : {
+			"evaluation" : "correctNonResponse",
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:52:12.761Z",
+		"details" : {
+			"score_event_id" : 870,
+			"channel" : "followword",
+			"dichotomy" : "actual"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:52:12.761Z",
+		"details" : {
+			"cue_id" : 4983,
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:52:12.761Z",
+		"details" : {
+			"score_event_id" : 870,
+			"channel" : "followword",
+			"dichotomy" : "potential"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:52:12.762Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4999
+			},
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:52:12.762Z",
+		"details" : {
+			"evaluation" : "incorrectNonResponse",
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:52:12.762Z",
+		"details" : {
+			"cue_id" : 4999,
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:52:12.763Z",
+		"details" : {
+			"score_event_id" : 872,
+			"channel" : "followmeaning",
+			"dichotomy" : "potential"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:52:12.763Z",
+		"details" : {
+			"evaluation" : "incorrectResponse",
+			"rule" : {
+				"span" : false,
+				"random" : false,
+				"adaptationLevels" : [ ],
+				"criteria" : "!followword.matchesTag(followmeaning) || (followword.ordinalityValue() == followmeaning.ordinalityValue())",
+				"retryExempt" : false,
+				"id" : 590,
+				"channel" : "followword"
+			},
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:52:12.764Z",
+		"details" : "incorrect"
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:52:12.888Z",
+		"details" : "stimuluspause"
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:52:12.889Z",
+		"details" : "stimulus"
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:52:12.889Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5002
+			},
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:52:12.896Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4986
+			},
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:52:12.897Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5002
+			},
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:52:12.897Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4986
+			},
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:52:12.898Z",
+		"details" : "incorrect"
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:52:17.056Z",
+		"details" : {
+			"eventType" : "modeEvent",
+			"id" : 744,
+			"payLoad" : {
+				"type" : "start",
+				"modes" : [
+					"stimuluspause"
+				]
+			}
+		}
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:52:17.056Z",
+		"details" : {
+			"eventType" : "modeEvent",
+			"id" : 744,
+			"payLoad" : {
+				"type" : "end",
+				"modes" : [
+					"stimulus"
+				]
+			}
+		}
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:52:17.056Z",
+		"details" : {
+			"eventType" : "ruleEvent",
+			"id" : 744,
+			"payLoad" : {
+				"id" : 590
+			}
+		}
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:52:17.057Z",
+		"details" : "stimuluspause"
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:52:17.058Z",
+		"details" : "stimulus"
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:52:17.058Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5002
+			},
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:52:17.059Z",
+		"details" : {
+			"cue_id" : 5002,
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:52:17.060Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4986
+			},
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:52:17.061Z",
+		"details" : {
+			"evaluation" : "correctNonResponse",
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:52:17.061Z",
+		"details" : {
+			"cue_id" : 4986,
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:52:17.063Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5002
+			},
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:52:17.063Z",
+		"details" : {
+			"evaluation" : "incorrectNonResponse",
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:52:17.063Z",
+		"details" : {
+			"cue_id" : 5002,
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:52:17.064Z",
+		"details" : {
+			"score_event_id" : 871,
+			"channel" : "followword",
+			"dichotomy" : "potential"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:52:17.064Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4986
+			},
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:52:17.065Z",
+		"details" : {
+			"evaluation" : "correctNonResponse",
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:52:17.065Z",
+		"details" : {
+			"score_event_id" : 869,
+			"channel" : "followmeaning",
+			"dichotomy" : "actual"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:52:17.065Z",
+		"details" : {
+			"cue_id" : 4986,
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:52:17.066Z",
+		"details" : {
+			"score_event_id" : 869,
+			"channel" : "followmeaning",
+			"dichotomy" : "potential"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:52:17.066Z",
+		"details" : {
+			"evaluation" : "correctResponse",
+			"rule" : 590,
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:52:17.066Z",
+		"details" : "correct"
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:52:17.067Z",
+		"details" : {
+			"score_event_id" : 871,
+			"channel" : "followword",
+			"dichotomy" : "actual"
+		}
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:52:17.191Z",
+		"details" : "stimuluspause"
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:52:17.191Z",
+		"details" : "stimulus"
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:52:17.192Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5021
+			},
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:52:17.208Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5026
+			},
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:52:17.209Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5021
+			},
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:52:17.210Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5026
+			},
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:52:17.211Z",
+		"details" : "correct"
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:52:18.758Z",
+		"details" : {
+			"eventType" : "modeEvent",
+			"id" : 743,
+			"payLoad" : {
+				"type" : "end",
+				"modes" : [
+					"stimulus"
+				]
+			}
+		}
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:52:18.758Z",
+		"details" : {
+			"eventType" : "modeEvent",
+			"id" : 743,
+			"payLoad" : {
+				"type" : "start",
+				"modes" : [
+					"stimuluspause"
+				]
+			}
+		}
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:52:18.758Z",
+		"details" : {
+			"eventType" : "ruleEvent",
+			"id" : 743,
+			"payLoad" : {
+				"id" : 591
+			}
+		}
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:52:18.758Z",
+		"details" : "stimulus"
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:52:18.758Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5021
+			},
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:52:18.758Z",
+		"details" : {
+			"cue_id" : 5021,
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:52:18.759Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5026
+			},
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:52:18.759Z",
+		"details" : {
+			"evaluation" : "incorrectNonResponse",
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:52:18.760Z",
+		"details" : {
+			"cue_id" : 5026,
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:52:18.760Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5021
+			},
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:52:18.760Z",
+		"details" : {
+			"evaluation" : "correctNonResponse",
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:52:18.761Z",
+		"details" : {
+			"score_event_id" : 870,
+			"channel" : "followword",
+			"dichotomy" : "actual"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:52:18.761Z",
+		"details" : {
+			"cue_id" : 5021,
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:52:18.761Z",
+		"details" : {
+			"score_event_id" : 870,
+			"channel" : "followword",
+			"dichotomy" : "potential"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:52:18.762Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5026
+			},
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:52:18.762Z",
+		"details" : {
+			"evaluation" : "incorrectNonResponse",
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:52:18.762Z",
+		"details" : {
+			"cue_id" : 5026,
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:52:18.763Z",
+		"details" : {
+			"score_event_id" : 872,
+			"channel" : "followmeaning",
+			"dichotomy" : "potential"
+		}
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:52:18.763Z",
+		"details" : "stimuluspause"
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:52:18.764Z",
+		"details" : {
+			"evaluation" : "correctResponse",
+			"rule" : 591,
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:52:18.764Z",
+		"details" : "correct"
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:52:18.765Z",
+		"details" : {
+			"score_event_id" : 872,
+			"channel" : "followmeaning",
+			"dichotomy" : "actual"
+		}
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:52:18.884Z",
+		"details" : "stimuluspause"
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:52:18.884Z",
+		"details" : "stimulus"
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:52:18.885Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4995
+			},
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:52:18.890Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5012
+			},
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:52:18.891Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4995
+			},
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:52:18.892Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5012
+			},
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:52:18.893Z",
+		"details" : "correct"
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:52:20.149Z",
+		"details" : {
+			"eventType" : "modeEvent",
+			"id" : 743,
+			"payLoad" : {
+				"type" : "end",
+				"modes" : [
+					"stimulus"
+				]
+			}
+		}
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:52:20.150Z",
+		"details" : {
+			"eventType" : "modeEvent",
+			"id" : 743,
+			"payLoad" : {
+				"type" : "start",
+				"modes" : [
+					"stimuluspause"
+				]
+			}
+		}
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:52:20.150Z",
+		"details" : {
+			"eventType" : "ruleEvent",
+			"id" : 743,
+			"payLoad" : {
+				"id" : 591
+			}
+		}
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:52:20.150Z",
+		"details" : "stimulus"
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:52:20.150Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4995
+			},
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:52:20.150Z",
+		"details" : {
+			"cue_id" : 4995,
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:52:20.151Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5012
+			},
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:52:20.151Z",
+		"details" : {
+			"evaluation" : "incorrectNonResponse",
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:52:20.151Z",
+		"details" : {
+			"cue_id" : 5012,
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:52:20.152Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4995
+			},
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:52:20.152Z",
+		"details" : {
+			"evaluation" : "correctNonResponse",
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:52:20.153Z",
+		"details" : {
+			"score_event_id" : 870,
+			"channel" : "followword",
+			"dichotomy" : "actual"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:52:20.153Z",
+		"details" : {
+			"cue_id" : 4995,
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:52:20.153Z",
+		"details" : {
+			"score_event_id" : 870,
+			"channel" : "followword",
+			"dichotomy" : "potential"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:52:20.153Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5012
+			},
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:52:20.154Z",
+		"details" : {
+			"evaluation" : "incorrectNonResponse",
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:52:20.154Z",
+		"details" : {
+			"cue_id" : 5012,
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:52:20.155Z",
+		"details" : {
+			"score_event_id" : 872,
+			"channel" : "followmeaning",
+			"dichotomy" : "potential"
+		}
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:52:20.155Z",
+		"details" : "stimuluspause"
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:52:20.156Z",
+		"details" : {
+			"evaluation" : "correctResponse",
+			"rule" : 591,
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:52:20.156Z",
+		"details" : "correct"
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:52:20.157Z",
+		"details" : {
+			"score_event_id" : 872,
+			"channel" : "followmeaning",
+			"dichotomy" : "actual"
+		}
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:52:20.274Z",
+		"details" : "stimuluspause"
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:52:20.275Z",
+		"details" : "stimulus"
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:52:20.275Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5005
+			},
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:52:20.281Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4954
+			},
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:52:20.282Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5005
+			},
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:52:20.282Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4954
+			},
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:52:20.283Z",
+		"details" : "correct"
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:52:21.298Z",
+		"details" : {
+			"eventType" : "modeEvent",
+			"id" : 743,
+			"payLoad" : {
+				"type" : "end",
+				"modes" : [
+					"stimulus"
+				]
+			}
+		}
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:52:21.298Z",
+		"details" : {
+			"eventType" : "modeEvent",
+			"id" : 743,
+			"payLoad" : {
+				"type" : "start",
+				"modes" : [
+					"stimuluspause"
+				]
+			}
+		}
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:52:21.298Z",
+		"details" : {
+			"eventType" : "ruleEvent",
+			"id" : 743,
+			"payLoad" : {
+				"id" : 591
+			}
+		}
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:52:21.299Z",
+		"details" : "stimulus"
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:52:21.299Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5005
+			},
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:52:21.300Z",
+		"details" : {
+			"cue_id" : 5005,
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:52:21.301Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4954
+			},
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:52:21.301Z",
+		"details" : {
+			"evaluation" : "incorrectNonResponse",
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:52:21.302Z",
+		"details" : {
+			"cue_id" : 4954,
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:52:21.303Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5005
+			},
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:52:21.303Z",
+		"details" : {
+			"evaluation" : "correctNonResponse",
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:52:21.304Z",
+		"details" : {
+			"score_event_id" : 870,
+			"channel" : "followword",
+			"dichotomy" : "actual"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:52:21.304Z",
+		"details" : {
+			"cue_id" : 5005,
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:52:21.305Z",
+		"details" : {
+			"score_event_id" : 870,
+			"channel" : "followword",
+			"dichotomy" : "potential"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:52:21.306Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4954
+			},
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:52:21.306Z",
+		"details" : {
+			"evaluation" : "incorrectNonResponse",
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:52:21.307Z",
+		"details" : {
+			"cue_id" : 4954,
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:52:21.308Z",
+		"details" : {
+			"score_event_id" : 872,
+			"channel" : "followmeaning",
+			"dichotomy" : "potential"
+		}
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:52:21.308Z",
+		"details" : "stimuluspause"
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:52:21.310Z",
+		"details" : {
+			"evaluation" : "correctResponse",
+			"rule" : 591,
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:52:21.311Z",
+		"details" : "correct"
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:52:21.312Z",
+		"details" : {
+			"score_event_id" : 872,
+			"channel" : "followmeaning",
+			"dichotomy" : "actual"
+		}
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:52:21.427Z",
+		"details" : "stimuluspause"
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:52:21.428Z",
+		"details" : "stimulus"
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:52:21.428Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4967
+			},
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:52:21.432Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4968
+			},
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:52:21.433Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4967
+			},
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:52:21.433Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4968
+			},
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:52:21.433Z",
+		"details" : "correct"
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:52:22.966Z",
+		"details" : {
+			"eventType" : "modeEvent",
+			"id" : 743,
+			"payLoad" : {
+				"type" : "end",
+				"modes" : [
+					"stimulus"
+				]
+			}
+		}
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:52:22.966Z",
+		"details" : {
+			"eventType" : "modeEvent",
+			"id" : 743,
+			"payLoad" : {
+				"type" : "start",
+				"modes" : [
+					"stimuluspause"
+				]
+			}
+		}
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:52:22.966Z",
+		"details" : {
+			"eventType" : "ruleEvent",
+			"id" : 743,
+			"payLoad" : {
+				"id" : 591
+			}
+		}
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:52:22.966Z",
+		"details" : "stimulus"
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:52:22.966Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4967
+			},
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:52:22.967Z",
+		"details" : {
+			"cue_id" : 4967,
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:52:22.967Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4968
+			},
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:52:22.968Z",
+		"details" : {
+			"evaluation" : "incorrectNonResponse",
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:52:22.968Z",
+		"details" : {
+			"cue_id" : 4968,
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:52:22.969Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4967
+			},
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:52:22.969Z",
+		"details" : {
+			"evaluation" : "correctNonResponse",
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:52:22.969Z",
+		"details" : {
+			"score_event_id" : 870,
+			"channel" : "followword",
+			"dichotomy" : "actual"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:52:22.969Z",
+		"details" : {
+			"cue_id" : 4967,
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:52:22.970Z",
+		"details" : {
+			"score_event_id" : 870,
+			"channel" : "followword",
+			"dichotomy" : "potential"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:52:22.970Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4968
+			},
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:52:22.970Z",
+		"details" : {
+			"evaluation" : "incorrectNonResponse",
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:52:22.970Z",
+		"details" : {
+			"cue_id" : 4968,
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:52:22.971Z",
+		"details" : {
+			"score_event_id" : 872,
+			"channel" : "followmeaning",
+			"dichotomy" : "potential"
+		}
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:52:22.971Z",
+		"details" : "stimuluspause"
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:52:22.972Z",
+		"details" : {
+			"evaluation" : "correctResponse",
+			"rule" : 591,
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:52:22.972Z",
+		"details" : "correct"
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:52:22.973Z",
+		"details" : {
+			"score_event_id" : 872,
+			"channel" : "followmeaning",
+			"dichotomy" : "actual"
+		}
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:52:23.084Z",
+		"details" : "stimuluspause"
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:52:23.084Z",
+		"details" : "stimulus"
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:52:23.084Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4950
+			},
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:52:23.088Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4948
+			},
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:52:23.088Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4950
+			},
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:52:23.089Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4948
+			},
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:52:23.089Z",
+		"details" : "correct"
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:52:24.390Z",
+		"details" : {
+			"eventType" : "modeEvent",
+			"id" : 743,
+			"payLoad" : {
+				"type" : "end",
+				"modes" : [
+					"stimulus"
+				]
+			}
+		}
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:52:24.390Z",
+		"details" : {
+			"eventType" : "modeEvent",
+			"id" : 743,
+			"payLoad" : {
+				"type" : "start",
+				"modes" : [
+					"stimuluspause"
+				]
+			}
+		}
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:52:24.390Z",
+		"details" : {
+			"eventType" : "ruleEvent",
+			"id" : 743,
+			"payLoad" : {
+				"id" : 591
+			}
+		}
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:52:24.390Z",
+		"details" : "stimulus"
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:52:24.390Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4950
+			},
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:52:24.391Z",
+		"details" : {
+			"cue_id" : 4950,
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:52:24.391Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4948
+			},
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:52:24.392Z",
+		"details" : {
+			"evaluation" : "incorrectNonResponse",
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:52:24.392Z",
+		"details" : {
+			"cue_id" : 4948,
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:52:24.392Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4950
+			},
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:52:24.393Z",
+		"details" : {
+			"evaluation" : "correctNonResponse",
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:52:24.393Z",
+		"details" : {
+			"score_event_id" : 870,
+			"channel" : "followword",
+			"dichotomy" : "actual"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:52:24.393Z",
+		"details" : {
+			"cue_id" : 4950,
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:52:24.394Z",
+		"details" : {
+			"score_event_id" : 870,
+			"channel" : "followword",
+			"dichotomy" : "potential"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:52:24.394Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4948
+			},
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:52:24.394Z",
+		"details" : {
+			"evaluation" : "incorrectNonResponse",
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:52:24.394Z",
+		"details" : {
+			"cue_id" : 4948,
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:52:24.395Z",
+		"details" : {
+			"score_event_id" : 872,
+			"channel" : "followmeaning",
+			"dichotomy" : "potential"
+		}
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:52:24.395Z",
+		"details" : "stimuluspause"
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:52:24.396Z",
+		"details" : {
+			"evaluation" : "correctResponse",
+			"rule" : 591,
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:52:24.396Z",
+		"details" : "correct"
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:52:24.397Z",
+		"details" : {
+			"score_event_id" : 872,
+			"channel" : "followmeaning",
+			"dichotomy" : "actual"
+		}
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:52:24.502Z",
+		"details" : "stimuluspause"
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:52:24.502Z",
+		"details" : "stimulus"
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:52:24.502Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4993
+			},
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:52:24.511Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5032
+			},
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:52:24.511Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4993
+			},
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:52:24.511Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5032
+			},
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:52:24.512Z",
+		"details" : "correct"
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:52:26.237Z",
+		"details" : {
+			"eventType" : "modeEvent",
+			"id" : 744,
+			"payLoad" : {
+				"type" : "start",
+				"modes" : [
+					"stimuluspause"
+				]
+			}
+		}
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:52:26.239Z",
+		"details" : {
+			"eventType" : "modeEvent",
+			"id" : 744,
+			"payLoad" : {
+				"type" : "end",
+				"modes" : [
+					"stimulus"
+				]
+			}
+		}
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:52:26.239Z",
+		"details" : {
+			"eventType" : "ruleEvent",
+			"id" : 744,
+			"payLoad" : {
+				"id" : 590
+			}
+		}
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:52:26.239Z",
+		"details" : "stimuluspause"
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:52:26.241Z",
+		"details" : "stimulus"
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:52:26.242Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4993
+			},
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:52:26.242Z",
+		"details" : {
+			"cue_id" : 4993,
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:52:26.242Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5032
+			},
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:52:26.243Z",
+		"details" : {
+			"evaluation" : "correctNonResponse",
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:52:26.243Z",
+		"details" : {
+			"cue_id" : 5032,
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:52:26.244Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4993
+			},
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:52:26.244Z",
+		"details" : {
+			"evaluation" : "incorrectNonResponse",
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:52:26.245Z",
+		"details" : {
+			"cue_id" : 4993,
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:52:26.245Z",
+		"details" : {
+			"score_event_id" : 871,
+			"channel" : "followword",
+			"dichotomy" : "potential"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:52:26.245Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5032
+			},
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:52:26.246Z",
+		"details" : {
+			"evaluation" : "correctNonResponse",
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:52:26.246Z",
+		"details" : {
+			"score_event_id" : 869,
+			"channel" : "followmeaning",
+			"dichotomy" : "actual"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:52:26.246Z",
+		"details" : {
+			"cue_id" : 5032,
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:52:26.247Z",
+		"details" : {
+			"score_event_id" : 869,
+			"channel" : "followmeaning",
+			"dichotomy" : "potential"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:52:26.247Z",
+		"details" : {
+			"evaluation" : "correctResponse",
+			"rule" : 590,
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:52:26.248Z",
+		"details" : "correct"
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:52:26.252Z",
+		"details" : {
+			"score_event_id" : 871,
+			"channel" : "followword",
+			"dichotomy" : "actual"
+		}
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:52:26.364Z",
+		"details" : "stimuluspause"
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:52:26.364Z",
+		"details" : "stimulus"
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:52:26.364Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4948
+			},
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:52:26.374Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5023
+			},
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:52:26.374Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4948
+			},
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:52:26.375Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5023
+			},
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:52:26.375Z",
+		"details" : "correct"
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:52:28.056Z",
+		"details" : {
+			"eventType" : "modeEvent",
+			"id" : 744,
+			"payLoad" : {
+				"type" : "start",
+				"modes" : [
+					"stimuluspause"
+				]
+			}
+		}
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:52:28.056Z",
+		"details" : {
+			"eventType" : "modeEvent",
+			"id" : 744,
+			"payLoad" : {
+				"type" : "end",
+				"modes" : [
+					"stimulus"
+				]
+			}
+		}
+	},
+	{
+		"action" : "button_press",
+		"timestamp" : "2014-06-24T02:52:28.056Z",
+		"details" : {
+			"eventType" : "ruleEvent",
+			"id" : 744,
+			"payLoad" : {
+				"id" : 590
+			}
+		}
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:52:28.056Z",
+		"details" : "stimuluspause"
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:52:28.057Z",
+		"details" : "stimulus"
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:52:28.057Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4948
+			},
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:52:28.058Z",
+		"details" : {
+			"cue_id" : 4948,
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:52:28.058Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5023
+			},
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:52:28.059Z",
+		"details" : {
+			"evaluation" : "correctNonResponse",
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:52:28.059Z",
+		"details" : {
+			"cue_id" : 5023,
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:52:28.060Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4948
+			},
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:52:28.060Z",
+		"details" : {
+			"evaluation" : "incorrectNonResponse",
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:52:28.061Z",
+		"details" : {
+			"cue_id" : 4948,
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:52:28.061Z",
+		"details" : {
+			"score_event_id" : 871,
+			"channel" : "followword",
+			"dichotomy" : "potential"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:52:28.061Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 5023
+			},
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:52:28.062Z",
+		"details" : {
+			"evaluation" : "correctNonResponse",
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:52:28.062Z",
+		"details" : {
+			"score_event_id" : 869,
+			"channel" : "followmeaning",
+			"dichotomy" : "actual"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:52:28.063Z",
+		"details" : {
+			"cue_id" : 5023,
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:52:28.064Z",
+		"details" : {
+			"score_event_id" : 869,
+			"channel" : "followmeaning",
+			"dichotomy" : "potential"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:52:28.065Z",
+		"details" : {
+			"evaluation" : "correctResponse",
+			"rule" : 590,
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:52:28.065Z",
+		"details" : "correct"
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:52:28.068Z",
+		"details" : {
+			"score_event_id" : 871,
+			"channel" : "followword",
+			"dichotomy" : "actual"
+		}
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:52:28.176Z",
+		"details" : "stimuluspause"
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:52:28.176Z",
+		"details" : "stimulus"
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:52:28.178Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4985
+			},
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:52:28.187Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4974
+			},
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:52:28.188Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4985
+			},
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "show_cue",
+		"timestamp" : "2014-06-24T02:52:28.188Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4974
+			},
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:52:28.189Z",
+		"details" : "correct"
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:52:28.473Z",
+		"details" : "timer"
+	},
+	{
+		"action" : "end_mode",
+		"timestamp" : "2014-06-24T02:52:28.474Z",
+		"details" : "stimulus"
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:52:28.475Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4985
+			},
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:52:28.475Z",
+		"details" : {
+			"cue_id" : 4985,
+			"channel" : "word"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:52:28.476Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4974
+			},
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:52:28.478Z",
+		"details" : {
+			"evaluation" : "correctNonResponse",
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:52:28.478Z",
+		"details" : {
+			"cue_id" : 4974,
+			"channel" : "meaning"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:52:28.480Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4985
+			},
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:52:28.480Z",
+		"details" : {
+			"evaluation" : "incorrectNonResponse",
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:52:28.481Z",
+		"details" : {
+			"cue_id" : 4985,
+			"channel" : "followword"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:52:28.482Z",
+		"details" : {
+			"score_event_id" : 871,
+			"channel" : "followword",
+			"dichotomy" : "potential"
+		}
+	},
+	{
+		"action" : "hide_cue",
+		"timestamp" : "2014-06-24T02:52:28.482Z",
+		"details" : {
+			"cue" : {
+				"y" : 0,
+				"x" : 0,
+				"id" : 4974
+			},
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "rule_evaluation",
+		"timestamp" : "2014-06-24T02:52:28.483Z",
+		"details" : {
+			"evaluation" : "correctNonResponse",
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:52:28.483Z",
+		"details" : {
+			"score_event_id" : 869,
+			"channel" : "followmeaning",
+			"dichotomy" : "actual"
+		}
+	},
+	{
+		"action" : "store_cue_for_span",
+		"timestamp" : "2014-06-24T02:52:28.483Z",
+		"details" : {
+			"cue_id" : 4974,
+			"channel" : "followmeaning"
+		}
+	},
+	{
+		"action" : "score_event_tracking",
+		"timestamp" : "2014-06-24T02:52:28.484Z",
+		"details" : {
+			"score_event_id" : 869,
+			"channel" : "followmeaning",
+			"dichotomy" : "potential"
+		}
+	},
+	{
+		"action" : "start_mode",
+		"timestamp" : "2014-06-24T02:52:28.485Z",
+		"details" : "gameOver"
+	}
+]
+}
