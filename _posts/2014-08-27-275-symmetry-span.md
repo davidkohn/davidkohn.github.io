@@ -43,6 +43,7 @@ json1: /assets/json-275.txt
 <li>A span component. A picture of an animal is displayed alongside each symmetry question. After all stimuli have been presented the user is asked to recall the order they were presented in.</li>
 <ul>
 <li>This component has weight 5.0 per stimuli.</li>
+<li>The span cue pool contains 8 different pictures of animals.<li>
 </ul>
 </ul>
 <li>Cues for both the span and symmetry components are selected randomly with replacement.</li>
