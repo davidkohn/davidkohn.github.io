@@ -31,8 +31,8 @@ json1: /assets/json-350.txt
 ## How the game works
 <p>
 <ul>
-<li>Spatial and audio update/duration of 120 frames, but lasts 80%.</li>
-<li>Distraction updates at 150 frames.</li>
+<li>Spatial and audio update/duration of 120 frames or 2.4 seconds, but lasts 80%or 1.92 seconds/1920 milliseconds.</li>
+<li>Distraction updates at 150 frames/3 seconds.</li>
 <li>16 stimuli displayed at level 1. 1 stimuli added every level after 1.</li>
 <li>Correct responses for spatial and auditory have weight 2.0.</li>
 <li>Correct responses for distraction have weight 1.0.</li>
