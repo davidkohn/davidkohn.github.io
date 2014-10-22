@@ -33,9 +33,9 @@ json1: /assets/json-297.txt
 <ul>
 <li>A set of instructions are displayed at the start of the game telling the user what the rule for the level is.</li>
 <li>The game runs for 1 min. 30 stimuli are displayed for 2 seconds each.</li>
-<li>For every level after level 1 an additional stimulus is displayed.Additionally, each stimuli is displayed for 1/25 of a second less for each level. For example 31 stimuli will be displayed on level 2, the game will last 0.98 * 2 seconds * 31 stimuli or aproximately 61 seconds. On level 3, 32 stimuli will be displayed each will be displayed for 4 frames less. The game will last 0.94 * 2 seconds * 32 or approximately 60 seconds. On level 4, 33 stimuli will be displayed for 6 frames less so the game will last 0.92 * 2 seconds * 33 or approximately 61 seconds. </li>
+<li>For every level after level 1 an additional stimulus is displayed. Additionally, each stimuli is displayed for 40 milliseconds less for each level. For example 31 stimuli will be displayed on level 2, the game will last (2000 - 40) milliseconds * 31 stimuli or 60760 milliseconds. On level 3, 32 stimuli will be displayed each will be displayed for 80 milliseconds less. The game will last (2000 - 80) milliseconds * 32 or  61440 milliseconds. On level 4, 33 stimuli will be displayed so the game will last (2000 - 120) milliseconds * 33 or 62040 milliseconds. </li>
 <li>The game displays stimuli which are a set of numbers that depend on the cue pool of a given level. The user must press a button is the relationship between the current number and numbers previously displayed matches the rule given at the beginning of the level.</li>
-<li>A correct response has weight 1.0. If the relationship between the numbers did not match the rule and the user did not press anything this is counted as a correct non-response which also has weight 1.0. An incorrect response or an incorrect non-response also have wiehgt 1.0</li>
+<li>A correct response has weight 1.0. If the relationship between the numbers did not match the rule and the user did not press anything this is counted as a correct non-response which also has weight 1.0. An incorrect response or an incorrect non-response also have weight 1.0</li>
 </ul>
 </p>
 
